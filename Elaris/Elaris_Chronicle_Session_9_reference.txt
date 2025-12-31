@@ -1,1 +1,349 @@
+=======================================================================
+ELARIS CHRONICLE – SESSION IX – "THREADS AT THE MARGIN"
+=======================================================================
+
+TIMEFRAME
+-----------------------------------------------------------------------
+Day 7–8 in Varengate, early morning Day 7 through early afternoon
+Day 8.
+
+Approximate clock:
+- Day 7 ~07:00–12:00 – Anchorfall, Grayharp, Kessa search,
+  Scriptorium Terrace with Mara.
+- Day 7 ~12:00–23:00 – Harn training, supper, study, courier book,
+  trance.
+- Day 8 ~04:00–08:30 – Hearth with Rill, paladin talk, bakery work.
+- Day 8 ~08:30–13:30 – Hall contracts, Tidewarden relay, return to
+  Anchorfall, Mara’s follow-up note.
+
+WEATHER / ATMOSPHERE
+-----------------------------------------------------------------------
+Cold, clear winter air across both days. Harborfront carries sharp
+brine and fish scents, while upper tiers remain dry and crisp.
+Skies stay mostly clear; no storms, no fog. Streets are lively but
+not frantic – the city feels alert, not yet strained.
+
+LOCATIONS
+-----------------------------------------------------------------------
+- Anchorfall Inn (common room, private room)
+- Grayharp Market (stalls, Kessa’s usual route)
+- Kessa’s loft building and alley
+- Scriptorium Terrace (west buttress pocket)
+- Frostmere Row and Rella’s bakery
+- Contract Hall
+- Ropeworks Lane and checkpoint
+- Tidewarden Station B (Mid-Tier)
+- Tidewarden Station C (Harborfront)
+- Harborfront broker’s ring
+- Mid-Tier tax office
+
+SESSION SUMMARY (HIGH LEVEL)
+-----------------------------------------------------------------------
+- Confirmed Kessa’s unexplained absence; initial investigation
+  found a likely stopping point but no clear trail.
+- Met Mara Rhensyr discreetly; agreed to observe anomalies without
+  further reports to Aleron until more is understood.
+- Advanced lock training with Harn and personal study; continued
+  work with the mysterious book.
+- Deepened rapport with Rill via hearth magic and paladin
+  philosophy; reinforced ties with Rella, Torven, and others.
+- Completed multiple small contracts (escort, runners, relay) and
+  earned recognition from Tidewarden Station B as a reliable hand.
+- Received Mara’s formal follow-up message, setting a private
+  meeting for mid-afternoon Day 8.
+
+DETAILED CONTINUITY – SCENE BY SCENE
+-----------------------------------------------------------------------
+Scene 1 – Morning at Anchorfall (Day 7)
+-----------------------------------------------------------------------
+- Borian collects his cleaned practical clothes from Torven,
+  changing out of the finer outfit worn the day before into warm,
+  durable garments better suited to daily work.
+- Over breakfast and coffee, Borian and Torven talk about work:
+  the Hall’s small contracts pay too little, and Borian wants more
+  substantial, discreet engagements.
+- Torven notes that word is spreading about “the elf who handles
+  trouble,” hinting at a growing reputation around the harbor and
+  Grayharp tiers.
+
+Scene 2 – Grayharp and Kessa’s Absence (Day 7)
+-----------------------------------------------------------------------
+- Borian heads to Grayharp to visit Kessa and repay a favor.
+- The fishmonger recognizes him on sight and reports that Kessa
+  never arrived at the market and never hung her loft lantern last
+  night – behavior everyone agrees is unlike her.
+- At Kessa’s building, a neighbor confirms she did not return. The
+  door is locked; windows and rear access show no obvious signs of
+  forced entry.
+- Borian checks the alley and calls her name from behind the
+  building. Low investigation and perception rolls reveal no clear
+  disturbance, making it impossible to determine what happened at
+  the loft itself.
+- Back at Grayharp, Borian talks with Larynn and others to piece
+  together Kessa’s last known route. A later, more focused pass
+  identifies a likely point along her walk where she seems to have
+  stopped or vanished.
+- A failed follow-up investigation roll leaves the direction and
+  cause unknown. The market is worried but has not filed a formal
+  contract. The matter remains unresolved.
+
+Scene 3 – Return to Anchorfall and Reputation Talk (Day 7)
+-----------------------------------------------------------------------
+- Borian returns to Anchorfall and tells Torven that Kessa appears
+  to be missing and that his initial search reached a dead end.
+- They talk about the way Borian’s name is circulating: useful for
+  finding work, but a liability for anyone who needs to move
+  quietly. Borian recognizes that a public reputation and discreet
+  work may soon come into tension.
+- Borian expresses frustration with piecemeal jobs and the desire
+  for contracts that matter more than a handful of coins.
+
+Scene 4 – Scriptorium Terrace and Mara Rhensyr (Day 7)
+-----------------------------------------------------------------------
+- Borian receives word, via Torven, that a civic official wishes to
+  speak with him about the anomalies he has been encountering.
+- At Scriptorium Terrace, Borian arrives early, studies the space,
+  and identifies a small pocket near the west buttress that offers
+  privacy from casual observation while remaining reachable to
+  anyone searching for him.
+- A perception check (15+2) confirms no watchers at elevation and
+  no obvious ambush. The terrace is active but not tense.
+- Mara Rhensyr arrives, professional and controlled. Borian lets
+  her confirm him at a distance before stepping with her into the
+  chosen pocket.
+- Borian recounts the anomalies he has personally witnessed:
+  residues and trails at the western granary; the frost-kiln seam
+  and moving cold shadow; the void space in Shed Two; the Joren
+  rescue and its understructure context; Cooper’s Run.
+- He makes clear that all of this was already reported to Harbor
+  Warden Aleron Vale, who had asked Borian to review maps and mark
+  anomaly sites.
+- An insight check (19+2) reads Mara as genuinely worried about the
+  city rather than self-serving. She is not fully forthcoming but
+  is not lying to Borian.
+- Mara asks Borian to continue observing anomalies but not to
+  report further findings to Aleron until she can compare her own
+  information with his actions. She wants an independent line of
+  sight.
+- Borian agrees in principle, requesting a day to think and for
+  her to find a more private time and place for a deeper brief. He
+  notes privately that Aleron’s unpaid debt gives him an honest
+  pretext to step back from further unpaid work.
+- Mara promises to send word to Anchorfall once she is ready to
+  meet again and slips away without drawing attention.
+
+Scene 5 – Lodging, Harn’s Training, and Evening Study (Day 7)
+-----------------------------------------------------------------------
+- Back at Anchorfall, Borian and Torven address lodging. Given
+  gaps in prior ledger detail, Borian chooses a clean settlement:
+  he pays 16 sp to cover two nights and clear any question of debt.
+- Borian then visits Harn the locksmith to move beyond theory and
+  into practice. He explains that he has read the book and worked
+  his own locks but lacks the “feel” of real tools.
+- Harn brings out a selection of picks and locks, guiding Borian
+  through tension, pin feedback, and typical failure points.
+- This extended afternoon session counts as a major step in
+  Borian’s lock-training track (Training Scene 4).
+- After supper at Anchorfall, Borian spends additional time in his
+  room:
+  - practicing on his three purchased locks,
+  - revisiting key passages in the lockwork compendium,
+  - and then studying the mysterious book left by the courier.
+- A handwriting comparison check (9–1) fails to match the margin
+  notes to any writing he has seen in Varengate.
+- He reads until around 23:00, then enters a four-hour trance.
+
+Scene 6 – Hearthfire and Paladin Talk with Rill (Day 8)
+-----------------------------------------------------------------------
+- Pre-dawn on Day 8, Borian wakes from trance and heads down to
+  the common room. Rill is there, having slept by the hearth to
+  tend the morning fire.
+- Borian invites Rill to join him in kindling the fire, using
+  Prestidigitation to ignite the prepared logs. Rill is quietly
+  delighted, and Borian plays along, letting Rill take some credit
+  for the early blaze.
+- They sit together, and Borian explains what a paladin is: a
+  person whose oath and devotion bend the world around them, not
+  merely a “holy warrior.”
+- Borian shares, in guarded terms, the story of his past command,
+  the accident that killed many of his men, and the loss that led
+  him to swear his oath in service to the Verdant Balance.
+- The conversation turns to choice, courage, and the difference
+  between knowing the right thing and acting on it. Borian frames
+  right action as a practice built on many small decisions, not a
+  single heroic moment.
+- This talk deepens Rill’s understanding of Borian and nudges him
+  toward seeing himself as someone whose choices matter.
+
+Scene 7 – Baker’s Bench and Bread Shared (Day 8)
+-----------------------------------------------------------------------
+- Later that morning, Borian visits Rella’s bakery on Frostmere
+  Row. Already aware of his skill from Session VIII, she allows him
+  to step back into the rhythm of dough work.
+- Borian shapes and works multiple batches, using practiced
+  motions and professional technique. The interaction is one of
+  colleagues, not master and novice.
+- When the work allows, he takes a fresh piece of bread and brings
+  it back to Anchorfall, breaking it into thirds for Torven, Rill,
+  and himself.
+- This shared bread reinforces Borian’s role as a quiet contributor
+  to the inn’s household and ties his past life as “chef” into his
+  present place in Varengate.
+
+Scene 8 – Hall Contracts and Field Work (Day 8)
+-----------------------------------------------------------------------
+- Borian returns to the Contract Hall and reviews the day’s board.
+  The postings are mostly small, routine work.
+- He selects a spice-cart escort for Rylen Fedro, providing right-
+  flank protection on the route from Grayharp to the Mid-Tier
+  Gate. A perception check (13+2 used earlier) confirms that the
+  path is clear. Notably, the usual pickpocket cluster at a
+  switchback is absent – unusual, but not overtly dangerous.
+- Rylen pays the agreed 5 sp and remarks that he would hire Borian
+  again.
+- Borian then takes a runner job delivering assessment records
+  from the Hall to Tidewarden Station C, completes the delivery,
+  and returns for 3 sp payment.
+- On Frostmere Row, he fulfills a lamp-recovery posting by
+  retrieving Harl Kien’s fallen lantern from a runoff channel and
+  returning it for 2 sp.
+- A separate courier job follows: Borian picks up a sealed ledger
+  from a Harborfront broker’s stall and transports it to the Mid-
+  Tier tax office, earning 2 sp upon confirmation.
+
+Scene 9 – Tidewarden Station B Relay and Return (Day 8)
+-----------------------------------------------------------------------
+- Seeking better work than Hall scraps, Borian goes directly to
+  Tidewarden Station B and asks the desk sergeant about available
+  tasks.
+- The sergeant, short on personnel, offers internal assignments.
+  Borian accepts a relay job carrying sealed packets between
+  Station B, Station C, and the Ropeworks checkpoint.
+- Borian delivers the blue-cord packet to Station C (Records), the
+  green-cord packet to the Ropeworks checkpoint, and finally
+  returns the red-cord packet to Station B.
+- The sergeant pays 5 sp and notes that Borian “works clean,”
+  marking him informally as a trusted external runner for future
+  needs.
+
+Scene 10 – Mara’s Note and Session Close (Day 8)
+-----------------------------------------------------------------------
+- Returning to Anchorfall near midday, Borian checks the message
+  counter and finds a folded note held beneath a river stone.
+- In his room, he opens it privately. The handwriting is Mara
+  Rhensyr’s: precise and professional.
+- The note reads "Meeting confirmed. Mid-afternoon. Scriptorium
+  Terrace, west buttress. Same discretion as before. Come alone."
+- Session IX ends with Borian in his room at Anchorfall, note in
+  hand, and the afternoon meeting ahead.
+
+ALLIES / RELATIONSHIPS CHANGES
+-----------------------------------------------------------------------
+- Torven: Deepening practical trust; Borian settles lodging
+  cleanly and continues to help without drama.
+- Rill: Relationship shifts toward quiet mentorship; Rill now sees
+  Borian as a moral and magical example.
+- Rella (baker): Positive; sees Borian as a capable pair of hands
+  and not just a passerby.
+- Harn (locksmith): Developing professional respect; ongoing
+  training relationship.
+- Harl Kien (rope stall): Positive; grateful for lantern recovery.
+- Rylen Fedro (spice broker): Professional; would reasonably seek
+  Borian again for future escorts.
+- Mara Rhensyr: New, cautious alliance; shared concern over
+  anomalies, with a request for discretion.
+- Tidewarden Station B sergeant: Positive; sees Borian as a clean,
+  reliable outside operative.
+
+ITEMS / CONTRACTS CHANGES
+-----------------------------------------------------------------------
+- Items:
+  - No major new items gained or lost this session.
+  - Practice locks, lockwork compendium, and mysterious book remain
+    in Borian’s possession.
+- Contracts Completed:
+  - Spice cart escort (Rylen Fedro) – completed, paid.
+  - Assessment packet runner (Hall to Station C) – completed, paid.
+  - Lamp recovery (Harl Kien’s lantern) – completed, paid.
+  - Harborfront ledger courier (broker to tax office) – completed,
+    paid.
+  - Tidewarden internal relay (Station B circuit) – completed,
+    paid.
+- Contracts Ongoing:
+  - Granary understructure disturbances (Hall).
+  - Unofficial anomaly observations for Aleron Vale.
+  - Mara Rhensyr anomaly briefing – follow-up meeting scheduled.
+- Not Formalized (but active as a thread):
+  - Kessa’s disappearance – no contract opened, but concern and
+    partial investigation established.
+
+HIDDEN DM THREADS (NOT FOR CODEX)
+-----------------------------------------------------------------------
+- Anomaly Pressure:
+  - The absence of the usual pickpocket cluster at the switchback
+    is a small but notable deviation in city pattern, aligning with
+    the “world is stirring, not unraveling” tone.
+  - Mara’s independent interest in anomalies sets up a potential
+    tension between civic records and Aleron’s handling.
+- Social Positioning:
+  - Borian’s consistent reliability with Tidewardens and Hall work
+    makes him a plausible choice for more sensitive civic tasks.
+  - Grayharp, Anchorfall, Frostmere Row, and Harborfront all have
+    NPCs who can now believably recommend him.
+- Kessa Thread:
+  - Her absence is established, witnessed, and now emotionally
+    anchored in Grayharp. Whether mundane or tied to deeper
+    patterns, the situation can escalate without feeling forced.
+- Mara vs. Aleron:
+  - Borian is now positioned between two information centers:
+    Aleron (harbor authority) and Mara (records and civic survey).
+    Either may react if they discover withheld reports.
+- Lock Training:
+  - At 5 / 10 scenes toward half proficiency, Borian is halfway to
+    functional competency with basic locks, which may matter in
+    future urban or understructure scenes.
+
+SESSION END STATE (SUMMARY)
+-----------------------------------------------------------------------
+XP This Session: 150
+XP Total: 1770
+
+Coin Change:
+- Paid 16 sp to Torven for two nights’ lodging.
+- Earned 5 sp (spice escort), 3 sp (assessment runner),
+  2 sp (lamp recovery), 2 sp (ledger courier), 5 sp (relay).
+- Net result: 16 gp, 34 sp, 5 cp at end of session.
+
+Location at End:
+- Anchorfall Inn – private room.
+
+Time at End:
+- Early afternoon, Day 8.
+
+Conditions:
+- Fully rested; trance complete.
+- Gear organized.
+- Lock training at 5 / 10 scenes toward half proficiency.
+
+Hooks / Threads:
+- Kessa missing; initial investigation inconclusive.
+- Anomaly pattern under Varengate; Mara’s concern vs. Aleron’s role.
+- Mara’s mid-afternoon meeting at Scriptorium Terrace (come alone).
+
+Contracts (Open/Closed):
+- Open:
+  - Granary understructure disturbances (Hall).
+  - Anomaly observations for Aleron (informal, now under quiet
+    reconsideration).
+  - Mara Rhensyr anomaly brief (meeting pending).
+- Closed:
+  - Spice cart escort (Rylen Fedro).
+  - Assessment packet runner (Hall → Station C).
+  - Lamp recovery (Harl Kien).
+  - Harborfront ledger courier (broker → tax office).
+  - Tidewarden internal relay (Station B circuit).
+
+=======================================================================
+END OF SESSION IX
+=======================================================================
 
