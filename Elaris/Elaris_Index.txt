@@ -1,0 +1,290 @@
+# ===============================
+# Elaris Chronicle – Index
+# ===============================
+
+sessions:  
+  N:
+    title: "SESSION TITLE"
+    state_file: "Elaris_Chronicle_Session_N_state.yaml"
+    reference_file: "Elaris_Chronicle_Session_N_reference.txt"
+    locations: []
+    npcs: []
+
+latest_session: N
+next_session: N+1
+
+  0:
+    title: "The Frost-Tide Oath"
+    state_file: "Elaris_Chronicle_Session_0_state.yaml"
+    reference_file: "Elaris_Chronicle_Session_0_reference.txt"
+    locations:
+      - "Varengate - Dockside"
+    npcs: []
+
+  1:
+    title: "Through Sleet and Smoke"
+    state_file: "Elaris_Chronicle_Session_1_state.yaml"
+    reference_file: "Elaris_Chronicle_Session_1_reference.txt"
+    locations:
+      - "Varengate Harbor"
+      - "Frostmere Row"
+      - "South Row Teahouse"
+      - "Merrit’s Weighhouse"
+      - "Anchorfall Inn"
+    npcs:
+      - "Captain Marlowe"
+      - "Customs Officer"
+      - "Hethra Vane"
+      - "Sereth"
+      - "Merrit"
+      - "Torven"
+      - "Tavian"
+
+  2:
+    title: "Whispers Beneath the Grain"
+    state_file: "Elaris_Chronicle_Session_2.state.yaml"
+    narrative_file: "Elaris_Chronicle_Session_2.narrative.txt"
+    locations:
+      - "Anchorfall Inn (Frostmere Row)"
+      - "Frostmere Row streets"
+      - "Drowned Lantern harbor-front and alley"
+      - "Tidemother shrine on the pier"
+      - "Working docks"
+      - "East Lane switchbacks"
+      - "High ridge civic quarter and notice board"
+      - "Western granary basement and storage floor"
+    npcs:
+      - "Torven"
+      - "Rulfen"
+      - "Elderly harbor mother"
+      - "Young dockhand"
+      - "Drett"
+      - "High ridge mercenaries"
+
+  3:
+    title: "Stone in the Grain"
+    state_file: "Elaris_Chronicle_Session_3_state.yaml"
+    reference_file: "Elaris_Chronicle_Session_3_reference.txt"
+    locations:
+      - "Western Granary District – sheds behind the granary"
+      - "Hall of Free Companies"
+      - "Lower Quays – Wharf 3B"
+      - "Anchorfall Inn"
+    npcs:
+      - "Drett"
+      - "Hall clerk"
+      - "Captain Halla"
+      - "Captain Marrek"
+      - "Torven"
+
+  4:
+    title: "Threads of Surnhal"
+    state_file: "Elaris_Chronicle_Session_4_state.yaml"
+    reference_file: "Elaris_Chronicle_Session_4_reference.txt"
+    locations:
+      - "Anchorfall Inn (Frostmere Row)"
+      - "Frost-Kiln Workshop"
+      - "Hall of Free Companies"
+      - "Upper Docks"
+      - "Whisper-Row"
+      - "Grayharp Market"
+      - "Tavran's Shop (Fountain Court area)"
+      - "East-tier residential lanes"
+      - "Lidena’s Apothecary"
+      - "Herda Fenwater’s home and square"
+      - "Overhang corridor near Herda’s lane"
+    npcs:
+      - "Bram"
+      - "Hall clerk"
+      - "Upper docks courier contact"
+      - "Private collector’s agent (name withheld)"
+      - "Kessa"
+      - "Tavran"
+      - "Lidena"
+      - "Herda Fenwater"
+
+  5:
+    title: "Echoes Brought to Light"
+    state_file: "Elaris_Chronicle_Session_5_state.yaml"
+    reference_file: "Elaris_Chronicle_Session_5_reference.txt"
+    locations:
+      - "Grayharp Market"
+      - "Hall of Free Companies"
+      - "East-tier Municipal Grain Shed"
+      - "Frost-Kiln Ventworks"
+      - "Cartwright’s Tiny Grill"
+      - "Rizenwash Baths"
+      - "Varrin’s Tinctures & Brews"
+      - "Terrace Overlook (Lower Ridge)"
+      - "Anchorfall Inn"
+    npcs:
+      - "Halden Varrick (Market Steward)"
+      - "Feldrin (Hall clerk)"
+      - "Frost-Kiln apprentices"
+      - "Day-shift kiln clerk"
+      - "Cartwright"
+      - "Rizenwash attendants"
+      - "Varrin"
+      - "Shard-bearer (unnamed)"
+      - "Aleron"
+
+  6:
+    title: "Shadows Along the Quay"
+    state_file: "Elaris_Chronicle_Session_6_state.yaml"
+    reference_file: "Elaris_Chronicle_Session_6_reference.txt"
+    locations:
+      - "Anchorfall Inn (Frostmere Row)"
+      - "Hall of Free Companies"
+      - "Cooper's Run"
+      - "Mid-Tier Crossing (Herbal Market)"
+      - "South Quay – Slip 12 (Mare's Wish)"
+      - "Slip 13 Work Area"
+      - "The Drowned Lantern (Harborfront)"
+    npcs:
+      - "Torven"
+      - "Breda"
+      - "Lakan"
+      - "Marwen of Lowridge"
+      - "Dockhands of Slip 13"
+      - "Tannic Orls"
+      - "Sella Ward (Net-Sella) – mentioned, not yet met"
+
+  7:
+    title: "Echoes in the Current"
+    state_file: "Elaris_Chronicle_Session_7_state.yaml"
+    reference_file: "Elaris_Chronicle_Session_7_reference.txt"
+    locations:
+      - "Ropeworks Drying Racks (Harborfront)"
+      - "Shed Two (Harborfront)"
+      - "Understructure beneath Shed Two"
+      - "Mare's Wish (Slip 12)"
+      - "Anchorfall Inn (Frostmere Row)"
+      - "Hall of Free Companies (Harbor Warden's Office)"
+      - "Ropeworks Slip – Joren’s Crew Berth"
+    npcs:
+      - "Sella Ward (Net-Sella)"
+      - "Tannic Orls"
+      - "Joren Vale"
+      - "Torven"
+      - "Hall clerk (Feldrin)"
+      - "Harbor Warden Aleron"
+
+  8:
+    title: "Paths Above the Tiers"
+    state_file: "Elaris_Chronicle_Session_8_state.yaml"
+    reference_file: "Elaris_Chronicle_Session_8_reference.txt"
+    locations:
+      - "Frostmere Row – Anchorfall Inn"
+      - "Harborfront – Tidemother Shrine"
+      - "Gildery Stacks"
+      - "Mid-tier Crossing – Locksmith Stall"
+      - "Western Granary Sheds"
+      - "Hall of Free Companies"
+      - "Baker’s Stall on Frostmere Row"
+      - "Hethra Vane’s Clothwork"
+      - "South Row Laundry"
+      - "High Garden Paths"
+      - "Hall of Tides"
+      - "Merchant Terrace"
+      - "Bookbinder’s Loft"
+      - "The Brass Knot"
+    npcs:
+      - "Torven"
+      - "Drett"
+      - "Harn (Locksmith)"
+      - "Hethra Vane"
+      - "Rella" (Baker)
+      - "Elira–Thane (Stonecarver)"
+      - "Various upper-tier staff and patrons"
+
+  9:
+    title: "Threads at the Margin"
+    state_file: "Elaris_Chronicle_Session_9_state.yaml"
+    reference_file: "Elaris_Chronicle_Session_9_reference.txt"
+    locations:
+      - "Frostmere Row – Anchorfall Inn"
+      - "Grayharp Market"
+      - "Kessa's Loft – Lower Frostmere"
+      - "Scriptorium Terrace – West Buttress"
+      - "Frostmere Row – Rella’s Bakery"
+      - "Contract Hall – Mid-Tier"
+      - "Harborfront – Broker Stalls"
+      - "Tidewarden Station C – Harborfront"
+      - "Ropeworks Checkpoint"
+      - "Tidewarden Station B – Mid-Tier"
+      - "Mid-Tier Tax Office"
+    npcs:
+      - "Torven (Innkeeper)"
+      - "Rill (Torven’s nephew)"
+      - "Fishmonger (Grayharp Market)"
+      - "Larynn (Grayharp stallholder)"
+      - "Mara Rhensyr (Civic official)"
+      - "Rella (Baker)"
+      - "Rylen Fedro (Spice broker)"
+      - "Harl Kien (Rope stall owner)"
+      - "Harn (Locksmith)"
+      - "Tidewarden Sergeant – Station B"
+      - "Station C Records Clerk"
+
+  10:
+    title: "Acknowledgment Without Doors"
+    state_file: "Elaris_Chronicle_Session_10_state.yaml"
+    reference_file: "Elaris_Chronicle_Session_10_reference.txt"
+    locations:
+      - "Anchorfall Inn – Back Room"
+      - "Anchorfall Inn – Private Room"
+      - "Anchorfall Inn – Common Room"
+      - "Anchorfall Inn – Rear Alley"
+      - "Scriptorium Terrace – West Buttress Pocket"
+      - "Mid-Tier Archway"
+      - "Frostmere Row"
+      - "Hall of Free Companies"
+      - "Tidewarden Station B"
+    npcs:
+      - "Arlen Rusk"
+      - "Mara Rhensyr"
+      - "Torven"
+      - "Rill"
+
+  11:
+    title: "Pressure Without Panic"
+    state_file: "Elaris_Chronicle_Session_11_state.yaml"
+    reference_file: "Elaris_Chronicle_Session_11_reference.txt"
+    locations:
+      - "Tidewarden Station B – Maintenance Annex"
+      - "Mid-tier maintenance corridors"
+      - "Mid-tier streets"
+      - "Bakery off main thoroughfare"
+      - "Southcross Tier – Laundry House"
+      - "Anchorfall Inn"
+      - "Gildery Stacks"
+    npcs:
+      - "Arlen Rusk"
+      - "Edrin (Tidewarden runner)"
+      - "Kerric"
+      - "Edrin’s aunt (unnamed)"
+      - "Tideguard officers (unnamed)"
+
+  12:
+    title: "Pressure Without Footprints"
+    state_file: "Elaris_Chronicle_Session_12_state.yaml"
+    reference_file: "Elaris_Chronicle_Session_12_reference.txt"
+    locations:
+      - "Anchorfall Inn – Private Room"
+      - "Frostmere Row"
+      - "Kessa’s Apartment"
+      - "Lower-tier transition corridor (seam location)"
+      - "Brass Knot"
+      - "Harborfront"
+      - "Hall of Free Companies"
+      - "Ledger / Freight Guild Office"
+      - "South Gate – Exterior Perimeter Path"
+    npcs:
+      - "Kessa (missing)"
+      - "Torven"
+      - "Arlen Rusk"
+      - "Aleron Vale"
+      - "Mara Rhensyr"
+
+latest_session: 12
+next_session: 13
