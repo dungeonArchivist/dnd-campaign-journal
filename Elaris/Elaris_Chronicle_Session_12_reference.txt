@@ -1,1 +1,195 @@
+=======================================================================
+ELARIS CHRONICLE – SESSION XII – "PRESSURE WITHOUT FOOTPRINTS"
+=======================================================================
+
+TIMEFRAME
+-----------------------------------------------------------------------
+Day 12 (late afternoon and night) through Day 13 (early evening).
+
+Approximate clock:
+- Day 12 ~16:00–18:00 – Anchorfall Inn; initial movements and contacts.
+- Day 12 ~18:00–22:00 – City circulation (upper tiers, harbor routes).
+- Day 12 ~22:00–24:00 – Return to Anchorfall; messaging and rest.
+- Day 13 ~00:00–04:00 – Trance at Anchorfall Inn.
+- Day 13 ~04:00–09:00 – Morning work; guild and Hall engagements.
+- Day 13 ~09:00–16:30 – Perimeter assessment outside south gate.
+- Day 13 ~16:30–18:00 – Hall reporting, payment, and evening return.
+
+WEATHER / ATMOSPHERE
+-----------------------------------------------------------------------
+Cold winter conditions persist. Clear skies, steady air. No storms or
+precipitation. The city remains operational and orderly, but social
+behavior reflects increased caution: lower voices, reduced loitering,
+and subtle shifts in authority posture without public declaration.
+
+LOCATIONS
+-----------------------------------------------------------------------
+- Anchorfall Inn (private room, common room)
+- Frostmere Row streets and lower-tier routes
+- Kessa’s apartment building (interior access)
+- Lower-tier transition corridor (suspected disappearance route)
+- Upper-tier tavern (Brass Knot)
+- Harborfront routes and docks
+- Hall of Free Companies
+- Ledger / freight guild office
+- Bakery café (mid-tier)
+- South Gate and landward exterior perimeter paths
+
+SESSION SUMMARY (HIGH LEVEL)
+-----------------------------------------------------------------------
+- Investigated Kessa’s disappearance in depth, confirming she never
+  returned home and identifying evidence of deliberate movement through
+  maintenance-adjacent environments.
+- Identified a spatial seam along Kessa’s known route; evidence supports
+  accidental transition as a plausible cause, paralleling Edrin’s case.
+- Conducted multi-tier observation of city behavior, confirming quiet
+  tightening of authority and early-stage narrative control.
+- Completed two professional contracts: a ledger-guild escort and a Hall
+  perimeter assessment, advancing economic standing and reputation.
+- Eliminated landward exterior approaches as a current threat vector.
+- Secured an outbound cart guard contract departing Varengate on Day 14.
+
+DETAILED CONTINUITY – SCENE BY SCENE
+-----------------------------------------------------------------------
+
+Scene 1 – Anchorfall Inn: Reorientation and Intent (Day 12)
+-----------------------------------------------------------------------
+- Borian regrouped at Anchorfall following prior events, receiving
+  informal updates via Torven and confirming no overnight escalation.
+- Determined to pursue Kessa’s disappearance directly rather than await
+  official action.
+- Established intent to investigate without alerting authority or
+  attracting attention.
+
+Scene 2 – Kessa’s Apartment: Interior Investigation (Day 12)
+-----------------------------------------------------------------------
+- Borian accessed Kessa’s apartment discreetly; no signs of forced entry
+  or post-disappearance search were found.
+- Evidence recovered through observation:
+  - Work gloves bearing stone dust and oil residue consistent with
+    granary, frost kiln, and maintenance environments.
+  - Boots and satchel missing, suggesting purposeful movement.
+  - A slate containing schematic spatial notes, place abbreviations, and
+    erased conclusions.
+- Determined Kessa left intentionally and did not return; no struggle
+  occurred within the residence.
+
+Scene 3 – Slate Analysis: Pattern Recognition (Day 12)
+-----------------------------------------------------------------------
+- Borian analyzed the slate in detail, identifying:
+  - Repeated schematic shapes consistent with interior or junction spaces.
+  - Time markers indicating recurring observation, not a single event.
+  - Evidence of cautious erasure, implying awareness of risk.
+- Concluded Kessa was tracking recurring spatial irregularities rather
+  than reacting to a single anomaly.
+
+Scene 4 – Lower-Tier Route Re-examination: Seam Identification (Day 12)
+-----------------------------------------------------------------------
+- Borian retraced Kessa’s known walking route from earlier sessions.
+- Identified a bounded surface along a transition corridor exhibiting
+  anomalous acoustic and thermal properties.
+- Confirmed presence of a seam capable of non-visual transition.
+- Determined accidental entry was plausible, mirroring Edrin’s earlier
+  disappearance rather than intentional access.
+
+Scene 5 – Upper-Tier Observation: Brass Knot (Day 12)
+-----------------------------------------------------------------------
+- Borian observed upper-tier conversation patterns without initiating
+  contact.
+- Overheard indirect references to:
+  - restricted access,
+  - map reclassification,
+  - maintenance consolidation.
+- Concluded upper-tier awareness has begun but remains fragmented and
+  defensive rather than coordinated.
+
+Scene 6 – Harbor Circuit: External Mood Check (Day 12)
+-----------------------------------------------------------------------
+- Borian conducted a long return route through the harbor.
+- Observed steady patrols, purposeful labor, and absence of opportunistic
+  escalation.
+- Determined no immediate shift in harbor security posture or criminal
+  exploitation.
+
+Scene 7 – Anchorfall Inn: Messaging and Trance (Day 12–13)
+-----------------------------------------------------------------------
+- Borian sent discreet word to Arlen Rusk via Torven, relaying the seam
+  hypothesis regarding Kessa.
+- Entered trance around midnight; emerged fully rested at 04:00.
+- No intrusion, message, or anomaly contact occurred during rest.
+
+Scene 8 – Morning Employment: Guild and Hall Work (Day 13)
+-----------------------------------------------------------------------
+- Completed a same-day escort for a ledger-adjacent guild, executing a
+  clean document transfer without incident.
+- Leveraged the completion to secure higher-tier work eligibility.
+- Accepted a Hall contract for a landward perimeter assessment.
+- Walked the exterior perimeter path from the south gate out-and-back,
+  conducting baseline and close-read passes.
+- Found no evidence of landward breach, approach, or external threat
+  vector.
+
+Scene 9 – Hall Reporting and Contract Securing (Day 13)
+-----------------------------------------------------------------------
+- Delivered verbal perimeter assessment to the Hall; findings accepted.
+- Received payment without dispute.
+- Secured an outbound cart guard contract departing Day 14 at first light
+  from the east road gate.
+- Returned to Anchorfall for dinner and rest, concluding the day.
+
+ALLIES / RELATIONSHIPS CHANGES
+-----------------------------------------------------------------------
+- Arlen Rusk: Provided with updated seam hypothesis; coordination remains
+  indirect but active.
+- Hall of Free Companies: Borian’s reliability rating improved through
+  clean same-day completion and perimeter assessment.
+- Ledger / freight guilds: Initial professional credibility established.
+
+ITEMS / CONTRACTS CHANGES
+-----------------------------------------------------------------------
+- Items:
+  - No items gained or lost.
+- Contracts / Threads:
+  - Kessa disappearance: further defined; probable accidental transition
+    identified.
+  - Granary understructure disturbances: still open.
+  - Anomaly observations (Aleron Vale): still open.
+  - Mara Rhensyr coordination: pending.
+  - Outbound cart guard (Day 14): active and confirmed.
+
+HIDDEN DM THREADS (NOT FOR CODEX)
+-----------------------------------------------------------------------
+- The seam identified along Kessa’s route aligns with non-inviting,
+  probabilistic transition mechanics rather than controlled access.
+- Landward perimeter stability suggests internal infrastructure remains
+  the primary risk surface.
+- Kessa’s tracking activity indicates independent convergence on the
+  same anomalies now drawing institutional attention.
+
+SESSION END STATE (SUMMARY)
+-----------------------------------------------------------------------
+XP This Session: 200
+XP Total: 2395
+
+Coin:
+- Earned: 2 gp (perimeter assessment)
+- Total at end: 18 gp, 66 sp, 5 cp.
+
+Location at End:
+- Anchorfall Inn – private room.
+
+Time at End:
+- Early evening, Day 13.
+
+Conditions:
+- Fully rested; no injuries.
+- Gear carried as normal.
+
+Hooks / Threads:
+- Kessa missing; accidental seam transition likely.
+- Authority attention increasing but unaligned.
+- Outbound movement scheduled for Day 14.
+=======================================================================
+END OF SESSION XII
+=======================================================================
 
