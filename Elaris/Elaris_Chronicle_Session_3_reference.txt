@@ -1,1 +1,460 @@
+=======================================================================
+ELARIS CHRONICLE – SESSION 3 – "STONE IN THE GRAIN"
+=======================================================================
 
+TIMEFRAME
+-----------------------------------------------------------------------
+Day 2 in Varengate, same in-world day as Session II.
+Session window: Late morning through early evening.
+
+Approximate clock:
+- ~08:00–09:30: Granary sheds with Drett.
+- ~10:00–11:30: Wharf 3B mediation.
+- ~11:30–12:15: Hall of Free Companies (mediation payment).
+- ~12:30–13:00: Meal at Anchorfall.
+- ~13:00–17:00: Elven trance (long rest) in Borian's room.
+
+WEATHER / ATMOSPHERE
+-----------------------------------------------------------------------
+Cold but clear winter day. Harbor wind sharp with salt. Frost and thin
+snow linger in shaded alleys, on shed roofs, and along quays. By late
+afternoon the light fades but the city remains fully active.
+
+LOCATIONS
+-----------------------------------------------------------------------
+- Western Granary District, three storage sheds behind the granary.
+- Hall of Free Companies on the ridge.
+- Lower Quays, Wharf 3B (North Star and Grey Gull berths).
+- Anchorfall Inn (common room and Borian's room).
+
+SESSION SUMMARY (HIGH LEVEL)
+-----------------------------------------------------------------------
+Borian, still wounded from the rat fight earlier that morning (Session
+II), assists Drett in examining three sheds behind the western granary.
+Each shows a different sign of disturbance rising from below the city,
+culminating in the discovery of carved stonework under the third shed.
+
+Afterward, Borian:
+- Turns in the rat-clearance slip at the Hall and is paid 5 silver.
+- Quietly takes two contracts from the board:
+  * Dockside mediation at Wharf 3B (completed this session).
+  * Frost-Kiln firewatch night shift (taken, not yet fulfilled).
+- Travels to Wharf 3B and resolves a near-brawl between two fishing
+  crews via formal mediation.
+- Is paid 12 silver at the Hall for the mediation.
+- Returns to Anchorfall, eats, and takes a four-hour elven trance,
+  recovering from his earlier injuries.
+
+DETAILED CONTINUITY – SCENE BY SCENE
+-----------------------------------------------------------------------
+
+Scene 1 – Western Granary Sheds (with Drett)
+-----------------------------------------------------------------------
+Context:
+- This picks up immediately after the rat fight and cellar work from
+  Session II. Borian is still bruised and bitten, but mobile.
+- Drett has asked Borian to check the sheds because of "strange noises"
+  and structural concerns.
+
+Shed One:
+- Borian listens at the door (Perception 16+2). He hears a slow,
+  unpleasant siphoning sound and catches a faint acrid, chemical smell.
+- He opens the door and observes from the threshold: ordinary storage
+  contents (rope, crates, grain sacks) but an off smell and the sense
+  of something underneath the floor near the back-left corner.
+- He steps in cautiously, testing the boards. There is a slightly soft
+  spot and subtle give near that corner.
+- After moving a crate with Drett's help, Borian exposes a hairline
+  crack between floorboards and a dark, damp stain.
+- Borian pries up the board (Athletics 16+5 = 21). Underneath:
+  * Disturbed earth, softened as if something tunneled or pressed up.
+  * Faint green-black viscous residue in the soil.
+  * A root- or tendril-like growth that twitches when exposed to air
+    and heat, then goes still. The siphoning sound stops.
+- No full creature encountered; just the tendril and residue. No XP
+  granted this session for combat (combat occurred in Session II).
+- Discussion with Drett:
+  * Drett is disturbed but remains functional.
+  * He suggests possible people who might understand such things:
+    - Merowin, an apothecary near Frostmere Row (herbalist with some
+      "weirder" knowledge).
+    - The Salvagers' Guild, who often expose old structures and scrap.
+  * An earlier mistaken mention of Elden Ward is struck from canon:
+    Drett does not know that name. (User caught this; DM corrected.)
+
+Shed Two:
+- The pair walk to the second shed.
+- Borian inspects the outside and threshold (Perception 5+2 = 7). No
+  obvious tracks, scrapes, or damage; snow appears undisturbed.
+- Drett unlocks and opens the door. Inside:
+  * A clear, unnatural frost rime on surfaces.
+  * Frost is heaviest toward the back-left corner, thinning toward the
+    door in a fan-like pattern.
+  * Two grain sacks along the left wall sag oddly as if moisture has
+    been pulled or frozen away.
+  * A faint, steady draft of very cold air rises from between the
+    floorboards.
+  * Borian, listening carefully from the threshold (Perception 20+2
+    earlier for this shed's interior scan), hears a very faint
+    crackling, like ice forming in a confined space below.
+- No creatures appear. No boards are lifted here.
+- Borian decides not to enter. He closes and locks the shed again at
+  Drett's request. They agree the phenomenon is not natural frost.
+
+Shed Three:
+- The third shed is older, with a newer lock but weathered boards.
+- Inside inspection:
+  * Borian steps in and looks around (Perception 2+2 = 4). He notices
+    the obvious: a slight upward bulge in the far-right corner of the
+    floor. No scent of decay, no frost, no residue visible.
+  * Dust is present, but with this low roll the finer dust patterns are
+    not discerned in detail.
+- Borian attempts to pry the bowed board alone (Athletics 5+5 = 10).
+  The board creaks but does not come free.
+- He calls Drett to assist. On a coordinated heave (Athletics 16+5 =
+  21), the board tears loose; nails rip out with a loud crack.
+- Beneath the boards:
+  * The earth has collapsed downward in a shallow basin, as if
+    something large moved beneath recently.
+  * At the center is a curved, dark, smooth surface: not earth, wood,
+    or metal, but worked stone.
+  * The exposed arc bears geometric carvings:
+    - Concentric arcs.
+    - Three precise intersecting notches.
+    - A narrow recessed groove that continues deeper into the soil.
+  * On closer examination (Investigation 20-1 = 19), Borian recognizes
+    the pattern as functional, not decorative—akin to dwarven
+    geometric notation used for mechanisms and structures. There is a
+    triangular sigil with a broken apex.
+  * Faint traces of the same green-black residue seen in Shed One mark
+    the carved groove, indicating something passed this point and
+    touched the stone recently.
+- Interpretation (DM-side, not spoken aloud):
+  * This segment of stone is part of a larger constructed form beneath
+    the granary—likely a chamber wall or conduit ceiling.
+  * The upward pressure that bowed the board came from the stone
+    itself shifting or from something beneath it pressing upward.
+
+Resolution with Drett:
+- Borian advises Drett not to call the Salvagers' Guild yet, warning
+  that they would turn the whole lane into a dig site and possibly make
+  things worse.
+- Drett agrees to:
+  * Lock all three sheds.
+  * Keep quiet about the disturbances.
+  * Wait for Borian to seek expert help (e.g., Merowin).
+- Drett closes and locks each shed in turn. This is a clear, explicit
+  agreement that no one else will be brought in without Borian's say.
+- Before Borian leaves:
+  * He presents the rat-clearance notice from earlier.
+  * Drett signs with his name and role and notes that:
+    - The infestation is cleared.
+    - Structures have been checked.
+    - Work is complete.
+  * Drett offers Borian a small packet of dried hearthfruit as a
+    personal token of thanks (extra reward beyond the contract rate).
+  * Borian offers a short blessing/prayer for Drett, asking that
+    generosity and honesty mark him. Drett accepts this respectfully.
+
+Scene 2 – Hall of Free Companies (Rat Contract & Job Board)
+-----------------------------------------------------------------------
+Rat Contract:
+- Borian travels back up to the Hall.
+- The city is fully awake by now; this is mid-to-late morning, not an
+  "early riser" period. (Continuity corrected explicitly in chat.)
+- At the counter:
+  * Borian turns in Drett's signed rat notice.
+  * The clerk initially mis-pays only 3 silver.
+  * Borian points out the posted job rate of 5 silver.
+  * The clerk confirms, apologizes, and adds 2 more silver for the
+    correct total of 5 sp.
+  * The slip is stamped as completed and archived.
+
+Job Board – Contracts Actually Seen and Described:
+- Borian then examines the notice board for changes and available work
+  (Perception 10+2 = 12).
+- Board state from this session:
+  * Rat contract: removed from play; marked as completed.
+  * Dockside Mediation – Wharf Dispute:
+    - Location: Wharf 3B.
+    - Dispute between crews of trawler North Star and longboat Grey
+      Gull over drift lines, damaged nets, and alleged boundary
+      violations.
+    - Reward: approx. 10–12 silver, payment from both captains.
+    - Notes: Specifically requests a neutral mediator not tied to
+      either crew.
+  * Frost-Kiln Firewatch – Night Shift:
+    - Location: Frost-Kiln workshop.
+    - Task: Night watch due to a recent attempted break-in.
+    - Reward: 20 silver.
+    - Timing: One night shift, "tonight".
+    - Status this session: Slip taken by Borian, but job not yet
+      begun or completed.
+  * Missing Fisher – Joren Vale:
+    - Posting predates session; updated at ninth bell with witness
+      sighting near the lower quays and a note of possible injury.
+    - Reward listed as 15 silver.
+    - Not pursued this session.
+  * Eastlane Caravan Guard Prep:
+    - One-shift non-travel guard/escort preparation for a caravan.
+    - Reward: 8 silver.
+    - Not pursued this session.
+  * Temple Repair – Shrine of the Tidemother:
+    - One-day contract to assist with storm damage repairs.
+    - Reward: 6 silver and offer of a blessing.
+    - Not pursued this session.
+  * Lost Parcel – South Row:
+    - Palm-length wooden box gone missing, suspected stolen.
+    - Reward: 5 silver.
+    - Not pursued this session.
+  * Salvagers' Guild Reserved Slot:
+    - A notice space held with a wax seal for the Salvagers' Guild,
+      but no text yet posted.
+- After confirming nobody is paying special attention to him (Perception
+  19+2 = 21), Borian attempts to take both:
+  * Dockside Mediation slip.
+  * Frost-Kiln Firewatch slip.
+- Sleight of Hand 1+1 = 2:
+  * The Frost-Kiln slip tears slightly and makes a soft sound.
+  * The clerk glances up, notices only that "something came off the
+    board", shrugs, and returns to his work.
+  * Mechanical result: Borian successfully takes both slips. Only the
+    clerk has a vague awareness that a posting was removed; no one else
+    tracks him or the slips.
+
+Scene 3 – Wharf 3B Mediation (North Star vs Grey Gull)
+-----------------------------------------------------------------------
+Arrival:
+- Borian travels from the Hall down to Wharf 3B.
+- He finds two crews facing off:
+  * North Star: Heavier-booted, older crew; Captain Halla.
+  * Grey Gull: Lighter, younger crew; Captain Marrek.
+- The argument is loudly escalating over damaged nets and alleged line
+  violations.
+- A nearby dockhand explains what he saw:
+  * North Star had inside line, Grey Gull outer.
+  * Sudden wind gust and channel current likely pushed Grey Gull's
+    lighter hull.
+  * Nets tangled fast; he could not clearly see which boat drifted
+    first.
+  * He believes there was no deliberate malice, just bad luck and
+    pride.
+
+Establishing Authority:
+- Borian raises the Hall slip and calls out, asking if someone requested
+  a neutral party.
+- Both captains confirm they did and recognize the mediator role.
+- Borian lays out terms:
+  * He has no allegiance to either crew.
+  * Both captains agree to be bound by his judgment.
+  * No further retribution or ill-will is to be carried between crews.
+  * If they are unhappy with the decision, their grievance is with him,
+    not each other.
+- Both captains accept these terms explicitly.
+
+Order of Testimony:
+- Borian uses a dragonchess piece as a draw. Halla chooses "dark".
+- The piece in Borian's hand is light.
+- Borian then asks Captain Marrek, as the "light" selection, whether he
+  chooses to speak first or defer.
+- Marrek chooses to speak first.
+
+Private Interview – Captain Marrek:
+- Insight check 19+2 = 21:
+  * Marrek is sincere: no malice, no attempt to sabotage.
+  * He is worried about coin and reputation but trying to be honest.
+- Marrek's account:
+  * A sudden wind and tricky channel current pushed his lighter hull
+    into Halla's drift line.
+  * Nets tangled; his crew began cutting to avoid dangerous entrapment.
+  * One of Halla's nets was ruined beyond simple repair; another may be
+    salvageable.
+  * He is willing to pay fair compensation but fears public humiliation
+    and being seen as weak.
+  * He estimates a fair magistrate's decision would total around 12–15
+    silver in damages (full for one net, partial for the other, plus
+    time lost).
+  * He can pay a few silver immediately, with the rest over the next
+    runs, but cannot pay the full amount at once without hurting his
+    crew.
+  * He insists he would not endanger Halla's crew or steal her catch.
+- He acknowledges that if drift is formally his responsibility, he must
+  pay something, but does not want the judgment twisted into a long-term
+  advantage for Halla.
+
+Private Interview – Captain Halla:
+- Insight check 9+2 = 11:
+  * Borian can tell she believes what she says, but some nuance may be
+    hidden under discipline and pride.
+- Halla's account:
+  * She set her nets where she always does.
+  * The channel in that area is known to have tricky currents.
+  * Wind and current together likely played a role, but in her view
+    Marrek runs too close, making drift inevitable.
+  * When the nets tangled, her crew hauled hard to save the line; his
+    crew cut fast.
+  * One of her nets shows a clean tear along the seam, which she sees
+    as evidence of overly aggressive cutting rather than careful
+    clearance.
+  * She does not claim sabotage, but she does see recklessness.
+  * She believes a magistrate would split responsibility—acknowledging
+    Marrek's drift as primary cause, but also noting that her crew's
+    reaction contributed to the damage.
+  * She wants the nets replaced and her crew's lost morning accounted
+    for, but does not seek to ruin Marrek.
+
+Joint Judgment and Public Resolution:
+- Borian calls both captains back together and has their crews assemble
+  to witness the settlement.
+- He frames his ruling:
+  * Acknowledges the hardships of sea life and the primary duty of a
+    captain to their crew's safety.
+  * States that tempers rose not from hatred but from fierce
+    responsibility.
+  * Affirms that no malice or neglect was found in Marrek's actions,
+    but that his drift and his crew's cutting did cause real damage and
+    lost earnings.
+- Specific terms Borian sets (explicit, at-table):
+  * Captain Marrek is liable for:
+    - 8 silver for the ruined net.
+    - 1 silver for the lost morning.
+    - Total: 9 silver.
+  * Marrek will provide Captain Halla with one fully serviceable net.
+  * In exchange, Halla will give Marrek the damaged net, which his crew
+    can attempt to repair.
+  * Marrek will pay:
+    - 2 silver immediately.
+    - The remaining 7 silver over the next three runs at most, with no
+      interest.
+- Both captains agree to these terms.
+- In front of both crews:
+  * Borian delivers a short speech stressing that lives saved matter
+    more than damaged nets, that tempers should not harden into
+    permanent feuds, and that they are "brothers and sisters at sea"
+    who may share the same deck one day.
+  * He orders them, in effect, back to their work: "Get back to those
+    riggings."
+- The captains:
+  * Shake hands publicly.
+  * Exchange nets as agreed.
+  * Marrek pays 2 silver on the spot.
+- Result:
+  * Crews stand down; shouting ends.
+  * Tidewardens on a nearby quay witness the resolution but do not
+    intervene.
+  * No ongoing hostility is evident at session end.
+
+Documentation:
+- Borian remembers to get the mediation notice signed.
+- Captain Halla signs first, with her name and title, marking the
+  dispute as resolved and terms accepted.
+- Captain Marrek signs after, acknowledging the agreed repayment.
+- The signed slip is now in Borian's possession and later turned in at
+  the Hall.
+
+Scene 4 – Hall of Free Companies (Mediation Payment)
+-----------------------------------------------------------------------
+- Borian returns to the Hall and presents the signed mediation notice.
+- The same clerk processes it:
+  * Reviews both signatures and terms.
+  * Notes that the dispute was resolved peacefully and formally.
+  * Pays Borian 12 silver for the completed mediation contract.
+- This 12 silver is the only payment from the Hall for this contract.
+  (No bonuses beyond the posted range.)
+
+Scene 5 – Anchorfall Inn and Long Rest
+-----------------------------------------------------------------------
+- Borian returns to the Anchorfall Inn.
+- Torven observes his bruised, exhausted state and seats him near the
+  hearth.
+- Torven brings:
+  * A bowl of fish-and-barley stew.
+  * Warm bread.
+  * A small cup of herbal drink/tonic.
+- Torven insists the meal is on the house given Borian's condition.
+- Borian eats and warms himself, then thanks Torven and heads to his
+  room, promising to share details later.
+- In his room:
+  * Borian removes gear and settles onto the bed.
+  * He enters a four-hour elven trance.
+  * This counts as a long rest for Borian.
+- By the time the trance ends, it is early evening (around the tenth
+  bell). The inn is active with the early evening crowd. We end the
+  session here, with Borian recovered.
+
+MECHANICAL / STATE UPDATES
+-----------------------------------------------------------------------
+XP This Session:
+- No new combat XP (rat combat was in Session II).
+- 200 XP total this session:
+  * 100 XP – multi-shed investigation and meaningful discovery of the
+    ancient structure and anomalies beneath the granary.
+  * 100 XP – dockside mediation (complex social encounter) resolved
+    cleanly and bindingly with both captains' cooperation.
+
+Currency Changes (Session III only):
+- +5 silver – rat contract payment (Hall, corrected from 3 to 5).
+- +12 silver – mediation payment (Hall).
+- 0 expense for meal at Anchorfall (Torven comped).
+- Net session gain: +17 silver.
+
+Items and Contracts:
+- New tangible item:
+  * Small packet of dried hearthfruit from Drett.
+- Contracts:
+  * Rat contract – completed and closed in this session.
+  * Dockside mediation – completed and closed in this session.
+  * Frost-Kiln firewatch – slip taken; work not yet begun by session
+    end (night shift still ahead).
+
+Allies / Relationships:
+- Drett (Foreman, West Granary):
+  * Grateful, discreet.
+  * Has agreed to keep the shed disturbances secret and the sheds
+    locked until Borian advises otherwise.
+- Captain Halla (North Star):
+  * Respects Borian's fairness and authority.
+  * No active grudge toward Marrek after the settlement.
+- Captain Marrek (Grey Gull):
+  * Relieved and grateful for a fair judgment.
+  * Bound by honor and reputation to fulfill the 7 silver repayment
+    over his next runs.
+
+HIDDEN DM THREADS (NOT FOR CODEX)
+-----------------------------------------------------------------------
+- Granary understructure:
+  * The carved stone beneath Shed Three is part of an older, hidden
+    system under Varengate—likely dwarven or dwarf-taught origin.
+  * The green-black residue and the tendril-like growths represent an
+    intrusive or leaking phenomenon from below. Its exact nature is
+    undecided but should remain consistent with prior residue behavior.
+
+- Frost and Cold:
+  * Shed Two's radiating cold is a distinct but related manifestation,
+    indicating multiple "points of pressure" from the deeper structure
+    or environment beneath the city.
+
+- Frost-Kiln Contract:
+  * Outstanding contract that could intersect with undercity or
+    criminal activity, depending on future session choices. No events
+    tied to it occurred this session.
+
+- Missing Fisher – Joren Vale:
+  * Updated posting is on the board. No action taken this session.
+    Remains as a potential future hook.
+
+SESSION END STATE
+-----------------------------------------------------------------------
+- Location: Anchorfall Inn, Borian's room, immediately after completing
+  a four-hour trance (long rest).
+- Time: Early evening (approx. tenth bell).
+- Condition: Fully recovered from earlier wounds; no active conditions.
+- Outstanding hooks:
+  * Frost-Kiln firewatch contract for "tonight".
+  * Granary understructure anomalies (three sheds).
+  * Merowin the apothecary as a potential expert.
+  * Missing fisher posting and other board jobs (unclaimed).
+
+=======================================================================
+END OF SESSION 3
+=======================================================================
