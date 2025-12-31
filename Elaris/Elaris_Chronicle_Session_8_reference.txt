@@ -1,1 +1,590 @@
+=======================================================================
+ELARIS CHRONICLE – SESSION VIII – "PATHS ABOVE THE TIERS"
+=======================================================================
 
+TIMEFRAME
+-----------------------------------------------------------------------
+Day 6 in Varengate, predawn through early night.
+
+Approximate clock:
+- ~03:00–06:00 – Anchorfall hearth, Torven conversation, trance afterglow
+- ~07:00–12:00 – Harbor walk, shrine, baker, Gildery Stacks, locksmith
+- ~12:00–18:00 – Hall visits, contracts, errands, upper-tier exploration
+- ~18:00–21:00 – Supper, Brass Knot, return to Anchorfall, trance
+
+WEATHER / ATMOSPHERE
+-----------------------------------------------------------------------
+Cold, clear coastal day. Harbor air briny but not storm-laden. Upper
+tiers bright under low winter sun; long shadows over stonework and
+terraces. Evening settles crisp and wind-stilled rather than harsh.
+
+LOCATIONS
+-----------------------------------------------------------------------
+- Anchorfall Inn – common room + private room
+- Frostmere Row – streets, baker’s stall, clothier, laundry
+- Harborfront paths and gull overlooks
+- Tidemother Shrine (small pier-side shrine as in Session II)
+- Gildery Stacks (reading hall and lending counter)
+- Locksmith Harn’s Stall and workbench
+- Hall of Free Companies (ridge)
+- Western Granary – cellar and rear sheds
+- General outfitter (Frostmere Row)
+- Hethra Vane’s Clothwork (tailor’s shop)
+- South Row Laundry
+- Upper Tiers – Overlook Walk and High Garden paths
+- Hall of Tides (maps, artifacts, harbor model)
+- Merchant Terrace teahouse and bookbinder’s loft
+- Small terrace eatery near the Brass Knot
+- The Brass Knot (upper-tier tavern)
+
+SESSION SUMMARY (HIGH LEVEL)
+-----------------------------------------------------------------------
+Borian spends a full, combat-free day weaving himself more tightly
+into Varengate’s rhythms.
+
+In the deep hours he shares quiet tea and firelight with Torven,
+speaking openly of the "accident" that ended his career and the men
+he lost. The talk sharpens his own question: pursue the truth at
+home or allow the dead their uneasy rest.
+
+Across the morning and early afternoon he studies lockwork at
+Gildery Stacks, buys a set of practice locks from Harn the
+locksmith, and begins practical training. He revisits the Tidemother
+shrine and walks the harbor, quietly reinforcing his reputation as a
+thoughtful outsider rather than a proselytizing foreigner.
+
+Later he takes follow-up work at the western granary, confirms that
+the strange residues and tracks have not expanded, and reports this
+calmly to the Hall. Administrative details catch up: the delayed
+coin from his harbor watch and the ongoing absence of Aleron’s
+"quiet settlement."
+
+The latter half of the day is spent in the upper tiers: High Garden,
+the Hall of Tides, Merchant Terrace, and the Brass Knot. Borian
+deliberately observes etiquette, clothing, and habits of the
+wealthy. He fetches his completed cold-weather finery from Hethra
+Vane, sends his older gear to the laundry, and begins to blend more
+convincingly with the city’s upper crust – without yet being drawn
+into their politics.
+
+DETAILED CONTINUITY – SCENE BY SCENE
+-----------------------------------------------------------------------
+
+Scene 1 – Anchorfall Hearth, Tea, and Torven (Deep Night to Predawn)
+-----------------------------------------------------------------------
+- Borian completes his trance in the small hours and comes
+  downstairs to a dark, cooling common room.
+- Rather than leave a fire unattended later, he builds it up now:
+  lays fresh wood, then uses Prestidigitation to kindle it and
+  gently warm a kettle of leftover tea.
+- He sits alone with the crackling fire, turning over the same
+  questions that drove him from home: the "accident," the men he
+  lost, his belief that there was foul play he could never prove,
+  and the pressure from above that forced him out instead of
+  answering those questions.
+- Torven eventually enters from the back, surprised but not
+  alarmed to see Borian awake at that hour. He comments gently that
+  the paladin is "carrying something heavy" and joins him near the
+  hearth.
+- Borian speaks more plainly than before about the lost men, the
+  families, and whether reopening the past truly serves them or only
+  himself. He worries about letting others see him as their
+  "answer" rather than someone passing through to help.
+- Torven offers no easy absolution. He speaks instead of longshore
+  accidents, empty stools at his own tables, and how grief leaves
+  no clean ledger. His advice leans toward small, living mercies
+  rather than heroic closure.
+- The conversation ends not with a firm decision but with mutual
+  respect and a shared understanding that some questions may never
+  be answered. Torven returns to his early-morning work as the sky
+  lightens behind Frostmere Row.
+
+Scene 2 – Breakfast and Day’s Intention (Early Morning)
+-----------------------------------------------------------------------
+- As First Bell approaches, Anchorfall stirs. Borian takes a
+  straightforward breakfast (house fare; stew and bread/porridge)
+  and mentions to Torven that he plans to visit Gildery Stacks.
+- Torven estimates the walk at roughly ten minutes up-tier, giving
+  Borian the freedom to linger rather than pace outside locked
+  doors.
+- Borian finishes his meal with an eye toward heading out
+  promptly, wanting to make productive use of the daylight.
+
+Scene 3 – Harbor Walk and Tidemother Shrine (After Dawn)
+-----------------------------------------------------------------------
+- Rather than go straight uphill, Borian lets his feet carry him
+  down Frostmere Row and along the harborfront, eyes and mind
+  still heavy from the night’s thoughts.
+- At the familiar small Tidemother shrine (as in Session II) he
+  pauses. He does not pray to the Tidemother directly, but offers
+  quiet words for sailors and families, for safe crossings and calm
+  weather in dangerous work.
+- The shrine itself remains as before: simple stone, weathered
+  carvings, offerings jar, and rail polished by countless hands.
+  His presence here is part of a pattern the harborfolk may begin
+  to notice, even if this visit draws no new NPCs.
+
+Scene 4 – Baker’s Stall on Frostmere Row (Morning)
+-----------------------------------------------------------------------
+- Drawn by the smell of fresh bread, Borian follows his nose to a
+  small baker’s stall just off Frostmere Row, near where the lane
+  begins to slope toward the harbor steps.
+- The baker is working early, preparing rolls for inns and street
+  trade. She presses a warm roll into his hand without charge when
+  he compliments the smell.
+- Borian speaks of his training and love of bread: four simple
+  ingredients, the visible simplicity of kneading and shaping
+  versus the unseen complexity of fermentation and oven spring.
+- He mentions that life and duty pulled him away from the trade
+  for the sake of family and station.
+- He butters the roll, watching the fat melt into the crumb, and
+  deliberately leaves a whole silver piece beside the butter crock,
+  noting that dairy must be dear in this climate.
+- The baker initially protests the overpayment but ultimately
+  accepts with a wry comment; she hints that if he lingers in
+  Varengate, he may be welcome to "remember" the craft at her
+  bakehouse ovens.
+- This establishes:
+  - Relationship: Rella (Baker) – neutral-warm, curious about Borian.
+  - Location detail: Small stall on a side spur off Frostmere Row,
+    early-morning trade to inns.
+
+Scene 5 – Gildery Stacks: Lock Theory (Late Morning)
+-----------------------------------------------------------------------
+- Borian heads uphill to the Gildery Stacks and waits only briefly
+  before opening.
+- At the desk he asks for material on the history and mechanics of
+  locks – wards, tumblers, keyways, and operating principles.
+- The clerk (generic Stacks functionary; no strong personality
+  imprint yet) produces a practical compendium plus at least one
+  lighter overview text.
+- Borian selects the more technical compendium and settles into a
+  reading table, spending several hours working through diagrams
+  and terminology:
+  - Ward plates and how simple warded locks defeat casual tampering
+    but fail against skilled tools.
+  - Tumbler stacks, tolerances, binding order, and the difference
+    between "raking" and more precise manipulations.
+  - Key geometry and why small imperfections matter more in higher
+    grade locks.
+- By noon, he has extracted what he can from a first pass without
+  tools in hand. He checks the compendium out (short-term lending
+  fee paid in silver) intending to pair theory with practice using
+  actual locks.
+- The compendium becomes a referenced item in inventory and a
+  cornerstone for future downtime training.
+
+Scene 6 – Midday Meal and Quiet Observation (Near Noon)
+-----------------------------------------------------------------------
+- Leaving the Stacks, Borian finds a quieter tavern uphill from
+  Frostmere Row and orders a simple midday meal (stew and tea).
+- No major hooks fire here; the scene reinforces the sense of
+  Varengate’s working-day rhythm on the ridge – clerks, minor
+  officials, and tradespeople on short breaks.
+- Borian remains largely to himself, using the meal as a pause
+  between mental and practical study.
+
+Scene 7 – Locksmith Harn’s Stall (Early Afternoon)
+-----------------------------------------------------------------------
+- Following directions, Borian locates a locksmith’s stall and
+  workshop (Harn’s place) somewhere between the Stacks and the
+  ridge.
+- He explains he wants to secure a few chests and also "tinker"
+  with the mechanisms.
+- Harn responds with a practical demonstration:
+  - A simple warded lock – broad bow, shallow bit, sturdy ward
+    plates – described as "keeps honest hands honest."
+  - A double-tumbler lock – tighter tolerances, smoother action,
+    more resistant to clumsy tampering.
+  - A harbor-grade pin lock – smaller pins, fine tolerances,
+    typical for clerks’ document chests and some ship lockers.
+- Borian buys all three, paying in full per earlier pricing.
+- He also signals interest in learning more than just key use.
+  Harn remarks that if Borian develops a steady hand and respect
+  for the craft, there may be room for informal instruction and
+  perhaps paid help on tough jobs later.
+- This scene anchors:
+  - Harn as a potential mentor and contact in lockcraft.
+  - The three practice locks as narrative tools for downtime
+    training and future infiltration/problem-solving.
+
+Scene 8 – Hall of Free Companies: Board Glance (Later Afternoon)
+-----------------------------------------------------------------------
+- Borian returns to the Hall to scan the job board. He filters out
+  anything paying less than 5 sp, treating low-pay filler as
+  background work for others.
+- He notes the familiar granary disturbance posting and other
+  minor tasks but is not yet ready to descend again that day; the
+  memory of Joren’s rescue and the understructure is still recent.
+- No new contract is taken at this moment. Aleron is not present;
+  Borian notes his absence but does not press the matter.
+
+Scene 9 – Anchorfall: Cider, Locks, and Study (Late Afternoon / Evening)
+-----------------------------------------------------------------------
+- Back at Anchorfall, Borian orders hot cider and settles near the
+  hearth, compendium and new locks laid out before him.
+- He works systematically:
+  - Opening, closing, and re-keying the locks with their proper
+    keys.
+  - Comparing internal diagrams from the book with the feel of the
+    mechanisms in hand.
+  - Paying attention to the "give" and feedback when pins or wards
+    engage.
+- This session marks one of the explicit lock-training scenes
+  counted in the state file (see training_progress).
+- Supper is taken at the inn; no new contacts are introduced here.
+  The focus is internal: skills, not social reach.
+
+Scene 10 – Night Reading and Trance (Night, End of First Cycle)
+-----------------------------------------------------------------------
+- After supper, Borian continues reading and lock practice until
+  late evening.
+- He then returns to his room, performs basic gear checks, and
+  enters his elven trance, intending to rise early but not in the
+  deep watches.
+- Trance completes near pre-dawn, leaving him fully rested and
+  ready for a more administratively focused day.
+
+Scene 11 – Morning Gear Repack and Breakfast (Day 6 Morning)
+-----------------------------------------------------------------------
+- Recognizing that his pack is overstuffed, Borian lightens his
+  carried load:
+  - Leaves extra rations, most of his torches, and a spare rope in
+    his room as "reserve stock."
+  - Keeps a single day of rations, a reduced number of torches, and
+    essential tools on his person.
+- He heads downstairs for breakfast, exchanges brief pleasantries
+  with Torven, and then makes his way toward the Hall once again to
+  seek paying work.
+
+Scene 12 – Hall Board and Granary Follow-Up (Morning)
+-----------------------------------------------------------------------
+- At the Hall, Borian checks the board and this time takes the
+  renewed "Granary disturbance" posting – a follow-up visit rather
+  than a fresh contract.
+- The clerk recognizes him as the previous investigator and has no
+  new information beyond reports of "strange cold" and the desire
+  for reassurance.
+- No new terms are added; this is treated more as civic duty than
+  a lucrative bounty.
+
+Scene 13 – Western Granary and Sheds (Late Morning)
+-----------------------------------------------------------------------
+- At the western granary, Borian meets Drett again. Drett explains
+  that things have been mostly quiet: fewer noises, some odd cold
+  spots, but no fresh damage.
+- Borian takes a lantern and descends into the cellar:
+  - He notes lingering chill and faint residue consistent with
+    prior understructure anomalies but sees no new breaches, growths,
+    or signs of recent intrusion.
+- Back outside, he and Drett walk the rear sheds:
+  - Trails and scuffs remain similar to his earlier observations:
+    lines of disturbance pointing toward deeper city interior but
+    not obviously spreading.
+  - The pattern feels "of a piece" with Cooper’s Run and Shed Two
+    from earlier sessions – same family of phenomena, not a new
+    variant.
+- Borian is frank with Drett: nothing worse than last time; no
+  current sign of vermin or active structural threat, only the
+  unnerving, unfamiliar traces. He promises to relay this to the
+  Hall.
+
+Scene 14 – Hall Report and Payment Administration (Midday)
+-----------------------------------------------------------------------
+- Returning to the Hall, Borian files a brief, factual report:
+  same type and scale of anomaly, no expansion, and no immediate
+  danger to grain or workers.
+- The clerk signs off and authorizes modest payment.
+- Borian also checks in with the bursar regarding the previous
+  day’s dockside watch assist at the north pier (short duty where
+  payment was delayed). The bursar confirms the paperwork and pays
+  out the owed gold.
+- This scene cleans up the outstanding harbor watch coin and makes
+  the granary follow-up "current" without resolving the deeper
+  understructure mystery.
+
+Scene 15 – Frostmere Row Outfitter: Second Backpack (Early Afternoon)
+-----------------------------------------------------------------------
+- With his gear reorganization in mind, Borian visits a general
+  outfitter on Frostmere Row and purchases a standard backpack.
+- This will serve as in-room storage for surplus kit and clothing.
+- The interaction is strictly transactional; the merchant does not
+  yet become a distinct contact.
+
+Scene 16 – Hethra Vane’s Clothwork: Cold-Weather Finery (Early Afternoon)
+-----------------------------------------------------------------------
+- Borian returns to Hethra Vane to collect the cold-weather fine
+  clothes commissioned back in Session I.
+- The garments are tailored to local fashions while respectful of
+  his frame and bearing: coat, layers, and boots that would not
+  look out of place on Merchant Terrace yet remain practical in the
+  northern cold.
+- He tries them on, receives final adjustments, and chooses to wear
+  them out rather than stow them.
+- Final payment of the 8 gp balance is made, closing the original
+  clothing contract and cementing Hethra’s view of him as a
+  reliable customer.
+
+Scene 17 – South Row Laundry: Old Clothes Forwarded (Early Afternoon)
+-----------------------------------------------------------------------
+- Back at Anchorfall, Borian gathers his everyday traveler’s
+  clothes and older cold-weather layers, bundles them, and takes
+  them to a South Row laundry recommended by Torven.
+- He requests a standard wash and dry and arranges for the cleaned
+  garments to be sent back to Anchorfall for "Borian," with Torven
+  as the contact.
+- He pays the laundress appropriately in silver and confirms that
+  the name and destination are clearly noted.
+- This establishes:
+  - Laundry as a minor, repeatable service contact.
+  - Anchorfall as an even more fully integrated home base.
+
+Scene 18 – Upper Tiers: Overlook Walk and High Garden Paths (Mid Afternoon)
+-----------------------------------------------------------------------
+- Dressed in his new finery, Borian climbs to the upper tiers with
+  two goals:
+  - Learn the physical pathways and vantage points.
+  - Observe noble and wealthy customs to better blend in.
+- On Overlook Walk he spends time at a bench facing the harbor.
+  Attempted perception here is poor (low roll); he takes in only
+  generalities: passing couples, minor officials, distant ships,
+  and the broad sweep of breakwaters.
+- In the High Garden paths, he moves through landscaped terraces
+  and statuary, again mostly observing. The key encounter here is
+  an artist.
+
+Scene 19 – Stonecarver’s Sketch (High Garden)
+-----------------------------------------------------------------------
+- Borian notices a young stonecarver sketching a fountain in
+  charcoal. He approaches quietly, looking over the work without
+  crowding.
+- He compliments the sketch, apologizing for the intrusion. A brief
+  exchange follows:
+  - The carver explains that this is practice for stonework, where
+    mistakes are less forgiving than charcoal.
+  - Borian mentions limited past experience with ceramics and oils,
+    noting that painting has been neglected of late.
+- He asks whether the artist signs finished work; she explains her
+  personal mark – three angled lines – used on carved stone.
+- Borian offers thanks, wishes her good light, and withdraws so as
+  not to waste her time.
+- Ongoing hook: Borian may later recognize her mark on city
+  stonework, providing a personal thread into artisan circles.
+
+Scene 20 – Hall of Tides: Maps, Artifacts, and Harbor Model (Late Afternoon)
+-----------------------------------------------------------------------
+- Borian visits the Hall of Tides, a civic-maritime institution at
+  the upper tiers.
+- He studies:
+  - Large coastal maps showing Varengate’s position relative to
+    northern routes, headlands, and outer shoals.
+  - Displayed relics from earlier eras of the city’s harbor work.
+  - A detailed harbor model with movable ships, piers, and
+    breakwaters.
+- He looks closely for hidden marks or irregularities on the model
+  but finds nothing beyond the expected detail.
+- He leaves with a better mental picture of:
+  - Approaches to Varengate by sea.
+  - The placement of breakwaters and beacon structures.
+  - The city’s development around layered tiers and harbors.
+
+Scene 21 – Merchant Terrace Teahouse (Late Afternoon)
+-----------------------------------------------------------------------
+- Borian proceeds to Merchant Terrace and chooses a respectable
+  teahouse with harbor views.
+- He orders a tea selected specifically to "keep him going in the
+  afternoon but not awake all night" and sits near a window.
+- He quietly observes upper-tier patrons:
+  - Merchants and stewards weighing contracts and ledgers.
+  - Minor nobles and courtiers using public space as a stage for
+    quiet power.
+  - Etiquette norms: modest displays of wealth, controlled voices,
+    careful attention to who greets whom.
+- No explicit hooks are triggered, but Borian internalizes these
+  cues for future social maneuvering.
+
+Scene 22 – Bookbinder’s Loft (Late Afternoon)
+-----------------------------------------------------------------------
+- Still on Merchant Terrace, he visits a bookbinder’s shop rich
+  with leather, paper, and glue smells.
+- The proprietor is polite but not intrusive; Borian browses
+  shelves.
+- He pulls down "On the Tiers of Varengate," skims its contents,
+  and notes that it offers a structured, civic-approved summary of
+  the city’s tiers, governance, and history.
+- He returns the book to the shelf without purchase, but now knows
+  such a resource exists should he need to consult or purchase it
+  later.
+
+Scene 23 – Terrace Supper (Early Evening)
+-----------------------------------------------------------------------
+- Borian identifies a small terrace eatery near the Brass Knot and
+  takes a two-seat table so as not to monopolize space.
+- He orders lamb and tea. The meal is solid, not ostentatious, and
+  confirms that his clothing and manners are sufficient to avoid
+  standing out.
+- He pays the bill and leaves a modest silver tip when earned,
+  reinforcing a pattern of quiet generosity.
+
+Scene 24 – The Brass Knot (Evening)
+-----------------------------------------------------------------------
+- At the Brass Knot, Borian takes a seat at the bar and orders
+  spiced wine.
+- He surveys the clientele:
+  - Mid-tier merchants, junior officers, some caravan or ship
+    representatives, but no obvious high nobles or great-house
+    patrons.
+  - Conversations center on shipping schedules, contracts, and
+    routine business rather than conspiracies.
+- He had hoped to suss out rumors of private contracts or higher-
+  level needs, but nothing compelling surfaces here tonight.
+- Socially, this marks the Brass Knot as a respectable but not
+  elite hub – useful for information about commerce and mid-tier
+  concerns, less so for direct access to the city’s ruling layer.
+
+Scene 25 – Anchorfall: Unpaid Quiet Settlement and Rest (Night)
+-----------------------------------------------------------------------
+- Returning to Anchorfall, Borian checks with Torven about Aleron
+  Vale’s promised "quiet" payment for previous understructure work.
+- Torven confirms that nothing has arrived yet, but expresses
+  confidence that Aleron is not one to forget such matters. If the
+  delay stretches longer, Torven may inquire discreetly.
+- Borian accepts this for now, cleans up, and returns to his room.
+- The day ends with another elven trance, fully restorative and
+  free of visions or disturbances.
+
+ALLIES / RELATIONSHIPS CHANGES
+-----------------------------------------------------------------------
+- Torven (Anchorfall Inn):
+  - Relationship deepened through honest conversation about loss
+    and purpose.
+  - Sees Borian as a man wrestling with grief rather than a
+    swaggering sellsword.
+- Western Granary – Drett:
+  - Confidence maintained. Drett accepts Borian’s assessment that
+    nothing has worsened yet, and that the matter is in the Hall’s
+    hands.
+- Baker (Frostmere Row):
+  - New contact. Warm initial impression; Borian overpays in thanks
+    and respect. Potential future opportunity to reconnect over
+    baking.
+- Harn the Locksmith:
+  - New mentor-quality contact. Open to future instruction and
+    possible paid technical work if Borian’s skill grows.
+- Laundry (South Row):
+  - Minor service contact. Knows Borian’s name and Anchorfall as
+    his lodging.
+- Stonecarver in High Garden:
+  - Named only by mark (three angled lines). Future recognition of
+    her work could form a relationship thread.
+- Upper-tier service staff (teahouse, eatery, Brass Knot):
+  - No specific relationships yet, but Borian has made a neutral to
+    mildly positive impression as a courteous, appropriately
+    dressed outsider.
+
+ITEMS / CONTRACTS CHANGES
+-----------------------------------------------------------------------
+Items gained:
+- Three practice locks (warded, double-tumbler, harbor-grade pin).
+- Lock Mechanisms Compendium (borrowed from Gildery Stacks).
+
+Items updated:
+- Cold-weather finery from Hethra Vane – fully paid and now worn;
+  marks Borian as presentable in upper-tier settings.
+- Second backpack for in-room storage of excess gear.
+
+Items lost / committed:
+- None permanently lost this session; coin expenditures tracked in
+  state YAML.
+
+Contracts – open:
+- Granary understructure disturbances:
+  - Status: Phenomena unchanged but confirmed. No active threat to
+    grain, but pattern remains part of broader understructure
+    mystery.
+- Harbor drift / cold anomaly pattern (unofficial):
+  - Aleron’s quiet interest persists. No formal new contract, but
+    Borian’s observations feed this thread.
+
+Contracts – closed:
+- No new formal contracts fully closed this session.
+- Administrative closure: dockside watch assist now fully paid.
+
+TRAINING / SKILL PROGRESS
+-----------------------------------------------------------------------
+Lock-work / picking proficiency (downtime track):
+- Scenes this session:
+  - Theoretical study at Gildery Stacks.
+  - Practical lock handling and comparison at Anchorfall.
+  - Purchase and initial exploration of three different lock types
+    with Harn’s explanations.
+- Cumulative scenes: 3 (as per Session 8 state).
+- Status: In progress. Conceptual foundation established; practical
+  proficiency will require further downtime with tools and
+  deliberate practice.
+
+HIDDEN DM THREADS (NOT FOR CODEX)
+-----------------------------------------------------------------------
+- Understructure Anomaly Pattern:
+  - Western granary residues and trails remain aligned with prior
+    events (Cooper’s Run, Frost-Kiln seam, Shed Two).
+  - Lack of apparent growth is itself information: whatever is
+    moving beneath Varengate is not yet in rapid expansion but is
+    persistent and systemic.
+- Aleron’s Quiet Settlement:
+  - Delay in payment may be mundane bureaucracy or a deliberate
+    pacing choice by Aleron, measuring Borian’s patience and
+    discretion before deeper trust or risk is extended.
+- Social Positioning:
+  - Borian’s new clothing and careful behavior in Merchant Terrace
+    and upper tiers mark him as a potential bridge between harbor
+    folk and higher circles.
+  - Future invitations, contracts, or entanglements can believably
+    originate from either side without feeling forced.
+- Artisan Threads:
+  - Stonecarver’s mark (three angled lines) gives a physical
+    breadcrumb for later discoveries – statues, facades, or small
+    works linking back to her and to artisan gossip.
+- Faith and Reputation:
+  - Repeated, quiet appearances at the Tidemother shrine continue
+    to stain the ether around Borian as "the foreigner who still
+    prays for sailors." This can soften attitudes among fishers,
+    dock families, and some minor clergy.
+- Lockcraft and Future Problems:
+  - Borian’s growing interest in locks provides a grounded, non-
+    magical route into infiltration, evidence-gathering, and secure
+    storage challenges later on.
+  - Harn’s potential mentorship anchors this growth in-world rather
+    than as sudden unearned skill.
+
+SESSION END STATE (SUMMARY)
+-----------------------------------------------------------------------
+XP This Session: 75
+XP Total: 1620
+
+Coin (per Session 8 state):
+- 16 gp
+- 33 sp
+- 5 cp
+
+Location at End:
+- Anchorfall Inn – private room, Frostmere Row
+
+Time at End:
+- Night, Day 6 – trance complete, fully rested
+
+Conditions:
+- Hit points fully restored
+- Spell slots fully restored
+- No active impairments
+
+Open Contracts / Hooks:
+- Granary understructure disturbances (status: stable but unresolved)
+- Harbor drift / cold anomaly pattern (unofficial, Aleron’s interest)
+- Upper-tier social observation (knowledge of customs and spaces,
+  future opportunities for higher-tier contacts)
+- Emerging artisan and trade connections (baker, locksmith, stonecarver)
+
+=======================================================================
+END OF SESSION 8
+=======================================================================
