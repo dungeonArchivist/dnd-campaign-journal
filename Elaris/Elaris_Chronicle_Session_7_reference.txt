@@ -1,1 +1,258 @@
+=======================================================================
+ELARIS CHRONICLE – SESSION VII – "ECHOES IN THE CURRENT"
+=======================================================================
 
+TIMEFRAME
+-----------------------------------------------------------------------
+Day 5 in Varengate, late afternoon into early evening. The session
+covers the period from Borian leaving the Drowned Lantern, recovering
+Joren Vale beneath Shed Two, returning him to the surface, reuniting him
+with Tannic Orls, and reporting to Harbor Warden Aleron.
+
+WEATHER / ATMOSPHERE
+-----------------------------------------------------------------------
+Harborfront tier: cool, briny wind from the bay, late afternoon light.
+Mid-tier: drier air, muted sunlight through high windows. No rain.
+Evening approaching but daylight still present.
+
+LOCATIONS
+-----------------------------------------------------------------------
+- Harborfront: drying racks, ropeworks, Shed Two
+- Understructure beneath Shed Two (multiple chambers)
+- Unmapped arterial corridors beneath Varengate
+- Anchorfall Inn
+- Varengate Hall (Harbor Warden’s office)
+- Harborfront slipways
+- Drowned Lantern (brief passage)
+
+SESSION SUMMARY (HIGH LEVEL)
+-----------------------------------------------------------------------
+- Borian interviews Sella Ward regarding Joren Vale’s disappearance.
+- Inspection of the *Mare's Wish* leads to discovery of cold stone
+  beneath deck boards, shifting with the vessel’s position.
+- Borian and Tannic enter Shed Two and uncover a concealed descent
+  into an engineered understructure.
+- Borian descends alone after a lift-mechanism effect separates him
+  from Tannic.
+- Borian follows Joren's breadcrumb trail of fishing items through a
+  multi-chamber complex.
+- Borian finds Joren in a stasis chamber and extracts him.
+- Joren awakens after returning to the surface; reunion with Tannic.
+- Borian reports the matter to Harbor Warden Aleron.
+- Aleron identifies pattern links to the frost kiln incident.
+- Borian ends the day resting at Anchorfall Inn.
+
+DETAILED CONTINUITY – SCENE BY SCENE
+-----------------------------------------------------------------------
+Scene 1 – Speaking with Sella Ward at the ropeworks
+-----------------------------------------------------------------------
+Borian greets Sella Ward and receives clarification about Joren’s last
+movements. Sella confirms Joren tied up the *Wish*, left his jacket on a
+post, and walked toward Shed Two but did not stop to speak with anyone.
+She describes him as generally friendly, making his silence unusual.
+She does not know where the jacket ended up (likely taken by crew).
+
+Sella’s account reinforces that Joren did not enter any visible shed
+door. Her final detail: a cold draft near Shed Two’s rear wall caused
+her to look up, but she saw nothing.
+
+-----------------------------------------------------------------------
+Scene 2 – Returning to Tannic and inspecting the *Mare’s Wish*
+-----------------------------------------------------------------------
+Borian boards the vessel with Tannic. Topside inspection reveals no
+signs of struggle. Below deck, Borian detects a cold emanation beneath
+floorboards. Investigation reveals engineered stone beneath the decking,
+seemingly stationary as the boat moves.
+
+Pulling up a board reveals a glimpse of a stone tunnel—too smooth and
+clean to be natural. They test whether movement of the vessel alters the
+position; stone remains fixed, confirming it is independent of the boat.
+
+No entryway beneath the ship; only solid engineered surface. The tunnel
+is oriented parallel to the harbor but unreachable from the boat.
+
+-----------------------------------------------------------------------
+Scene 3 – Shed Two and discovery of the concealed access
+-----------------------------------------------------------------------
+At Shed Two, Borian notes a small gap near the rear wall emitting the
+same cold felt earlier. He and Tannic pry boards from the back wall
+(entry point, not flooring). Initial roll succeeds; subsequent heavy
+board fails (natural 1), but combined effort with Guidance succeeds in
+removing enough boards for entry.
+
+Behind the shed wall is a narrow descending space. Dust suggests a
+human-sized passage leading down. No signs of recent board replacement,
+implying Joren did not enter through the wall as Borian did.
+
+-----------------------------------------------------------------------
+Scene 4 – Entering the engineered understructure
+-----------------------------------------------------------------------
+The descent opens into a chamber of worked stone: smooth surfaces,
+soft ambient gray light, no debris. Temperature cold but stable.
+Architecture shows no Varengate-era toolmarks.
+
+Borian assesses walls for structural stability; they appear sound and
+constructed with precision. He proceeds further, darkvision guiding him.
+Tannic follows reluctantly.
+
+A wood box is discovered containing a notebook and a crude map-sketch.
+Borian inspects the book; the map displays unfamiliar corridors and
+chambers, no obvious Varengate landmarks. Investigation roll (10–1) is
+insufficient for precise orientation.
+
+-----------------------------------------------------------------------
+Scene 5 – Discovery of the multi-chamber system and the spire
+-----------------------------------------------------------------------
+Borian determines the path ahead leads to another chamber. He and
+Tannic advance cautiously. Borian’s Perception reveals a faint metal
+object ahead. This proves to be a fishing hook—clear breadcrumb.
+
+Map-sketched slot noted earlier is recalled; Borian suspects a puzzle
+connection. A second breadcrumb (bobbin), then float, line, token,
+cord, etc., confirms Joren’s passage.
+
+A central chamber contains a tall spire-like structure of metal or
+mineral composite with a small key-slot. Borian inspects it; markings
+are geometric, repeating, likely part of a machine. Touching it causes
+a perception-shift and spatial displacement: Borian reappears in the
+initial chamber alone; Tannic is gone. No harm, no injury—just a lift-
+like relocation.
+
+-----------------------------------------------------------------------
+Scene 6 – Following Joren’s breadcrumb trail deeper
+-----------------------------------------------------------------------
+Borian re-enters the system alone. The breadcrumb trail is consistent:
+small fishing tools placed carefully. Borian marks his own path with his
+own items, creating a two-layer trail. Corridor geometry shifts subtly,
+but not dangerously; Borian proceeds with caution.
+
+Several chambers appear identical, but Borian notes dust patterns and
+breadcrumb sequencing. Final breadcrumb is a knife lying near a right-
+hand passage.
+
+-----------------------------------------------------------------------
+Scene 7 – The stasis chamber and Joren Vale
+-----------------------------------------------------------------------
+The knife leads to a large terminal chamber bathed in low pulsing gray
+light. In the center: a smooth circular platform with faint channels.
+Atop it sits Joren Vale in a still, seated posture. He is breathing,
+uninjured, but unresponsive—held in a controlled stasis field.
+
+Borian assesses: no physical wounds, no starvation markers, muscles not
+atrophied. He identifies that the system is maintaining bodily
+functions. Extraction is safe but requires manual lifting.
+
+Borian lifts Joren; the chamber pulses once in reaction. The system
+appears to accept the removal rather than resist it. Doorways and pulses
+adjust but do not block exit.
+
+-----------------------------------------------------------------------
+Scene 8 – Ascent and Joren’s awakening
+-----------------------------------------------------------------------
+Borian retraces breadcrumbs; the system remains passive. As distance
+from the stasis chamber increases, Joren’s breathing deepens and traces
+of consciousness return. By the time Borian reaches the shed, Joren is
+responsive.
+
+Once outside, fresh air accelerates recovery. Joren recognizes his own
+name, environment, and crew context, but has limited memory of the
+descent—he recalls a cold pull and stepping through a “door” that no one
+else could see.
+
+-----------------------------------------------------------------------
+Scene 9 – Reunion at the ropeworks
+-----------------------------------------------------------------------
+Borian accompanies Joren to the ropeworks. Tannic Orls is found seated
+on a piling, staring at the tide. The reunion is immediate and
+emotional. Tannic expresses profound trust and gratitude to Borian.
+Joren confirms Borian saved his life but cannot describe the under-
+structure coherently.
+
+Crew members Rhett and Harren are informed; their initial shock matches
+harbor gossip patterns.
+
+-----------------------------------------------------------------------
+Scene 10 – Reporting to Harbor Warden Aleron
+-----------------------------------------------------------------------
+Borian reports Joren’s safe return and then outlines the strange
+understructure in careful, high-level terms. Aleron maintains control,
+asks precise questions, and immediately recognizes the implications.
+
+Aleron confirms similarity to the frost kiln anomaly Borian previously
+observed. He forbids alerting Hallwatch prematurely, citing risk of
+panic and economic shutdown. He requests Borian’s discretion and
+possible future assistance.
+
+-----------------------------------------------------------------------
+Scene 11 – Payment and closure
+-----------------------------------------------------------------------
+At the Hall’s clerk counter, Borian receives correct payout per Hall
+policy:
+
+- 10 gp for returning Joren alive
+- +4 gp hazard bonus for understructure conditions
+- +8 sp daily stipend
+
+Total added: 14 gp, 8 sp.
+
+The clerk formally closes the missing-person case.
+
+-----------------------------------------------------------------------
+Scene 12 – Anchorfall Inn and rest
+-----------------------------------------------------------------------
+Borian returns to Anchorfall Inn. Torven provides a warm meal and
+mulled cider. Borian rests, then enters trance. Day ends peacefully.
+
+ALLIES / RELATIONSHIPS CHANGES
+-----------------------------------------------------------------------
+- Tannic Orls: Strong Positive (gratitude and trust)
+- Joren Vale: Positive (rescued; views Borian as savior)
+- Harbor Warden Aleron: Positive-Professional (confidence in discretion)
+- Harborfront workers: Slight Positive (Joren’s return boosts standing)
+
+ITEMS / CONTRACTS CHANGES
+-----------------------------------------------------------------------
+- Items Gained: Payment pouch (14 gp, 8 sp)
+- Items Lost: none
+- Contracts Closed: “Missing fisher – Joren Vale” (Completed)
+- Contracts Open: “Granary understructure disturbances”
+
+HIDDEN DM THREADS (NOT FOR CODEX)
+-----------------------------------------------------------------------
+- The understructure is part of a larger ancient system beneath
+  Varengate. Each chamber is a node in a dormant network.
+- The spire acts as a lift-anchor using attunement-by-contact and parses
+  body heat signatures.
+- Joren was held intentionally, not trapped accidentally; system
+  recognized his presence as “processable.”
+- The cold signature matches the frost kiln anomaly; both stem from the
+  same subsurface strata.
+- Shed Two anomaly is not isolated; additional nodes lie under other
+  tiers, including one near Cooper’s Run.
+- Aleron suspects ancient pre-Varengate infrastructure but lacks proof.
+- The system is awakening gradually; Borian’s presence registers as a
+  compatible profile.
+
+SESSION END STATE (SUMMARY)
+-----------------------------------------------------------------------
+XP This Session: 250
+XP Total: 1545
+
+Coin Change: +14 gp, +8 sp (Total now 29 gp, 65 sp)
+
+Location at End: Anchorfall Inn, personal room
+Time at End: Early evening, Day 5
+
+Conditions: Resting, stable; full trance pending
+Hooks:
+- Aleron’s request for quiet follow-up
+- Frost kiln connection confirmed
+- Understructure system awareness increasing
+
+Contracts:
+- CLOSED: Missing fisher – Joren Vale
+- OPEN: Granary understructure disturbances
+
+=======================================================================
+END OF SESSION VII
+=======================================================================
