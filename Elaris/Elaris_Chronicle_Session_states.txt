@@ -1,0 +1,782 @@
+session: 0
+title: "The Frost-Tide Oath"
+
+time:
+  era: "Age of Renewal"
+  timeframe: "Early spring thaw, first break of sea ice"
+  weather: "Low clouds, sleet, and sea mist; temperatures near freezing"
+  location: "Dockside of Varengate"
+  safe_haven: null
+
+character:
+  name: "Borian Elmsworn"
+  level: 1
+  class: "Paladin"
+  xp_total: 0
+  coin:
+    gp: 16
+    sp: 0
+    cp: 0
+  inventory_ref: "See character sheet"
+  conditions: "None"
+
+contracts:
+  open: []
+  closed: []
+
+hooks:
+  world_threads:
+    - "The Frost-Tide Charter – missing expedition to the northern isles"
+    - "The Hollow Concord – Aurelian influence within Varengate’s guild hierarchy"
+    - "The Whisper Forge – dwarven ruin emitting ley resonance"
+    - "The Lost Prayer – spiritual calling in Borian’s dreams"
+
+session_end_state:
+  location: "Varengate docks"
+  time_of_day: "Arrival, early spring thaw"
+  status: "No safe haven yet; beginning of campaign"
+
+session: 1
+title: "Through Sleet and Smoke"
+
+time:
+  era: "Age of Renewal"
+  timeframe: "Day 1 in Varengate, morning arrival to late night"
+  weather: "Sleet, rain, shifting snow; early frost tide patterns"
+  location: "Anchorfall Inn, Room 3"
+  safe_haven: "Anchorfall Inn"
+
+character:
+  name: "Borian Elmsworn"
+  level: 1
+  class: "Paladin"
+  xp_total: 50
+  coin:
+    gp: 4          # After conversions and payments
+    sp: 12         # See currency change below
+    cp: 0
+  inventory_ref: "See character sheet"
+  conditions: "Fully rested"
+
+contracts:
+  open:
+    - name: "Cold-weather finery (Hethra Vane)"
+      amount_owed_gp: 8
+  closed: []
+
+hooks:
+  - "Elden Ward connection via Sereth"
+  - "Anchorfall as emerging safe haven"
+  - "Tavian’s interest and assessment of Borian"
+  - "Customs officer noting Borian's arrival"
+  - "Rumors of Whisper Forge salvage missing teams"
+
+currency_notes:
+  exchanged_gp_for_sp: 10  # 10 gp → 100 sp
+  lodging_sp: 8
+  hethra_paid_sp: 80
+  hethra_deposit_gp: 2
+  remaining_debt_hethra_gp: 8
+
+session_end_state:
+  location: "Anchorfall Inn, Room 3"
+  time_of_day: "Late evening into early night"
+  status: "Fully rested"
+
+session: 2
+title: "Whispers Beneath the Grain"
+
+time:
+  era: "Age of Renewal"
+  timeframe: "Day 2 in Varengate, predawn through early morning"
+  weather: "Late-winter cold; light snow and lingering sleet crust; \
+harbor air wet and briny; low cloud and patchy fog"
+  location: "Western granary – basement stair and cellar entrance"
+  safe_haven: "Anchorfall Inn (Frostmere Row)"
+
+character:
+  name: "Borian Elmsworn"
+  level: 1
+  class: "Paladin"
+  xp_total: 200
+  coin:
+    gp: 4
+    sp: 13        # 12 sp from Session I + 1 sp gift at shrine
+    cp: 0
+  inventory_ref: "See character sheet"
+  conditions: "None; mild narrative fatigue only"
+
+resources:
+  lay_on_hands:
+    max_points: 5
+    spent_this_session: 5    # 4 on self, 1 on dockhand
+    remaining: 0
+  spell_slots:
+    level_1:
+      used: 1                # Shield of Faith
+      note: "Remaining slots per character sheet"
+
+contracts:
+  open:
+    - name: "Rat-clearing job – Western granary (Drett)"
+      status: "in progress"
+      payment_status: "no payment yet; contract remains open"
+    - name: "Missing fisherman notice (Joren-related)"
+      status: "unclaimed; mentally tagged for future"
+  closed: []
+
+hooks:
+  - "Drowned Lantern drops being interfered with"
+  - "Missing fisherman 'Joren' tied to Tidemother shrine"
+  - "Granary seep and undercity disturbances"
+  - "Harbor-guild and civic tension over quiet problem-solving"
+  - "Faith presence with Tidemother and harbor folk"
+
+session_end_state:
+  location: "Western granary – basement stair and cellar entrance"
+  time_of_day: "Early morning of Day 2, shortly after sunrise"
+  status: "Hit points back to full; Lay on Hands expended"
+
+session: 3
+title: "Stone in the Grain"
+
+time:
+  era: "Age of Renewal"
+  timeframe: "Day 2 in Varengate, late morning through early evening"
+  weather: "Cold but clear winter day; harbor wind sharp with salt; \
+frost and thin snow linger in shaded alleys and on roofs"
+  location: "Anchorfall Inn, Borian's room"
+  safe_haven: "Anchorfall Inn (Frostmere Row)"
+
+character:
+  name: "Borian Elmsworn"
+  level: 1
+  class: "Paladin"
+  xp_total: 400        # 50 (S1) + 150 (S2) + 200 (S3)
+  xp_this_session: 200
+  coin:
+    gp: 4
+    sp: 30             # 13 sp from Session II + 17 sp net this session
+    cp: 0
+  inventory_ref: "See character sheet"
+  conditions: "Fully recovered from earlier wounds; no active conditions"
+
+resources:
+  lay_on_hands:
+    note: "Fully expended during Session II; restored by long rest \
+trance at end of Session III"
+  spell_slots:
+    note: "Any expended slots restored by long rest trance at end of \
+Session III (per class rules)"
+
+contracts:
+  open:
+    - name: "Frost-Kiln Firewatch – Night Shift"
+      status: "Slip taken; one night shift 'tonight'; not yet begun \
+or completed"
+      reward: "20 silver"
+    - name: "Missing Fisher – Joren Vale"
+      status: "Posting present; noted but not pursued this session"
+      reward: "15 silver"
+  closed:
+    - name: "Rat-clearing – Western Granary (Drett)"
+      status: "Completed and closed this session"
+      reward: "5 silver"
+    - name: "Dockside Mediation – Wharf 3B (North Star vs Grey Gull)"
+      status: "Completed and closed this session"
+      reward: "12 silver"
+
+items:
+  gained:
+    - "Small packet of dried hearthfruit from Drett (personal token \
+of thanks)"
+  lost: []
+
+hooks:
+  - "Granary understructure anomalies beneath the three sheds"
+  - "Frost-Kiln Firewatch contract for tonight"
+  - "Merowin the apothecary as a potential expert"
+  - "Missing fisher Joren Vale posting and related board jobs"
+
+session_end_state:
+  location: "Anchorfall Inn, Borian's room"
+  time_of_day: "Early evening (approx. tenth bell)"
+  status: "Fully recovered from earlier wounds; no active conditions"
+
+session: 4
+title: "Threads of Surnhal"
+
+time:
+  era: "Age of Renewal"
+  timeframe: "Day 2 late evening through Day 3 late afternoon"
+  weather: "Cold and clear winter night; next day bright but cold with \
+long shadows along upper tiers"
+  location: "Overhang corridor near Herda Fenwater’s square"
+  safe_haven: "Anchorfall Inn (Frostmere Row)"
+
+character:
+  name: "Borian Elmsworn"
+  level: 1
+  class: "Paladin"
+  xp_total: 800            # 400 prior + 400 awarded this session
+  xp_this_session: 400
+  coin:
+    gp: <previous_gp> + 5  # 5 gp advance from Aleron
+    sp: <previous_sp> + 24 # +20 sp Frost-Kiln, +5 sp messenger, -1 sp tip
+    cp: <previous_cp>
+  inventory_ref: "See character sheet"
+  conditions: "No active conditions; fully rested following trance"
+
+resources:
+  lay_on_hands:
+    note: "Not expended this session; full amount available at session end"
+  spell_slots:
+    note: "No slots expended this session; full slots available"
+
+contracts:
+  open:
+    - name: "Shard Recovery – Private Collector (Aleron)"
+      status: "Contract accepted; investigation underway"
+      reward: "10 sp/day retainer + 25 gp on completion; expenses reimbursable"
+    - name: "Granary Understructure Anomalies"
+      status: "Outstanding investigation; three sheds disturbed"
+      reward: "None (ongoing civic concern)"
+    - name: "Missing Fisher – Joren Vale"
+      status: "Posting present on Hall board; not pursued this session"
+      reward: "15 silver"
+  closed:
+    - name: "Frost-Kiln Firewatch – Night Shift"
+      status: "Completed and closed; hazard box verified by clerk"
+      reward: "20 silver"
+    - name: "Messenger – Sealed Note Delivery"
+      status: "Completed and closed; drop confirmed by upper docks contact"
+      reward: "5 silver"
+
+items:
+  gained:
+    - "None this session"
+  lost: []
+  notes: "Mint sprig received from Lidena but gifted to Herda (net zero change)"
+
+hooks:
+  - "Memory-loom shard origin and lineage claims (Surnhal heritage)"
+  - "Shard buyer likely to return to Herda’s lane"
+  - "Granary understructure disturbances and related phenomena"
+  - "Missing fisher Joren Vale posting"
+  - "Potential future favor with Kessa (Grayharp Market)"
+
+session_end_state:
+  location: "Overhang corridor ahead of Herda Fenwater’s home"
+  time_of_day: "Late afternoon, Day 3"
+  status: "On watch; awaiting potential return of shard-buyer"
+
+session: 5
+title: "Echoes Brought to Light"
+
+time:
+  era: "Age of Renewal"
+  timeframe: "Day 4 morning through Day 4 late night"
+  weather: "Cold autumn day with clear sky; steady ridge winds; harbor \
+breeze carrying salt and smoke into lower tiers"
+  location: "Anchorfall Inn (Frostmere Row)"
+  safe_haven: "Anchorfall Inn (Frostmere Row)"
+
+character:
+  name: "Borian Elmsworn"
+  level: 3
+  class: "Paladin"
+  xp_total: 1035            # 800 prior + 235 awarded this session
+
+coin:
+  gp: 8
+  sp: 50
+  cp: 0
+  notes: "Net loss of 1 gp 5 sp due to lodging, meals, and bathhouse \
+costs; income from four Hall contracts"
+
+resources:
+  hit_points: "Fully restored"
+  conditions: "None"
+  spell_slots: "Full (after trance)"
+  notes: "No class-feature expenditures this session"
+
+inventory:
+  carried:
+    - "Standard gear per Anchor"
+    - "Dragonchess set"
+    - "No new items acquired this session"
+  stored: []
+  lost: []
+  notes: "Gear cleaned and maintained before trance"
+
+contracts:
+  open:
+    - "Granary understructure disturbances"
+    - "Missing fisher Joren Vale"
+  completed:
+    - "Parcel Delivery – Grayharp Market"
+    - "Rat-Sign Check – Municipal Grain Shed"
+    - "Frost-Kiln Temperature Verification"
+    - "Message Delivery – Grayharp Steward"
+  failed: []
+  notes: "Shard Recovery (Aleron) considered narrative-closed for \
+Borian; payment pending but no further involvement required"
+
+hooks:
+  - "Possible quiet payment from Aleron via Torven"
+  - "Gildery Stacks as study location"
+  - "Continuing civic-tier anomalies (understructure)"
+  - "Missing fisher Joren Vale posting"
+  - "Ongoing reputation development in Grayharp and Hall"
+
+session_end_state:
+  location: "Anchorfall Inn (private room)"
+  time_of_day: "Late night, approaching the 11th Bell"
+  status: "In trance; fully restored"
+
+session: 6
+title: "Shadows Along the Quay"
+
+time:
+  era: "Age of Renewal"
+  timeframe: "Day 5 late morning through early afternoon"
+  weather: "Cold, bright winter day; steady harbor breeze with brine \
+and tar; lower tiers clear with long shadows along the quay"
+  location: "Harborfront Tier – The Drowned Lantern"
+  safe_haven: "Anchorfall Inn (Frostmere Row)"
+
+character:
+  name: "Borian Elmsworn"
+  level: 3
+  class: "Paladin"
+  xp_total: 1295           # 1035 prior + 260 awarded this session
+
+coin:
+  gp: 15
+  sp: 57
+  cp: 0
+  notes: "Net gain of 7 gp 7 sp from Hall work (Varrick escort, \
+Cooper's Run clear-out) after minor tavern expense; herbalist job \
+paid in kind (Healer's Kit supplies) rather than coin"
+
+resources:
+  hit_points: "Fully restored"
+  conditions: "None"
+  spell_slots: "Full (no spell-slot expenditures this session)"
+  notes: "Only minor cantrip-level effects used; no class-feature \
+resources meaningfully expended"
+
+inventory:
+  carried:
+    - "Standard gear per Anchor"
+    - "Dragonchess set"
+    - "Understructure treatise: 'On Subsurface Flows and Structural \
+Instability in Early Varengate Tiers'"
+    - "Healer's Kit with +3 additional uses from Marwen's herbal \
+salves and dressings"
+  stored: []
+  lost: []
+  notes: "New book stowed in pack for later study; field gear in good \
+order after light-use workday"
+
+contracts:
+  open:
+    - "Granary understructure disturbances"
+    - "Missing fisher Joren Vale"
+  completed:
+    - "Escort – Varrick to Gildery Stacks"
+    - "Cooper's Run structural clear-out assessment"
+    - "Herbalist Stall Watch – Marwen of Lowridge"
+  failed: []
+  notes: "Missing fisher contract advanced significantly (owner \
+interviewed, vessel access granted, witness and shed-row leads \
+identified); understructure anomaly theme reinforced via Cooper's Run \
+findings"
+
+hooks:
+  - "Missing fisher Joren Vale – next steps: interview Sella Ward \
+(Net-Sella), search harborfront shed row near ropeworks, and conduct a \
+focused inspection of the *Mare's Wish*"
+  - "Continuing civic-tier and understructure anomalies (granary tier, \
+Cooper's Run breach, prior Frost-Kiln seam)"
+  - "Possible quiet payment from Aleron via Torven (timing still \
+uncertain but expected)"
+  - "Gildery Stacks as a future study and research location"
+  - "Growing reputation in Hall and harborfront as a cautious, \
+professional problem-solver willing to take neglected civic work"
+
+session_end_state:
+  location: "The Drowned Lantern, harborfront Varengate (Tannic Orls' \
+corner table)"
+  time_of_day: "Early afternoon, Day 5"
+  status: "On his feet with Tannic Orls' trust and formal permission to \
+board the *Mare's Wish*; prepared to pursue Net-Sella, shed row, and \
+vessel inspection as next investigative steps"
+
+session: 7
+title: "Echoes in the Current"
+
+time:
+  era: "Age of Renewal"
+  timeframe: "Day 5 afternoon through Day 5 early evening"
+  weather: "Cool late-autumn air; briny harbor breeze; steady coastal \
+light fading toward dusk"
+  location: "Anchorfall Inn (Frostmere Row)"
+  safe_haven: "Anchorfall Inn (Frostmere Row)"
+
+character:
+  name: "Borian Elmsworn"
+  level: 3
+  class: "Paladin"
+  xp_total: 1545            # 1295 prior + 250 awarded this session
+
+coin:
+  gp: 29
+  sp: 65
+  cp: 0
+  notes: "14 gp 8 sp awarded for Joren Vale recovery (10 gp return alive, \
+4 gp hazard, 8 sp stipend). No expenses recorded this session."
+
+resources:
+  hit_points: "Fully restored"
+  conditions: "None"
+  spell_slots: "Full (after trance)"
+  notes: "No class-feature expenditures requiring rest; no lasting \
+penalties from understructure exposure."
+
+inventory:
+  carried:
+    - "Standard gear per Anchor"
+    - "Dragonchess set"
+    - "Notebook and map taken from understructure box"    # if kept
+  stored: []
+  lost:
+    - "Breadcrumb markers used for navigation"
+  notes: "Gear carried throughout understructure unchanged; retrieved \
+items catalogued."
+
+contracts:
+  open:
+    - "Granary understructure disturbances"
+  completed:
+    - "Missing fisher – Joren Vale"
+    - "Parcel Delivery – Grayharp Market"            # legacy continuity
+    - "Rat-Sign Check – Municipal Grain Shed"
+    - "Frost-Kiln Temperature Verification"
+    - "Message Delivery – Grayharp Steward"
+  failed: []
+  notes: "Joren Vale contract closed with full payout. Aleron indicates \
+future quiet tasks may arise but none formally opened."
+
+hooks:
+  - "Harbor Warden Aleron's request for discreet follow-up on \
+understructure anomalies"
+  - "Confirmed connection between frost kiln event and Shed Two anomaly"
+  - "Deep-system conduit hints suggest multiple dormant nodes"
+  - "Ongoing civic-tier instability (Cooper’s Run, granary understructure)"
+  - "Rising reputation among harborfolk after Vale’s return"
+
+session_end_state:
+  location: "Anchorfall Inn (private room)"
+  time_of_day: "Early evening, approaching the 8th Bell"
+  status: "Resting; trance begun"
+
+session: 8
+title: "Paths Above the Tiers"
+
+xp:
+  total: 1620
+  gained_this_session: 75
+
+coin:
+  gp: 16
+  sp: 33
+  cp: 5
+
+location:
+  tier: "Frostmere Row"
+  place: "Anchorfall Inn – Private Room"
+
+time:
+  day: 6
+  phase: "Night"
+  note: "End of day; trance complete"
+
+conditions:
+  status: "Rested"
+  notes:
+    - "Fully restored hit points"
+    - "Fully restored spell slots"
+    - "No active impairments"
+
+open_contracts:
+  - "Granary understructure disturbances"
+  - "Harbor drift / cold anomaly pattern (unofficial)"
+
+closed_contracts:
+  - "None closed this session"
+
+items_gained:
+  - "Three practice locks (warded, double-tumbler, harbor-grade pin)"
+  - "Lock Mechanisms Compendium (borrowed from Gildery Stacks)"
+
+items_lost:
+  - "None"
+
+notices_and_hooks:
+  - "Aleron’s quiet settlement not yet delivered"
+  - "Granary anomalies consistent but unchanged"
+  - "Upper-tier social patterns observed and internalized"
+  - "Light artisan and merchant contacts established"
+  - "Civic structures and tier customs better understood"
+
+session_flags:
+  tone: "Exploration and acclimation"
+  escalation: "Low"
+  notes:
+    - "City stable; subtle civic awareness persists"
+    - "Focus on learning and observing tier culture"
+
+session: 9
+title: "Threads at the Margin"
+
+xp:
+  total: 1770
+  gained_this_session: 150
+
+coin:
+  gp: 16
+  sp: 34
+  cp: 5
+
+location:
+  tier: "Frostmere Row"
+  place: "Anchorfall Inn – Private Room"
+
+time:
+  day: 8
+  phase: "Early Afternoon"
+  note: "Returned from Tidewarden relay and received Mara’s note"
+
+conditions:
+  status: "Fully Rested"
+  notes:
+    - "Trance completed"
+    - "No injuries"
+    - "Spell slots full"
+    - "Gear organized"
+
+open_contracts:
+  - "Granary understructure disturbances"
+  - "Anomaly observations requested by Aleron (unofficial)"
+  - "Mara Rhensyr anomaly briefing (follow-up meeting Day 8)"
+
+closed_contracts:
+  - "Spice cart escort (Rylen Fedro)"
+  - "Assessment runner – Hall to Station C"
+  - "Lamp recovery – Frostmere Row"
+  - "Harborfront ledger courier"
+  - "Tidewarden internal relay (Station B circuit)"
+
+items_gained:
+  - "None of material significance (consumables and messages only)"
+
+items_lost:
+  - "16 sp paid to Anchorfall for two nights lodging"
+
+training_progress:
+  lock_mechanisms_picking:
+    scenes_this_session: 2
+    cumulative_scenes: 5
+    status: "In progress (5/10 toward half proficiency)"
+
+notices_and_hooks:
+  - "Kessa missing; initial search inconclusive"
+  - "Mara requests discreet anomaly investigation independent of Aleron"
+  - "Patterns of civic anomalies continue across multiple tiers"
+  - "Growing reputation across harborfront, Grayharp, and Frostmere Row"
+  - "Tidewarden Station B considers Borian a 'clean and reliable' outside hand"
+  - "Mysterious book remains unresolved; handwriting unidentified"
+
+session_flags:
+  tone: "Low-profile escalation; subtle civic tension"
+  escalation: "Measured"
+  notes:
+    - "City remains stable but shifting in small patterns"
+    - "Social connections strengthened across four districts"
+    - "Multiple cleanly executed jobs build professional credibility"
+
+session: 10
+title: "Acknowledgment Without Doors"
+
+xp:
+  total: 1895
+  gained_this_session: 125
+
+coin:
+  gp: 16
+  sp: 66
+  cp: 5
+
+location:
+  tier: "Frostmere Row"
+  place: "Anchorfall Inn – Rear Alley"
+
+time:
+  day: 11
+  phase: "Late Afternoon"
+  note: "Met Arlen Rusk; meeting set for first light at Station B annex"
+
+conditions:
+  status: "Stable"
+  notes:
+    - "Fully rested"
+    - "No injuries"
+    - "Gear organized and at hand"
+    - "Trance anomaly note secured"
+
+training_progress:
+  lockpicking:
+    scenes_this_session: 3
+    scenes_completed: 8
+    scenes_required_for_half_proficiency: 10
+    scenes_required_for_full_proficiency: 20
+    note: "Conceptual mastery improving; not yet half-proficient"
+
+open_contracts:
+  - "Granary understructure disturbances"
+  - "(Unofficial) Anomaly observations requested by Aleron Vale"
+  - "Mara Rhensyr – Private anomaly coordination"
+  - "Tidewarden runner disappearance (informal, via Arlen Rusk)"
+
+closed_contracts: []
+
+flags:
+  - "Public seam observed and receded without incident"
+  - "Non-magical planar adjacency confirmed"
+  - "Anchored system acknowledgment recorded"
+
+session: 11
+title: "Pressure Without Panic"
+
+xp:
+  total: 2195
+  gained_this_session: 300
+
+coin:
+  gp: 16
+  sp: 66
+  cp: 5
+
+location:
+  tier: "Frostmere Row"
+  place: "Anchorfall Inn – Private Room"
+
+time:
+  day: 12
+  phase: "Midday"
+  note: "Completed four-hour trance; session concluded immediately after rest"
+
+conditions:
+  status: "Stable"
+  notes:
+    - "Fully rested (trance complete)"
+    - "No injuries or lingering effects"
+    - "Spell slots and class features refreshed"
+    - "Gear carried as normal"
+
+open_contracts:
+  - "Granary understructure disturbances"
+  - "Anomaly observations requested by Aleron Vale"
+  - "Mara Rhensyr – private anomaly coordination (ledger review pending)"
+
+resolved_this_session:
+  - "Tidewarden runner disappearance (operational resolution; political ramifications pending)"
+
+open_threads:
+  - "Kerric in Tideguard custody; employer unknown"
+  - "Edrin concealed in Southcross Tier as protected witness"
+  - "Non-magical actors exploiting probabilistic boundary behavior"
+  - "Escalation shifting from environmental anomaly to human pressure"
+
+npcs:
+  allies:
+    - "Arlen Rusk (active coordination)"
+    - "Edrin (runner; in hiding)"
+  adversaries:
+    - "Kerric (detained)"
+    - "Unidentified hired enforcers (fled)"
+
+items:
+  gained: []
+  expended:
+    - "Healer’s kit (1 use)"
+
+flags:
+  public_awareness: "Low"
+  escalation_state: "Contained but unstable"
+  combat_occurred: true
+  civilian_harm: false
+
+session: 12
+title: "Pressure Without Footprints"
+
+xp:
+  total: 2395
+  gained_this_session: 200
+
+coin:
+  gp: 18
+  sp: 66
+  cp: 5
+
+location:
+  tier: "Frostmere Row"
+  place: "Anchorfall Inn – Private Room"
+
+time:
+  day: 13
+  phase: "Early Evening"
+  note: "Returned from Hall after perimeter assessment and contract confirmations"
+
+conditions:
+  status: "Stable"
+  notes:
+    - "Fully rested"
+    - "No injuries or lingering effects"
+    - "Spell slots and class features available"
+    - "Gear carried as normal and unobtrusive"
+
+open_contracts:
+  - "Granary understructure disturbances"
+  - "Kessa missing – probable accidental seam transition"
+  - "Anomaly observations requested by Aleron Vale"
+  - "Mara Rhensyr – private anomaly coordination (ledger review pending)"
+  - "Outbound cart guard contract – departs Day 14 (east road gate)"
+
+resolved_this_session:
+  - "Landward perimeter breach ruled out via Hall assessment"
+  - "Economic standing advanced from silver-tier to gold-tier contracts"
+
+open_threads:
+  - "Internal infrastructure remains primary anomaly surface"
+  - "Maintenance and map access consolidation occurring quietly"
+  - "Authority structures observing but not yet aligned"
+  - "Kessa’s independent investigation converged on known seam behavior"
+
+npcs:
+  allies:
+    - "Arlen Rusk (updated with seam hypothesis)"
+    - "Torven (Anchorfall Inn; message conduit)"
+  adversaries:
+    - "Unknown (no confirmed hostile actors engaged this session)"
+
+items:
+  gained: []
+  expended: []
+
+flags:
+  public_awareness: "Low but rising"
+  escalation_state: "Pressure increasing; vectors narrowing"
+  combat_occurred: false
+  civilian_harm: false
