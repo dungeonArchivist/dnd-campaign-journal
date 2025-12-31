@@ -1,1 +1,178 @@
+=======================================================================
+ELARIS CHRONICLE – SESSION XI – "PRESSURE WITHOUT PANIC"
+=======================================================================
+
+TIMEFRAME
+-----------------------------------------------------------------------
+Day 12 in Varengate, early morning through midday.
+
+Approximate clock:
+- Day 12 ~05:30–06:30 – Tidewarden Station B (maintenance annex).
+- Day 12 ~06:30–07:30 – Mid-tier maintenance corridors and spur.
+- Day 12 ~07:30–08:30 – Street confrontation and Tideguard handoff.
+- Day 12 ~08:30–09:30 – Bakery meeting; post-incident coordination.
+- Day 12 ~09:30–10:30 – Southcross Tier escort and concealment.
+- Day 12 ~10:30–11:30 – Return to Anchorfall; Gildery Stacks errand.
+- Day 12 ~11:30–15:30 – Trance and rest at Anchorfall Inn.
+
+WEATHER / ATMOSPHERE
+-----------------------------------------------------------------------
+Cold winter morning, clear air. The city functions normally on the
+surface, but reports circulate among early workers of tools slipping,
+cold pockets in enclosed spaces, and echoes arriving out of order.
+No public alarm; subtle unease only.
+
+LOCATIONS
+-----------------------------------------------------------------------
+- Tidewarden Station B – Maintenance Annex (side entrance)
+- Mid-tier maintenance corridors and spur
+- Adjacent mid-tier streets
+- Small bakery off main thoroughfare
+- Southcross Tier – private laundry house
+- Anchorfall Inn (private room, common room)
+- Gildery Stacks (reading hall / lending desk)
+- Frostmere Row routes between tiers
+
+SESSION SUMMARY (HIGH LEVEL)
+-----------------------------------------------------------------------
+- Investigated Tidewarden runner disappearance with Arlen Rusk at first
+  light; identified boundary-adjacent behavior consistent with prior cases.
+- Located runner Edrin within a non-visual adjacency zone; confirmed he was
+  alive but disoriented and unable to self-extract.
+- Engaged a hired street group led by Kerric attempting to recover or
+  silence the runner; neutralized the threat without fatalities.
+- Stabilized Kerric and turned him over alive to the Tideguard, preserving
+  legal leverage and avoiding escalation.
+- Extracted and concealed Edrin via controlled escort and silhouette
+  management; established a temporary safe location.
+- Returned borrowed lock text to the Gildery Stacks and withdrew to rest,
+  preserving discretion and schedule discipline.
+
+DETAILED CONTINUITY – SCENE BY SCENE
+-----------------------------------------------------------------------
+Scene 1 – Station B Annex: Briefing and Initial Assessment (Day 12)
+-----------------------------------------------------------------------
+- Borian met Arlen Rusk at the maintenance annex before the harbor bells.
+- Arlen confirmed a Tidewarden runner (Edrin) failed to return; staffing
+  was thin due to the disappearance.
+- Borian examined the runner’s recovered tools; noted the anomaly that
+  items were returned when no such return occurred in Joren Vale’s case.
+- Borian and Arlen aligned on a confirm-first approach, avoiding premature
+  descent or public involvement.
+
+Scene 2 – Mid-tier Corridors: Boundary Proximity (Day 12)
+-----------------------------------------------------------------------
+- Borian and Arlen retraced the runner’s likely route through maintenance
+  corridors and a spur.
+- Borian detected non-visual adjacency indicators (pressure, misaligned
+  spatial sense) without a visible entry seam.
+- Marks were placed conservatively to track the boundary’s extent.
+- Runner Edrin was located within the affected space, conscious but unable
+  to reorient without external alignment.
+
+Scene 3 – Street Confrontation: Kerric’s Group (Day 12)
+-----------------------------------------------------------------------
+- A group of hired men led by Kerric confronted Borian and Arlen, intent on
+  reclaiming or silencing the runner.
+- Borian initiated control with Command (“Flee”), followed by Channel
+  Divinity (Nature’s Wrath), restraining multiple attackers.
+- Combat proceeded under surprise conditions; Borian enforced correct
+  initiative, save timing, and reaction windows.
+- Kerric was rendered unconscious but alive; remaining attackers fled or
+  surrendered when pressed.
+- No civilians were harmed; the runner remained protected throughout.
+
+Scene 4 – Post-Combat Decisions: Stabilization and Handoff (Day 12)
+-----------------------------------------------------------------------
+- Borian stabilized Kerric using a healer’s kit and removed visible blood
+  via prestidigitation to prevent claims of excessive force.
+- Kerric was delivered alive to the Tideguard for formal custody.
+- Statements were given; the matter transitioned from street incident to
+  official case.
+
+Scene 5 – Bakery Meeting: Immediate Containment (Day 12)
+-----------------------------------------------------------------------
+- Borian, Arlen, and Edrin regrouped at a small bakery to speak privately.
+- Determined that Edrin’s disappearance resulted from route manipulation
+  and probabilistic pressure, not precise control of seam locations.
+- Concluded Edrin was selected for reliability and low-profile routine,
+  making his loss deniable.
+- Decision made to conceal Edrin temporarily while Arlen monitored the
+  Tideguard’s handling of Kerric.
+
+Scene 6 – Southcross Escort: Silhouette Management (Day 12)
+-----------------------------------------------------------------------
+- Borian exchanged clothing with Edrin to control outward appearance,
+  presenting a single consistent figure to any observers.
+- Borian escorted Edrin to his aunt’s laundry house in Southcross Tier.
+- Entry was conducted without attracting attention; Edrin instructed to
+  remain in place and await word from Borian or Arlen unless forced to move.
+
+Scene 7 – Gildery Stacks: Procedural Return (Day 12)
+-----------------------------------------------------------------------
+- Borian returned a previously borrowed lock mechanisms volume to the
+  Gildery Stacks lending desk.
+- The transaction was routine; no research or new information was sought.
+- Borian departed without lingering.
+
+Scene 8 – Anchorfall Inn: Trance and Reset (Day 12)
+-----------------------------------------------------------------------
+- Borian returned to Anchorfall Inn and entered a four-hour trance.
+- No anomaly contact or intrusion occurred during the trance.
+- Borian emerged rested, alert, and on schedule for midday coordination.
+
+ALLIES / RELATIONSHIPS CHANGES
+-----------------------------------------------------------------------
+- Arlen Rusk: Operational trust deepened; parallel lines of inquiry active
+  (street vs. Tideguard).
+- Edrin (runner): Recovered alive; now a protected witness and liability.
+- Tideguard: Kerric in custody; official process initiated.
+
+ITEMS / CONTRACTS CHANGES
+-----------------------------------------------------------------------
+- Items:
+  - Healer’s kit: 1 use expended.
+  - No items gained or lost otherwise.
+- Contracts / Threads:
+  - Tidewarden runner disappearance: operationally resolved; political
+    ramifications pending.
+  - Granary understructure disturbances: still open.
+  - Anomaly observations (Aleron Vale): still open.
+  - Mara Rhensyr coordination: unchanged.
+
+HIDDEN DM THREADS (NOT FOR CODEX)
+-----------------------------------------------------------------------
+- The confrontation confirms that non-magical actors are attempting to
+  weaponize probabilistic boundary behavior rather than control it.
+- Kerric’s willingness to act implies a payer with sufficient reach to
+  influence runners’ routes.
+- Edrin’s survival introduces a time-limited witness whose safety will
+  shape future moves by hostile parties.
+
+SESSION END STATE (SUMMARY)
+-----------------------------------------------------------------------
+XP This Session: 300
+XP Total: 2195
+
+Coin:
+- No change this session.
+- Total remains: 16 gp, 66 sp, 5 cp.
+
+Location at End:
+- Anchorfall Inn – private room.
+
+Time at End:
+- Midday, Day 12.
+
+Conditions:
+- Fully rested (trance complete); no injuries.
+- Gear carried as normal.
+
+Hooks / Threads:
+- Kerric in Tideguard custody; employer unknown.
+- Edrin concealed in Southcross Tier.
+- Shift from environmental anomaly focus to adversarial pressure.
+=======================================================================
+END OF SESSION XI
+=======================================================================
 
