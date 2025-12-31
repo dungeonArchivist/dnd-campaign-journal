@@ -1,1 +1,443 @@
+ELARIS CHRONICLE – SESSION 6 – "SHADOWS ALONG THE QUAY"
+=======================================================================
 
+TIMEFRAME
+-----------------------------------------------------------------------
+Covers late morning to early afternoon of Day 5 in Varengate.
+
+Approximate clock:
+- ~09:00–10:00: Anchorfall Inn (parcel delivery and morning departure).
+- ~10:00–11:00: Hall of Free Companies (board, escort job, postings).
+- ~11:00–13:00: Cooper's Run clear-out and report.
+- ~13:00–14:00: Mid-Tier Crossing herbalist stall watch.
+- ~14:00–15:30: Hall return, missing-fisher contract, Slip 12 survey,
+  dockhand interview, Drowned Lantern conversation with Tannic Orls.
+
+WEATHER / ATMOSPHERE
+-----------------------------------------------------------------------
+Cold winter day, air clearer than prior stormy sessions. Breeze moving
+steadily off the water, sharper and salt-heavy at the harborfront. Mid-
+tier is busy but not frantic; harborfront has the usual mix of gulls,
+tar, brine, and fish offal. Light is bright enough to throw long shadows
+along quay and shed rows, but not yet into evening-gloom.
+
+LOCATIONS
+-----------------------------------------------------------------------
+- Anchorfall Inn – Room 3, common room.
+- Hall of Free Companies – clerk counter, job board.
+- Cooper's Run – drainage run beneath city, structural breach area.
+- Mid-Tier Crossing – Marwen of Lowridge's herbal stall.
+- Harborfront Tier – South Quay, Slip 12 (*Mare's Wish*).
+- Dockside work area – Slip 13 hull-scraping site.
+- The Drowned Lantern – harborfront tavern, Tannic's corner table.
+
+SESSION SUMMARY (HIGH LEVEL)
+-----------------------------------------------------------------------
+Session VI advances the civic side of Varengate: Borian completes a
+structural-clearance job at Cooper's Run, earns trust from city workers
+and Marwen the herbalist, and then deliberately takes on the long-
+ignored missing-fisher contract for Joren Vale. At South Quay he learns
+the hard core of the mystery: Joren took the *Mare's Wish* out alone,
+returned her neatly moored with gear stowed, then walked toward the old
+harbor sheds and never reappeared. In the Drowned Lantern, Borian
+secures Tannic Orls' trust and formal permission to board the vessel,
+establishes the emotional and reputational stakes of the case, and
+identifies two key next steps: speaking with net-mender Sella Ward
+(Net-Sella) and searching the shed row where sound and wind behave oddly.
+
+DETAILED CONTINUITY – SCENE BY SCENE
+-----------------------------------------------------------------------
+
+Scene 1 – Morning at Anchorfall Inn – Day 5
+-----------------------------------------------------------------------
+Context:
+- Session begins from the previous state: Borian has finished trance and
+  a quiet night at Anchorfall Inn, fully restored. It is early morning,
+  Day 5 in Varengate, in a private room on Frostmere Row.
+
+Parcel:
+- Torven delivers a wrapped parcel left by an anonymous hooded figure
+  earlier. The messenger avoided conversation and did not give a name.
+- The parcel contains an aged, leatherbound book titled (working title,
+  DM-only) "On Subsurface Flows and Structural Instability in Early
+  Varengate Tiers." The text references understructure pressures,
+  drainage patterns, and early granary-tier work.
+- Book is mundane (no magical aura assumed). Its authorship is obscure.
+  It appears aligned with existing "city-wide small anomalies" hooks.
+
+Departure:
+- Borian secures the book, choosing not to read it deeply on the spot.
+- He gears up for the day and leaves Anchorfall with the intent to find
+  income and keep an eye on the Hall board.
+
+Scene 2 – Hall of Free Companies and Varrick Escort
+-----------------------------------------------------------------------
+- At the Hall, workboard traffic is steady. Among routine slips, Borian
+  selects a simple escort job: accompanying Varrick, a Hall assistant,
+  to the Gildery Stacks.
+- The escort proceeds without ambush or magical interference. Varrick's
+  prior "misunderstanding" from the previous day is clarified as a
+  mundane payment dispute, not criminal entanglement.
+- The job pays 1 gp 8 sp. This payment was previously owed and is now
+  explicitly recognized and recorded.
+
+- Board notes:
+  * Missing-fisher notice for Joren Vale is still present, but low on
+    the board and neglected.
+  * Granary-understructure posting remains open.
+  * Assorted minor jobs (stall watches, errands) are available.
+
+Scene 3 – Cooper's Run Clear-Out
+-----------------------------------------------------------------------
+Job parameters:
+- Borian accepts a "Cooper's Run clear-out" contract: 6 gp pay, with a
+  hazard bonus possible if warranted. The task is to inspect and clear
+  a drainage run where coopers have reported concerns.
+- Assigned team:
+  * Breda – junior structure tech, responsible for marking safe paths.
+  * Lakan – lantern-hand, providing light and basic support.
+
+Into the run:
+- Borian establishes safety priorities with the team, explicitly stating
+  that no job is worth their lives and no one is to go off alone. Breda
+  leads, marking the route.
+- Guidance is cast on Breda (Borian's touch / cantrip use). Breda's
+  Perception check (13+2 from guidance) establishes baseline path-safety
+  and hazard recognition.
+
+Breach and anomaly:
+- Deeper in Cooper's Run, the team finds:
+  * A basin-like area with visible subsidence and stress.
+  * A breach in the far wall where stone and mortar have been pushed
+    outward from within, not collapsed inward.
+  * A rhythmic cold draft and faint pulsing breeze through the breach.
+  * A subtle sound like distant grating or movement, at measured
+    intervals, suggesting something active deeper behind the stone.
+- Borian uses his darkvision to recon ahead. Perception (15+2) confirms:
+  * No immediate physical attackers or visible creatures.
+  * No rubble poised for imminent collapse.
+  * The breach is wrong in character: too clean a displacement, with
+    stone and mortar pushed outward in a smooth arc, not jagged.
+
+Decision and withdrawal:
+- Borian judges that attempting to dig or widen the breach would be
+  unsafe without structural bracing and specialized crew. The anomaly is
+  real but not something a clear-out team should handle.
+- He chooses to withdraw the team intact, instructing Breda to mark
+  their route out and note the site carefully.
+- He explicitly tells the pair to avoid embellishment and rumor; they
+  are to describe what they saw, not speculate, to prevent panic.
+
+Report and closure:
+- Back at the Hall, the three prepare a detailed report:
+  * Run is not in immediate danger of collapse.
+  * Breach appears to originate from inside the wall, with smooth
+    displacement and rhythmic cold draft.
+  * Strange pulsing breeze and faint internal sounds noted.
+  * The work requested (clear-out) is not the correct response; a
+    specialized engineering / arcane team is needed.
+- Borian praises the team in front of the clerk, recommending Breda and
+  Lakan for future work requiring steady nerves.
+- The Hall clerk closes the contract and pays Borian the 6 gp. The
+  report is flagged for understructure review, tying it into the wider
+  "city anomalies" arc.
+
+Scene 4 – Marwen's Herbal Stall Watch – Mid-Tier Crossing
+-----------------------------------------------------------------------
+- Borian accepts a modest stall-watch job for Marwen of Lowridge at
+  Mid-Tier Crossing (7 sp pay).
+- Marwen:
+  * Meticulous, high-standards herbal trader.
+  * Gives strict instructions: no selling, no brewing, no rearranging,
+    no letting hands wander off with stock.
+- Borian holds a visible, attentive watch for roughly an hour. He
+  remains present and does not pull out the understructure book, keeping
+  his attention on the stall.
+
+Observations:
+- Foot traffic: apprentices, dockhands, families, browsers. No theft
+  attempts. A few teenagers consider the brighter tinctures but back off
+  under Borian's gaze.
+- One courier (Perren) pauses, likely looking for Marwen but, finding
+  her absent, moves on without leaving a message.
+
+Trade in kind:
+- Upon Marwen's return, Borian honestly reports a quiet watch and
+  mentions the passing courier.
+- He requests, instead of coin, something practical for cuts and
+  bruises. Marwen assesses him as sensible and trustworthy, then trades
+  herbal stock equal to 7 sp for additional Healer's Kit capacity.
+- Mechanical result: Borian gains +3 uses to his Healer's Kit (field
+  dressings, salve, woundwash). No coin changes hands.
+- Marwen marks Borian mentally as a preferred future watcher.
+
+Scene 5 – Hall Return and Missing-Fisher Contract
+-----------------------------------------------------------------------
+- Back at the Hall, Borian notes the absence of the Joren Vale notice on
+  the active face of the board and asks the clerk about it.
+- Clerk explains:
+  * No confirmation of Joren's return.
+  * Tidewardens performed a cursory shoreline sweep; nothing found.
+  * Crew has not escalated beyond the initial report.
+  * In absence of new information or a body, the case remains open but
+    has slipped down the priority stack.
+- Borian states he may take the case. The clerk brings the notice back
+  up, promising to re-pin it where he can easily find it upon return.
+
+Formal acceptance:
+- After completing the herbalist job, Borian returns and pulls the Joren
+  Vale slip from the board.
+- The clerk records:
+  * Contract: "Missing Fisher – Joren Vale."
+  * Location focus: South Quay, Slip 12.
+  * Possible leads: crew haunts – the Drowned Lantern and the Bitterline.
+- Pay structure (per Hall policy and Companion economics) is confirmed:
+  * Leads only: 1–3 gp for non-trivial, verifiable information.
+  * Full resolution: 5–10 gp depending on outcome (10 gp if recovered
+    alive).
+  * Hazard bonus: +2–6 gp if significant danger encountered.
+  * Multi-day searches: 8 sp per day sustenance, plus any lead / final
+    payouts. Searchers are not expected to starve while serving the
+    city.
+- Borian raises concern about the elapsed five days; the clerk matches
+  his realism but confirms the Hall will honor work and pay.
+
+Scene 6 – South Quay, Slip 12 – The Mare's Wish
+-----------------------------------------------------------------------
+Arrival and first read:
+- Borian travels to South Quay. Slip 12 holds the *Mare's Wish*, a
+  small, well-kept fishing vessel suitable for 1–3 crew on short runs.
+- With a light Perception (10), Borian notes:
+  * Lines properly fastened, knots tidy, no sign of panicked mooring.
+  * Deck dry aside from normal spray; gear stowed neatly.
+  * Nets, hooks, and buckets arranged as if at routine end-of-day.
+  * No immediate blood or struggle evident on deck or dock.
+- Tidewarden chalk mark on the mooring post indicates a prior official
+  "checked" status, not a hazard flag.
+
+Dockhands:
+- On Slip 13, two dockhands (tall-thin and short-squint) clearly
+  recognize the *Mare's Wish* and Joren's situation. They:
+  * Confirm that Joren went out alone on a short evening line-cast.
+  * Emphasize that such solo runs are common for competent fishers in
+    calm water.
+  * Note that if he had fallen overboard, the boat should have drifted
+    or shown signs on lines and gear.
+- Crucial detail:
+  * They state the boat returned "tidy" – Joren must have moored her
+    himself, stowed gear, and then left the vessel alive.
+  * Their shared conclusion: whatever happened to Joren did not happen
+    on the water.
+
+Shed direction:
+- The dockhands indirectly point Borian toward the Drowned Lantern for
+  owner and crew, while also suggesting that walking the sheds near the
+  ropeworks is the right next investigative step.
+- No active hostility, just resigned concern. They do not conceal
+  information but are cautious about gossip.
+
+Scene 7 – The Drowned Lantern – Meeting Tannic Orls
+-----------------------------------------------------------------------
+Approach:
+- Borian enters the Drowned Lantern, taking stock of a midday harbor
+  crowd of tired fishers and dock workers.
+- At the bar, he requests "something hot that won't cloud a man's
+  wits," and orders two hot spiced waters. He pays 1 sp (overpaying the
+  nominal 2 cp cost). The barkeep quietly acknowledges his intent to
+  approach Tannic Orls.
+
+Initial contact:
+- Tannic Orls is found in a corner: older, weathered, not drunk, staring
+  at the table. He has not been sailing since Joren vanished.
+- Borian sits with him, offering one of the heated drinks. Tannic reads
+  this as a sign of seriousness rather than idle curiosity.
+
+Establishing purpose:
+- Borian explains he is newly in Varengate, has taken the Hall contract,
+  and is not promising miracles, only honest effort.
+- Tannic outlines the core situation:
+  * Joren was a good, steady young fisher; not a drunk, debtor, or
+    brawler.
+  * Joren took the *Mare's Wish* out alone on a short evening line-cast
+    in calm conditions.
+  * The boat came back docked clean. Lines and gear are exactly how
+    Joren left them – tidy and deliberate.
+  * The horror is that Joren's trail ends after he returned and moored.
+
+The sheds and witness:
+- Tannic explains:
+  * A net-mender, Sella Ward ("Net-Sella"), saw Joren step off the boat
+    and walk toward the old storage sheds near the ropeworks.
+  * Joren's walk was purposeful, not staggering or confused.
+  * No one has seen him since.
+- The sheds:
+  * Five old harbor sheds past the salters' barrels and curing racks.
+  * Second shed: dark-green door, hinge bent upward, pull left before
+    pushing.
+  * Fourth shed: compromised roof beam (unsafe to stand under).
+  * Officially owned by the Harbor Office; practically neglected
+    storage. Locks are old, mismatched, or warped.
+  * Tidewardens and crew did a cursory "look" (door checks with lantern
+    sweeps) but did not perform a real search for sign.
+
+Multi-day search mechanics:
+- Tannic and the Hall clerk together gave Borian clarity on how multi-
+  day searches are treated economically (already summarized above). This
+  reinforces that he can pursue the case without going hungry.
+
+Net-Sella:
+- Tannic identifies Net-Sella as:
+  * A long-standing net-mender, sober, observant, not prone to gossip.
+  * Working most afternoons at the drying racks or near ropeworks.
+  * The last reliable witness to Joren's movements.
+- Directions:
+  * From Slip 12, up the ramp and right toward the net-drying racks.
+  * Third rack from the north end is her usual station.
+  * If not there, she likely assists at the nearby ropeworks stall.
+
+Crew structure:
+- Tannic explains his standard crew:
+  * Himself at the tiller.
+  * Donric on nets (loyal, volatile).
+  * Harven on lines and catch (keen water-sense).
+  * Joren as the third, green but steady and learning quickly.
+- For short line-casts, one competent hand can crew the *Mare's Wish*
+  alone. Joren was trusted for such runs.
+
+Emotional stakes:
+- Tannic confirms they have not taken the *Mare's Wish* back out since
+  Joren's disappearance:
+  * Donric wanted to resume immediately.
+  * Harven refused to step aboard without knowing Joren's fate.
+  * Tannic himself will not sail while one of his crew remains missing
+    without explanation.
+- Borian offers a quiet, heartfelt reflection on hope ("Hope is not
+  fragile—..."), grounding Tannic's grief rather than offering false
+  comfort. This strengthens trust.
+
+Permission to board:
+- At session's close, Borian stands and requests permission to board the
+  *Mare's Wish* as part of the investigation.
+- Tannic grants full permission:
+  * Borian may board and inspect the vessel at will.
+  * If challenged, he is to say the boat answers to him, by Tannic's
+    leave, until the matter is resolved.
+  * Tannic requests that any findings, good or bad, be reported to him
+    first before rumor or official channels twist them.
+
+HIDDEN DM THREADS (NOT FOR CODEX)
+-----------------------------------------------------------------------
+- Understructure / anomaly linkage:
+  * Cooper's Run breach, the understructure anomalies near the granary,
+    and prior Frost-Kiln seam phenomena all point toward increasing
+    instability or movement below Varengate's lower tiers.
+  * The cold pulsing draft and smooth inward-to-outward displacement at
+    Cooper's Run are consistent with non-natural pressure or phased
+    displacement rather than normal erosion.
+
+- Shed row phenomenon:
+  * The old sheds near the ropeworks sit above a section of under-tier
+    corridors related to older harbor drainage and forgotten service
+    routes.
+  * "Wind forgetting to move" and sound-dampening in that area are
+    manifestations of the same deeper-layer disturbance, not classic
+    hauntings.
+  * It is possible Joren encountered either an understructure anomaly, a
+    covert operation, or a liminal crossing effect in/near Shed Two.
+
+- Joren's disappearance:
+  * Joren did not die at sea; his fate is tied to events on land after
+    docking.
+  * The trail leads through Net-Sella → sheds → understructure.
+  * Family, debts, and criminal associations are not primary drivers;
+    focus is on city/under-tier phenomena or third-party interference.
+
+- Social ripple:
+  * Borian's measured approach with Tannic, the prayerful moment, and
+    his refusal to give false hope elevate him in the quiet estimation
+    of harborfolk who overheard fragments.
+  * Tannic, if satisfied by future truth (even tragic), may become a
+    strong ally and advocate among the harborfront.
+
+- Economic / Hall reputation:
+  * The Hall notes Borian's willingness to pick up an old, neglected
+    missing-person contract, which few freelancers want.
+  * His handling of Cooper's Run and Marwen's stall builds a reputation
+    of cautious professionalism and restraint rather than reckless
+    bravado.
+
+MECHANICAL / STATE UPDATES
+-----------------------------------------------------------------------
+XP_Awarded_This_Session: 260
+XP_Total: 1295   # (1035 previous + 260 this session)
+
+XP_Breakdown:
+  Coopers_Run_ClearOut_Leadership_and_Hazard_Assessment: 100
+  Marwen_StallWatch_Professionalism_and_Reputation:        10
+  Missing_Fisher_Investigation_Major_Progress:            150
+
+Currency Changes (Session VI only):
+- Coin in:
+  * +1 gp 8 sp: Escort job with Varrick (Hall messenger / assistant).
+  * +6 gp: Cooper's Run clear-out base pay (no hazard bonus).
+- Coin out:
+  * –1 sp: Overpayment at Drowned Lantern for two hot spiced waters.
+- Net coin change this session: +7 gp 7 sp.
+
+Coin Totals:
+- Starting from prior state: 8 gp, 50 sp, 0 cp.
+- Ending this session:       15 gp, 57 sp, 0 cp.
+
+Items and Contracts:
+- Items:
+  * Understructure book (title above) – mundane research text linking to
+    granary / under-tier anomalies. In Borian's pack.
+  * +3 Healer's Kit uses from Marwen (field dressings and herbal salves).
+- Contracts:
+  * Cooper's Run clear-out – completed; reported; paid; flagged for
+    specialist follow-up by Hall.
+  * Missing Fisher – Joren Vale – now formally taken and advanced but
+    unresolved.
+  * Granary tier disturbances – still open; not directly advanced this
+    session but thematically reinforced by Cooper's Run findings.
+  * Quiet Aleron-related shard payment – still pending, no new movement
+    this session.
+
+Allies / Relationships:
+- Torven (Anchorfall):
+  * Continues to see Borian as a responsible, thoughtful presence.
+- Marwen of Lowridge:
+  * Marks Borian as preferred watcher; trusts his vigilance and trade
+    sense.
+- Dockhands at Slip 13:
+  * See Borian as respectful and direct; potential small allies for
+    harbor rumors and practical help.
+- Tannic Orls:
+  * Strong trust gained. Views Borian as the first serious, competent
+    investigator on Joren's case.
+  * Grants full permission to board *Mare's Wish*.
+  * Will expect truth from Borian before others.
+
+SESSION END STATE
+-----------------------------------------------------------------------
+- Location: The Drowned Lantern, harborfront Varengate – Borian standing
+  from Tannic Orls' table after gaining permission to board the
+  *Mare's Wish* and committing to attempt to find the truth of Joren
+  Vale's fate.
+- Time: Early afternoon (~15:00), Day 5 in Varengate.
+- Condition: No injuries; fully restored. Mild, normal fatigue only.
+- XP: 1295 total (Level 3).
+- Coin: 15 gp, 57 sp, 0 cp.
+- Open hooks / contracts:
+  * Missing Fisher – Joren Vale (active; next steps: interview Net-Sella,
+    search shed row, inspect *Mare's Wish* in detail).
+  * Granary / understructure anomalies (linked conceptually with Cooper's
+    Run anomaly and prior seam events).
+  * Quiet payment from Aleron, via Torven (timing still uncertain).
+- Social vectors:
+  * Harborfront watching Borian's role in the Vale case.
+  * Hall noting his willingness to take neglected civic work.
+
+=======================================================================
+END OF SESSION 6
+=======================================================================
