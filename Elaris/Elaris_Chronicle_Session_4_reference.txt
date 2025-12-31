@@ -1,1 +1,747 @@
+=======================================================================
+ELARIS CHRONICLE – SESSION 4 – "THREADS OF SUNRHAL"
+=======================================================================
 
+TIMEFRAME
+-----------------------------------------------------------------------
+Covers the tail end of Day 2 in Varengate and most of Day 3.
+
+Approximate clock:
+- ~18:00–24:00 Day 2: Anchorfall → missed dead-drop meet → Frost-Kiln
+  night watch and ventstone event → brief Hall of Free Companies visit →
+  Anchorfall (meal / trance).
+- ~08:00–10:00 Day 3: Morning at Anchorfall → messenger job from Hall →
+  upper docks delivery and Whisper-Row dead-drop.
+- ~10:00–12:00 Day 3: Anchorfall conversation with Torven about work,
+  “crew,” and risk; Aleron’s shard-recovery commission and meeting at
+  lower ridge overlook.
+- ~12:00–16:30 Day 3: Shard investigation (Grayharp Market, Tavran’s
+  shop, tracking through east-tier lanes); Lidena’s apothecary; Herda
+  Fenwater; stakeout in overhang corridor.
+
+WEATHER / ATMOSPHERE
+-----------------------------------------------------------------------
+Day 2 evening: Cold, clear, light wind along streets and quays. Factory
+district colder due to open stone and metal. Night air dry; no new snow.
+
+Day 3: Cold winter day, bright but with long shadows in upper tiers.
+Breeze funnels between ridge buildings, carrying mixed scents of brine,
+smoke, and herbs. Light begins to fade by late afternoon near Herda’s
+lane as overhangs cut the sun.
+
+LOCATIONS
+-----------------------------------------------------------------------
+- Anchorfall Inn – Room 3, common room.
+- Streets of Varengate – route from Anchorfall toward the meet and later
+  toward the Frost-Kiln.
+- Frost-Kiln workshop – main floor, west wall, ventstone area.
+- Hall of Free Companies – counter / board.
+- Upper docks – messenger contact point.
+- Whisper-Row – dead-drop location for sealed note.
+- Anchorfall Inn – common room (morning of Day 3).
+- Hall of Free Companies – board and clerk (Day 3).
+- Lower ridge overlook – meeting with shard patron.
+- Grayharp Market – Kessa’s stall.
+- Tavran’s antique shop – near Fountain Court.
+- East-tier residential lanes after tracking buyer.
+- Lidena’s Apothecary.
+- Herda Fenwater’s home and workroom.
+- Narrow overhang corridor leading into Herda’s square.
+
+SESSION SUMMARY (HIGH LEVEL)
+-----------------------------------------------------------------------
+Session IV spans the aftermath of the missed dead-drop meeting, the full
+night at the Frost-Kiln, the first messenger job and dead-drop handled
+cleanly, and Borian’s recruitment into a deeper shard-recovery contract
+that leads him into Surnhal heritage and memory-loom lore. He confirms
+that a rare shard has passed from a mule-trader to Kessa, then to
+Tavran, then to an inland buyer, and finally tracks the buyer’s trail to
+the doorstep of Herda Fenwater, an herbalist from Surnhal. Herda
+explains the shard’s nature and warns that the buyer will likely return.
+The session closes with Borian maintaining a prayerful stakeout in the
+overhang corridor, waiting for that return.
+
+DETAILED CONTINUITY – SCENE BY SCENE
+-----------------------------------------------------------------------
+
+Scene 1 – Anchorfall Inn, Room 3 – Evening (Day 2)
+-----------------------------------------------------------------------
+Context:
+- Session picks up from the Session III end state: Borian has completed
+  a long rest, it is early evening (~tenth bell), and he is in Room 3 at
+  the Anchorfall.
+
+Note under door:
+- Borian hears a knock, opens the door, and finds a folded note rather
+  than a person. The corridor outside is quiet.
+- Note contents (paraphrased from prior sessions’ canon, not fully
+  reprinted here): instruction to meet one hour after the eleventh bell
+  at a specified location (dead-drop / contact point), with no name
+  signed. This ties into ongoing “Rulfen / Drowned Lantern” dead-drop
+  hooks and the previous missed contact.
+- Borian picks up the note and closes the door, reviews the Frost-Kiln
+  firewatch posting again to reconcile the timing of his commitments.
+- Bells clarification this session:
+  * Eleventh bell = ~23:00 by rough city clock.
+  * “One hour after” = twelfth bell (~24:00 / midnight).
+  * Shops are generally closing around the tenth to eleventh bells.
+  * There are no public bells during deepest night; the bell-cycle
+    resumes at first-light.
+
+Planning:
+- Borian confirms both the cryptic meet and the Frost-Kiln firewatch are
+  effectively scheduled around the same late-night window.
+- He determines he will go early to the meet location, observe from
+  concealment, and if the contact does appear, keep the interaction
+  short in order to still make the Frost-Kiln shift.
+
+Scene 2 – Approach to the Meet and Missed Contact – Late Night (Day 2)
+-----------------------------------------------------------------------
+Travel and stealth:
+- Borian leaves the Anchorfall with enough lead time to arrive ~20
+  minutes before the set meeting hour. Streets are thinning but not
+  deserted.
+- He chooses a concealed vantage overlooking the meeting point rather
+  than standing openly in the agreed spot.
+- Stealth check: 11+1 = 12. He is reasonably unobtrusive, not utterly
+  invisible but not drawing attention in the dim environment.
+- Distance: He is positioned several building-lengths away with line of
+  sight, close enough to see approach routes but not close enough for
+  easy casual conversation.
+
+Observation:
+- Perception check while watching: 12+2 = 14. He sees one cloaked figure
+  arrive early, pause near the meeting location, scan the surroundings,
+  then move on without revealing any signal or making direct contact.
+  The figure does not appear obviously tied to Borian or the prior
+  dead-drops.
+- Borian decides this might not be “his” contact and chooses not to break
+  cover.
+
+Waiting through the hour:
+- Borian waits the full hour past the eleventh bell. No other figures
+  arrive with obvious purposeful behavior matching a clandestine meet.
+- After the agreed time has elapsed, he breaks cover and moves to the
+  meeting point itself.
+
+Site check:
+- Investigation / Perception check at the meeting point: result low
+  (8–1 = 7 on a relevant check). No hidden notes, signals, or items are
+  detected. No sign that a drop was left and removed.
+- Conclusion: The meeting did not occur as planned; either the other
+  party did not risk the contact, or the earlier figure chose not to
+  engage.
+
+Scene 3 – Travel to Frost-Kiln and Initial Assessment – Late Night
+-----------------------------------------------------------------------
+Context:
+- With the arranged hour for the meet passed, Borian heads for the
+  Frost-Kiln workshop to fulfill the night watch contract.
+
+Approach:
+- As he walks, he deliberately maintains situational awareness of the
+  streets, checking for anyone trailing him or lingering in the shadows.
+- Perception check: 4+2 = 6 (explicitly noted in play as “this is not my
+  night with the dice”). No deliberate tail is detected; it is possible
+  someone careful could be following, but no obvious stalker emerges.
+
+Arrival and environment:
+- The Frost-Kiln workshop is active inside despite the late hour: furnaces
+  banked low but still hot, ambient heat battling winter cold. Metal,
+  stone, and tools are organized, with workers finishing their shifts.
+- Borian assesses the space as he enters:
+  * Perception: 13+2 = 15. He notes venting structures, heavy machinery,
+    the west wall with recently repaired boards, and general worker
+    flow. No immediate threat.
+
+Meeting Bram:
+- Bram (foreman) greets Borian with a practical, no-nonsense manner. He
+  asks if Borian is familiar with pipes, ballast systems, or “ventstones”
+  before fully explaining the situation.
+- Borian offers a brief joke feigning ignorance, then clarifies he is
+  present as security, not a cooling engineer.
+- The two quickly establish:
+  * Bram expected someone who could not only stand watch but also
+    recognize tampering with cooling infrastructure.
+  * Borian clarifies his limits, and Bram agrees to direct him precisely
+    on what to observe.
+
+Misaligned expectations:
+- Borian points out that the posted notice did not specify technical
+  expertise. Bram concedes this was poorly worded: he wanted someone
+  trustworthy present during a suspicious night rather than general
+  guard duty, but the job board language didn’t capture that nuance.
+- Agreement: Borian will act as watchman and extra set of eyes; Bram
+  remains responsible for technical decisions.
+
+Scene 4 – West Wall, Pry Marks, and Ventstone – Late Night
+-----------------------------------------------------------------------
+Board disturbance:
+- Bram brings Borian to the west wall, where boards were previously
+  pried up. From inside, the pry marks clearly originate from the
+  interior, not the alley:
+  * Nails bent outward.
+  * Tool marks angled from within.
+- Borian reconstructs aloud:
+  * Someone inside the factory pried open the boards from within,
+    accessing the vent shaft or passing something through.
+    Then they nailed them back from inside, suggesting they either
+    remained inside afterward or left in a way that would not raise
+    suspicion.
+
+Outside vs inside:
+- Insightful deduction: Borian notes that if the boards were replaced
+  from inside, whoever did it either:
+  * Belonged there or could leave without notice.
+  * Was assisting someone outside, passing an item, then covering their
+    tracks.
+- Bram confirms no record of authorized work on that wall.
+
+Ventstone inspection:
+- At Bram’s direction, Borian inspects a ventstone in the floor area
+  adjacent to the wall:
+  * Investigation: 9–1 = 8. He sees no missing chunks, no obvious tunnel
+    large enough for a person, no clear breach of the stone itself.
+  * The stone may channel air or pressure but is not visibly damaged.
+- Borian reports honestly that he cannot see how anyone could have fit
+  through or how something significant could have been removed via the
+  narrow interface visible to him.
+
+Scene 5 – Exterior Check and Failed Tracking – Late Night
+-----------------------------------------------------------------------
+Going outside:
+- Borian goes out to the alley to check the external side of the west
+  wall.
+- Perception at the exterior: 6+2 = 8. He spots the same general area of
+  disturbance but no obvious new marks beyond the prior pry attempts.
+- He makes a Survival check to see if he can find tracks or direction:
+  * Survival: 5+2 = 7. Street traffic and weather of the last two days
+    have obscured any clearer sign of where an intruder might have come
+    from or gone to.
+- Conclusion: Too much time and foot traffic have passed; he cannot
+  reconstruct a route from outside.
+
+Return inside:
+- Returning to the interior, Borian relays his findings: there is no
+  recoverable trail in the alley. Bram accepts this assessment and
+  shifts focus to present-moment vigilance.
+
+Scene 6 – Posting Up and the Seam in the Stone – Late Night
+-----------------------------------------------------------------------
+Posting duties:
+- Borian chooses a position where he can:
+  * Watch the ventstone.
+  * Watch the west wall.
+  * Stay clear of workers’ paths.
+- He confirms the workshop’s usual night pattern (whether workers stay
+  or leave). Bram notes that some late work will wind down, and then
+  only a skeleton presence remains.
+
+Discovery of coat:
+- Bram points out a missing worker’s coat, believed to belong to a man
+  who left early the night of the attempted break-in. The coat hangs
+  near the area of concern.
+- Borian examines the coat (Investigation: 2–1 = 1); he finds no visible
+  stains, rips, or residues that tell him anything useful.
+
+The seam:
+- As night deepens, workers finish and eventually leave. Bram and Borian
+  remain.
+- The ventstone and adjacent seam begin to show subtle signs:
+  * A hairline crack, slight shifting or “breathing” motion.
+  * A shadow passes along the seam not entirely tied to the forge light.
+  * A faint sensory discomfort, more intuitive than overt.
+- Perception checks during this vigil were modest; Borian identifies a
+  “shadow passing at the seam” but without enough to fully define it.
+
+Decision point:
+- Borian presses Bram to evacuate anyone nonessential, stating plainly
+  that a factory is not worth their lives. Bram agrees to clear out all
+  remaining workers but insists on staying himself.
+- Borian offers to remain as well and does so, standing ready with his
+  sword drawn and eyes on the seam.
+
+Scene 7 – Aftermath and Agreement with Bram – Early Morning (Day 3)
+-----------------------------------------------------------------------
+Seam stabilizes:
+- The seam’s activity does not escalate to open confrontation this
+  session. The presence fades back into stillness, leaving only unease
+  and a sense of pressure deferred rather than resolved.
+
+Shutdown:
+- Bram acknowledges the risk. He resolves to:
+  * Suspend operations in the affected section.
+  * Notify relevant guild / city oversight that something is wrong with
+    the understructure.
+- Borian presses for clarity: what about the workers and the future of
+  the factory? Bram responds that he will reduce night activity and
+  accept short-term loss over potential disaster.
+
+Payment and reference:
+- The Frost-Kiln contract listed 20 sp. Bram indicates that he will
+  report Borian’s presence and performance to the Hall. No explicit
+  at-table coin exchange scene occurs this session; payment is pending
+  confirmation via Bram’s follow-up at the Hall.
+- Bram asks where Borian can be found for future work. This triggered a
+  brief continuity slip (Bram knowing the inn name unprompted). Canon
+  fix: Borian explicitly tells Bram he can be reached via the Anchorfall
+  and the Hall.
+
+Scene 8 – Hall of Free Companies Check-In – Early Morning (Day 3)
+-----------------------------------------------------------------------
+- Borian goes to the Hall after leaving the Frost-Kiln, before sleep:
+  * Reports that the night watch was served and that “interesting
+    phenomena” remain at the Frost-Kiln.
+  * Tells the clerk that Bram will provide details.
+- The contract remains flagged as “in progress / pending verification”
+  rather than fully closed. No explicit payment is processed at the
+  counter in this scene.
+- This leaves the Frost-Kiln contract mechanically in a “completed in
+  fact, awaiting bureaucratic confirmation” state at the end of the
+  Frost-Kiln arc.
+
+Scene 9 – Anchorfall: Meal, Trance, and Morning – Morning (Day 3)
+-----------------------------------------------------------------------
+- Borian returns to the Anchorfall after the Hall check-in, exhausted.
+- Torven provides food (breakfast fare or reheated stew depending on the
+  hour). No charge is levied this scene; Torven treats Borian as a
+  valued regular.
+- Borian returns to his room and enters elven trance.
+- Four-hour trance covers the late morning window, leaving Borian
+  mentally rested and physically reset by mid-morning.
+
+Scene 10 – Morning at Anchorfall and Talking with Torven – Day 3
+-----------------------------------------------------------------------
+- Borian returns to the common room. Light crowd at breakfast; a few
+  laborers, early traders.
+- He orders coffee and declines more food, still satisfied.
+- Once the room thins, he catches Torven for conversation and recounts:
+  * The granary understructure anomalies.
+  * The completed ship mediation (from prior session).
+  * The note and missed meeting.
+  * The Frost-Kiln seam and decision to shut down the active area.
+- Torven’s counsel:
+  * Warns Borian about stacking too many shady or off-book jobs.
+  * Encourages him to find a crew with aligned values to avoid being
+    “the one disposable blade in someone else’s story.”
+  * Points out that word gets around, and reputations stick.
+
+Scene 11 – Hall of Free Companies: Messenger Job – Morning (Day 3)
+-----------------------------------------------------------------------
+Messenger posting:
+- Back at the Hall, Borian checks the board and reads a messenger request
+  in detail:
+  * Deliver a sealed letter from the Hall side to a contact at the upper
+    docks (“L.”) using a minimal phrase as confirmation.
+  * Secondary instruction: drop the letter at a particular spot in
+    Whisper-Row for a recipient identified only by pattern, not name.
+  * Reward: modest silver (exact amount not explicitly set at table; coin
+    change left unstated here pending numeric confirmation).
+
+Upper docks hand-off:
+- Borian meets a man at the upper docks who responds to the given phrase
+  (“Looking for ‘L’,” etc.) and produces the sealed letter.
+- Insight: 12+2 = 14. Man appears cautious but businesslike, not overtly
+  deceptive; his concern is that the drop be handled cleanly.
+- Man gives Borian minimal instructions:
+  * After drop, return here.
+  * If drop is compromised, do nothing dramatic.
+
+Whisper-Row dead-drop:
+- Borian travels to Whisper-Row, finds the designated location, and
+  conducts the dead-drop:
+  * Avoids drawing attention.
+  * Places the letter where instructed.
+  * Does not linger to see who collects it.
+- Concern is voiced in-character about lack of proof for successful
+  drop, but the job’s nature does not permit a signed receipt.
+
+Return and completion:
+- Borian returns to the upper docks contact.
+- The man says “Completely,” indicating satisfaction with the unseen
+  receiver’s confirmation.
+- Payment is made according to the job’s terms, but since the exact
+  amount was never stated in play, this reference file does not record a
+  specific numeric coin change. (State file should only be updated when
+  a concrete amount is set.)
+
+Scene 12 – Anchorfall and Torven’s Counsel on Shadier Work – Late Morning
+-----------------------------------------------------------------------
+- Back at the Anchorfall, Borian checks in with Torven again:
+  * Mentions the messenger run and the nature of the contact.
+  * Asks Torven if this kind of work has a reputation.
+- Torven’s advice:
+  * Such jobs can be either stepping-stones or traps depending on who
+    ultimately holds the strings.
+  * Warns that “dead-drops and missing names” often belong to guilds,
+    independents, or those wanting deniability.
+
+Scene 13 – Hall: Shard Inquiry from Aleron – Late Morning / Midday
+-----------------------------------------------------------------------
+- Borian returns once more to the Hall.
+- Aleron has a more detailed private inquiry:
+  * A crystal shard sought by a “private collector.”
+  * The shard is sketched: concave face, radiating lattice, irregular
+    edges.
+- Payment structure (after in-session correction using economics doc):
+  * 10 silver per day retainer, up to three days.
+  * 25 gp on successful recovery.
+  * Reasonable incidental costs (small bribes, modest purchase of the
+    item if necessary) can be reimbursed if documented.
+- Borian challenges the numbers; Aleron clarifies based on risk tier.
+  User explicitly called out that earlier numbers were wrong; above
+  terms are accepted as canonical.
+
+Meeting arrangement:
+- Aleron sets a contact point at the lower ridge overlook with the
+  collector’s agent.
+- Instructions:
+  * Go alone.
+  * Listen first.
+  * Collector prefers discretion.
+
+Scene 14 – Lower Ridge Overlook: Meeting the Collector’s Agent – Midday
+-----------------------------------------------------------------------
+- Borian travels to the lower ridge overlook:
+  * A terrace-like vantage with view over city tiers.
+  * Not especially crowded at the chosen hour.
+
+Initial read:
+- He meets a composed, cloaked man who clearly expected someone.
+- Insight: 12+2 = 14. Agent reads as self-controlled, neither braggart
+  nor thug; his tone and posture indicate he’s used to handling quiet,
+  serious matters.
+
+Job details:
+- The agent:
+  * Confirms he represents a private collector.
+  * States the shard is believed to be in Varengate, having passed
+    through multiple hands.
+  * Shares a sketch of the shard, consistent with Aleron’s.
+  * Asks whether Borian is thief, buyer, or seeker. Borian frames
+    himself as a seeker aligning with “truth” and an honorable private
+    claim.
+
+Compensation:
+- The same payment structure is restated and accepted.
+- Borian confirms:
+  * He may need to negotiate, buy, or otherwise retrieve the shard.
+  * Modest expenses (for information or purchase) will be reimbursed,
+    but only within reasonable bounds.
+
+Names:
+- Borian offers “Borian Elmsworn” openly.
+- The agent does not give a personal name; he prefers not to tie his
+  employer’s identity to the search.
+- If pressed in conversation with others, Borian is to describe the
+  interest as belonging to “a private collector” without naming any
+  house or guild.
+
+Direction given:
+- Starting point: Grayharp Market, particularly stalls dealing in
+  curios, trinkets, and minor crystals.
+- Tavran’s name surfaces as a likely contact from earlier trade rumors.
+
+Scene 15 – Grayharp Market and Kessa – Early Afternoon (Day 3)
+-----------------------------------------------------------------------
+- Borian goes to Grayharp Market and finds Kessa, a merchant dealing in
+  small goods and curios.
+- He asks about “prayer crystals” with special weight or significance.
+- Kessa shows ordinary goods first, then acknowledges she recently
+  handled something more unusual:
+  * A shard brought by a mule-trader who came through from inland roads,
+    plausibly from Surnhal.
+  * The trader treated the shard as loot found in a saddlebag, wanted
+    only coin, and did not understand its worth.
+  * She sold it to Tavran.
+- Insight: 9+2 = 11 (from prior roll during this scene). Kessa appears
+  cautious but not deceitful; she is cagey primarily because this kind
+  of trade can attract attention.
+- She hints at wanting a future favor rather than immediate coin from
+  Borian in exchange for pointing him to Tavran.
+
+Scene 16 – Tavran’s Shop – Early Afternoon
+-----------------------------------------------------------------------
+- Tavran’s shop near the fountain is orderly, lined with carefully kept
+  metal and crystal items.
+- Borian shows his personal shard quietly to build context and rapport.
+- Tavran:
+  * Confirms that Kessa sold him a shard matching the sketch.
+  * Describes it:
+    - Concave face designed to hold or focus something.
+    - Subtle lattice-thread pattern in its interior.
+  * States it “did not feel like ordinary glass.”
+- On the buyer:
+  * Tavran describes the buyer as shorter than Borian, lean, gray-eyed,
+    wearing soft-soled boots and a plain dark coat.
+  * The buyer asked for the shard by description, not by seeing it in
+    the case, implying prior knowledge.
+  * He paid competently and left without drama.
+  * Direction of departure: north from the fountain, then east into
+    residential tiers.
+
+- Borian offers a small magical service (prestidigitation to clean a
+  tide-keeper device), which earns Tavran’s genuine appreciation and
+  trust. This solidifies Tavran as a reliable future contact.
+
+Scene 17 – Tracking the Buyer Through East-Tier Lanes – Mid Afternoon
+-----------------------------------------------------------------------
+- Borian follows Tavran’s direction:
+  * North from the fountain.
+  * East into narrower, quieter lanes.
+- Checks:
+  * Perception / Survival combination with at least one strong roll
+    (Survival at one point effectively ~20–22 after guidance and Wis
+    bonus in a later stretch of the chase).
+  * He picks out:
+    - Fine scuff marks from soft-soled boots.
+    - Occasional dragged heel near curb stones.
+    - One small fiber from a brown coat snagged on stone.
+  * He also notes a faint bitter-herb smell down one approach, helping
+    distinguish a path toward residential herbal houses.
+
+Dead-end square:
+- The trail leads to a small square with three doors and a modest
+  central space.
+- Doors:
+  * Left: older couple’s home. Dust undisturbed at threshold.
+  * Right: Berrin Hale’s workshop (woodturner). Door slightly ajar,
+    typical for his habits. No matching tracks.
+  * Center: small herb garden in spiral form, brass leaf-and-thread
+    plate, red-marked stone, green painted stripe across the door.
+- Footprint evidence:
+  * The buyer’s tracks approach the center door, pause, pivot, and
+    retreat.
+  * No sign of entry at any of the three doors.
+
+Scene 18 – Lidena’s Apothecary – Mid / Late Afternoon
+-----------------------------------------------------------------------
+- Borian backtracks slightly to a mid-tier apothecary he passed:
+  “Lidena’s Remedies.”
+- Inside:
+  * Shelves of tinctures and herbs.
+  * Warm but not crowded.
+- Insight: 19+2 = 21. Lidena reads as genuinely kind and trustworthy.
+- Borian describes the square and the house with the herb garden and
+  brass plate. Lidena:
+  * Identifies the central house as belonging to Herda Fenwater, an
+    herbalist from Surnhal who has lived here many years.
+  * Confirms Berrin Hale’s workshop door is often left slightly open out
+    of habit.
+- She gives Borian a sprig of calming mint “for his nerves” and
+  encourages him to approach Herda politely.
+
+Scene 19 – Herda Fenwater’s House – Late Afternoon
+-----------------------------------------------------------------------
+Entry and read:
+- Borian knocks. Herda answers cautiously. He introduces the visit as a
+  private matter, mentioning that Lidena vouched for him.
+- Herda invites him inside. Interior is orderly, with drying herbs,
+  Surnhal-style arrangements, and quiet, lived-in atmosphere.
+
+Initial exchange:
+- Borian explains:
+  * He is following a trail, not accusing her of anything.
+  * The tracks and signs suggest a man from Surnhal, carrying a shard,
+    came to this square and paused at her door.
+- Herda:
+  * Correctly perceives Borian as more seeker than thug.
+  * Accepts conversation in good faith.
+
+Memory-loom lore:
+- Borian produces the sketch of the shard.
+- Herda identifies it as a type of “memory-loom” shard used by old
+  Surnhal families to preserve lived memories.
+- She gives structured background (which Borian hears but cannot yet
+  fully connect to names):
+  * Five family lines historically known for such shards:
+    - Fenwater – herbal and mourning memory.
+    - Velthran – river-wardens.
+    - Lethamir – memory-weavers and technical lore.
+    - Daelrun – oath and contract keepers.
+    - Tairneth – wanderers carrying painful stories.
+- Herda explains:
+  * Memory-looms are for inheritance, not trade.
+  * Seeing one in a mule’s saddlebag implies that its keeper died on the
+    road or that it was taken without proper transfer.
+- Borian reports the mule-trader story from Kessa / Tavran: shard found
+  in saddlebag on a mule brought from Surnhal; trader wanted coin only.
+
+Buyers and claims:
+- Borian frames his employer as “a private collector” whom he believes
+  honorable.
+- Herda raises the question: if both a family with lineage claim and a
+  private collector seek the shard, who has the stronger right?
+- Herda clarifies that the man Borian followed is likely acting on
+  someone else’s errand, retracing the last steps of a dead shard-
+  keeper, not collecting curios.
+
+Door markers and buyer hesitation:
+- Herda and Borian review the symbols at her door:
+  * Leaf-thread plate: marks her house as herblore / Fenwater heritage.
+  * Spiral herb beds: suggest knowledge patterns, not simple decor.
+  * Red-marked stone: indicates “someone home” in Surnhal-coded fashion.
+  * Green stripe: sign of work and availability, not magical ward.
+- Herda’s conclusion:
+  * A Surnhal-informed seeker would recognize these as markers of a
+    tradition-bearing household.
+  * The buyer likely saw the door, realized who might be inside, and was
+    not ready to knock.
+
+Herda’s recommendation:
+- She tells Borian that if he wants to intercept the buyer without
+  endangering or intruding on her household, he should wait not at her
+  door but along the corridor the buyer used to approach.
+- She identifies the overhang corridor—a narrow, shadowed stretch with
+  no direct windows—as the ideal spot: a place no one looks at twice and
+  every visitor must pass.
+
+Gesture and departure:
+- Borian thanks Herda for her time and insight.
+- He offers the sprig of calming mint (originally from Lidena) back to
+  Herda, saying she can make better use of it. Herda accepts with quiet
+  appreciation, recognizing the respect in the gesture.
+- Herda encourages Borian to “listen before he speaks” if he does meet
+  the man next time.
+
+Scene 20 – Overhang Corridor Stakeout – Late Afternoon (Day 3)
+-----------------------------------------------------------------------
+- Borian leaves Herda’s home and moves to the overhang corridor she
+  described:
+  * A narrow passage with upper floors bridging above.
+  * Sound from the square is muffled here.
+  * Anyone heading to Herda’s door must pass this point.
+
+Positioning:
+- Borian chooses a spot where:
+  * He is not blatantly hiding but can be easily overlooked.
+  * He has clear line of sight on the path to the square.
+
+Practice during watch:
+- He decides to quietly recite prayers as he waits, using the time to
+  deepen his focus rather than idle.
+  * This is explicitly intended as practice in disciplined vigilance and
+    spiritual centering, not as distraction.
+- The corridor sees light passing traffic—residents and the occasional
+  city-dweller—but no one matching the shard-buyer’s description.
+
+End of session:
+- By late afternoon, there is still no sign of the buyer returning.
+- Session ends with Borian maintaining his watch, calm and alert, ready
+  to notice any future disturbance.
+
+MECHANICAL / STATE UPDATES
+-----------------------------------------------------------------------
+XP_Awarded_This_Session: 400
+XP_Total: 800   # (400 previous + 400 this session)
+XP_Breakdown:
+  Frost_Kiln_Seam_Discovery: 100
+  Messenger_Dead_Drop: 25
+  Kessa_Lead_and_Origin_Discovery: 50
+  Tavran_Buyer_and_Shards_Behavior: 50
+  Tracking_Buyer_Through_East_Lanes: 50
+  Lidena_Resident_Identification: 25
+  Herda_Fenwater_MemoryLoom_Lore_and_Lineages: 100
+
+
+Currency Changes (Session IV only – what is known from play):
+- Coin out:
+  * –1 sp: Given to a street boy who provided a directional clue while
+    Borian was tracking the shard-buyer through the north / east lanes.
+- Coin in:
+  * Messenger job: +5 sp payment received.
+  * Frost-Kiln: +20 sp reward for completion of nightwatch.
+  * Aleron Vale Advance: +5 gp advance for job searching for memory-loom crystal shard.
+- Net coin change recorded here: +5 gp, +24 sp
+
+Items and Contracts:
+- No new physical items acquired in this session (beyond temporary mint,
+  which Borian then gifted to Herda).
+- Contracts:
+  * Frost-Kiln firewatch – physically completed (night watch served,
+    seam observed), but payment and official closure awaiting Bram’s
+    follow-up. Treat as “completed in fact; paperwork pending.”
+  * Messenger sealed-note delivery – completed and paid; amount TBD.
+  * Shard-recovery for private collector (via Aleron) – taken but not
+    completed. Ongoing.
+  * Granary understructure anomalies – still open, not advanced this
+    session.
+  * Missing fisher – Joren Vale – untouched this session, still on the
+    board.
+
+Allies / Relationships:
+- Bram (Frost-Kiln foreman):
+  * Respects Borian’s willingness to stay and his honest assessment of
+    what he does and does not know.
+  * Is likely to speak well of Borian to the Hall once he files.
+- Anonymous messenger contact:
+  * Sees Borian as reliable; job handled without drama.
+- Aleron:
+  * Trust in Borian’s discretion increased via acceptance of a higher-
+    risk, better-paying inquiry.
+- Kessa:
+  * Now sees Borian as a useful contact who keeps his word about favors.
+- Tavran:
+  * Positive impression reinforced by Borian’s prestidigitation help.
+- Lidena:
+  * Believes Borian exercises caution around strange doors and unknown
+    households.
+- Herda Fenwater:
+  * Recognizes Borian as someone willing to listen and wrestle with
+    competing claims, not merely a paid thief.
+
+HIDDEN DM THREADS (NOT FOR CODEX)
+-----------------------------------------------------------------------
+- Frost-Kiln seam:
+  * The “shadow at the seam” and ventstone disturbance are another
+    manifestation of the deeper understructure anomalies hinted at in
+    prior sessions (granary, Shed Two frost, Shed Three carved stone).
+  * Shutting down the line and Bram’s report will ripple into guild /
+    civic decisions.
+
+- Shard-keeper’s fate:
+  * The shard’s saddlebag origin is tied to a specific Surnhal traveler
+    who died on the road. The precise event is undecided but will be
+    consistent with earlier lore once revealed.
+
+- Surnhal families:
+  * At least one of the five families (Fenwater, Velthran, Lethamir,
+    Daelrun, Tairneth) is actively seeking to reclaim the shard. The
+    buyer is acting as proxy, not principal.
+  * Herda’s knowledge is broader than she has yet shared; she held back
+    one nuance about loom activation and emotional resonance.
+
+- Private collector vs lineage:
+  * The private collector’s motives intersect with lineage claims but
+    are not identical. There is potential for conflict if both come
+    close to the shard at once.
+
+- Kessa’s favor:
+  * Her implied “favor” hook can be cashed in during a later market or
+    guild tension scene.
+
+- Dead-drop network:
+  * The courier work and the earlier missed meet continue to tie Borian
+    into Varengate’s shadow communication networks. Different factions
+    (guilds, independents, Quiet Hands, or similar) may now recognize
+    him as available for deniable work.
+
+SESSION END STATE
+-----------------------------------------------------------------------
+- Location: Overhang corridor leading into Herda Fenwater’s square,
+  east-tier Varengate.
+- Time: Late afternoon, Day 3 in Varengate.
+- Condition: No active injuries; no special conditions. Normal fatigue
+  from extended activity, but no mechanical penalties.
+- Outstanding hooks / contracts:
+  * Frost-Kiln firewatch: completed physically, awaiting pay / closure.
+  * Shard-recovery for private collector: active; shard not yet located.
+  * Granary understructure anomalies (three disturbed sheds): unresolved.
+  * Missing fisher – Joren Vale: still open on Hall board.
+  * Potential future involvement with Surnhal lineage claimants to the
+    memory-loom shard.
+  * Favor owed or available with Kessa at Grayharp Market.
+
+=======================================================================
+END OF SESSION 4
+=======================================================================
