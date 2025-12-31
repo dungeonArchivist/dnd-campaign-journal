@@ -1,0 +1,1135 @@
+========================================================================
+WORLD OVERVIEW – The Continent of Elaris
+========================================================================
+
+Known World Overview - The Continent of Elaris
+The Shape of the Land
+Elaris is vast and wild - a continent where ancient empires have risen
+and fallen, their ruins swallowed by forests, mountains, and sand.
+It stretches from the storm-swept northern fjords to the sunburned
+southern deserts, with every kind of terrain between: rolling plains
+where nomads still roam, jungles so dense they swallow sound, and
+mountain ranges that pierce the clouds. Civilization dots the landscape
+like embers in a dark sea - isolated kingdoms, city-states, and trade
+roads that bind them loosely together. Between them lies the untamed
+world: places of mystery, magic, and danger where few venture and fewer
+return.
+
+A World of Balance and Fracture
+Centuries ago, the Aurelian Concord united most of Elaris under peace
+and learning. But that harmony shattered when the Confluence - a
+celestial alignment of unknown magic-reshaped the world. Rivers changed
+course, mountains split, and ancient powers long dormant began to stir.
+Now, balance teeters once again. The old gods are silent, their temples
+crumbling, and mortal kingdoms squabble over relics and ruins left by
+their fall.
+Yet amid the chaos, whispers spread of the Echoes of Creation - hidden
+sanctuaries, forges, or temples said to hold remnants of the world's
+making. Those who find them may rewrite the balance itself.
+
+The Peoples of Elaris
+The realm is home to countless cultures and races. The most common
+include:
+* Humans: adaptable, ambitious, and found in every corner of the land.
+* Elves: the divided children of starlight - High Elves who linger in
+  their citadels, and Wood Elves who blend with the forests.
+* Dwarves: masters of the earth, builders of cities carved within
+  mountains and beneath the desert.
+* Halflings: traders, wanderers, and survivors who move easily between
+  cultures.
+* Orcs & Half-Orcs: no longer only raiders-many have built new clans
+  that balance strength with honor.
+* Beastfolk & Other Kin: rare peoples - tabaxi, lizardfolk, aarakocra -
+  each bound to their environment and fiercely protective of it.
+Elaris' cultures vary as wildly as its terrain, from the icebound tribes
+of Skeldir Reach to the sand-caravans of Tir'Sarim and the floating
+libraries of The Skyward Isles.
+
+Magic and the Unknown
+Magic once flowed freely through the Ley Weave, an invisible network
+connecting all things. After the Confluence, much of it fractured,
+leaving wild zones called Driftlands - regions where spells twist
+unpredictably, and reality itself bends.
+Many scholars believe repairing or mastering the Ley Weave could restore
+balance to Elaris - or destroy it completely.
+The gods, once ever-present, now speak only in whispers or dreams. Their
+clerics perform miracles, but none can say from where the power truly
+flows. Some claim the divine spark now resides in mortals themselves.
+
+The Current Age
+This is the Age of Renewal, though many call it the Age of Ruins.
+The world is ripe for discovery-and for danger. The frontier towns are
+thriving, adventurers are in demand, and ancient evils stir beneath
+stone and sand alike.
+Rumors drift across taverns and trade roads:
+* Strange lights in the Vale of Ashes.
+* A dragon seen circling the ruins of Khar Durim.
+* A relic unearthed in the jungles of Velmara said to bend weather
+  itself.
+* And beneath it all, the faint thrum of the Ley Weave, calling to those
+  who dare to listen.
+
+Regional Overview of Elaris
+Elaris divides naturally into five broad regions, each distinct in
+climate, culture, and danger. They are roughly the size of small
+nations, each with multiple biomes and trade routes connecting them
+loosely together.
+
+Northern Region - Skeldir Reach
+* Climate: Subarctic tundra, glaciers, and fjords.
+* People: Hardy humans, dwarves, and goliaths; small orc clans in the
+  eastern mountains.
+* Notable Settlement: Varengate, a fortified port city built into a
+  cliffside, serving as a trade hub between Elaris and the polar isles.
+* Key Landmarks:
+  - The Frostforge: an ancient dwarven forge said to burn with eternal
+    blue flame.
+  - The Shattered Spire: remnants of a celestial tower from before the
+    Confluence.
+
+Western Region - The Verdant Marches
+* Climate: Temperate woodlands, river valleys, and rolling hills.
+* People: Wood Elves, halflings, humans, and beastfolk.
+* Notable Settlement: Aurenvale, a sprawling trade city built along
+  three rivers, famous for its open markets and guild halls.
+* Key Landmarks:
+  - The Whispering Woods: home to druids and fey spirits who guard the
+    forest paths.
+  - Elderglen Monastery: a ruined temple overtaken by nature, rumored to
+    hide an ancient ley node.
+
+Central Region - The Heartlands
+* Climate: Fertile plains and mountains; mild four-season weather.
+* People: Humans, dwarves, elves, and all races in trade cities.
+* Notable Settlement: Highspire, the capital of the Aurelian Concord's
+  remnants, now a neutral city of diplomats and mercenaries.
+* Key Landmarks:
+  - The Crystal Roads: translucent, rune-etched highways built by
+    forgotten mages.
+  - The Concord Archives: a library-fortress housing pre-Confluence
+    knowledge.
+
+Southern Region - Tir'Sarim Wastes
+* Climate: Harsh desert, salt flats, and canyonlands.
+* People: Nomadic tribes, dragonborn, dwarves, and exiled outcasts.
+* Notable Settlement: Saphir Oasis, a trade city built around a living
+  spring guarded by the Seraphine Order.
+* Key Landmarks:
+  - The Sunken Vaults: buried temples said to predate written history.
+  - The Glass Fields: plains of melted sand from an ancient magical war.
+
+Eastern Region - Velmara Wilds
+* Climate: Tropical rainforest and coastal archipelagos.
+* People: Lizardfolk, tabaxi, humans, and pirates.
+* Notable Settlement: Port Selanth, a chaotic harbor-city run by
+  merchant princes and corsair lords.
+* Key Landmarks:
+  - Temple of the Serpent Moon: half-sunken ruin dedicated to a
+    forgotten deity.
+  - The Skyfall Basin: crater lake where meteoric crystals imbue the
+    land with unstable magic.
+
+                     Skeldir Reach
+       (Frostforge, Varengate, Shattered Spire)
+     			   |
+     			   |
+        Verdant Marches ---+--- The Heartlands
+    (Aurenvale, Elderglen)  (Highspire, Crystal Roads)
+     			   |
+     			   |
+                   Tir'Sarim Wastes 
+     	     (Saphir Oasis, Glass Fields)
+      			   |
+     			   |
+                     Velmara Wilds
+              (Port Selanth, Skyfall Basin)
+
+
+========================================================================
+CORE CONTINUITY CHRONICLE OUTLINE TEMPLATE
+(DM Canon Record - Do Not Include in Player Codex)
+========================================================================
+
+Chronicle Number & Title:
+Example: Core Continuity Chronicle I - "Arrival in Selanth"
+========================================================================
+
+CHRONICLE INFO
+------------------------------------------------------------------------
+Timeframe (Days, Times of Day):
+Weather:
+Location(s):
+Session Context (new arc, continuation, transition):
+
+
+SUMMARY OF EVENTS (OUTLINE)
+------------------------------------------------------------------------
+[Use bullets for each major scene or sequence.]
+
+Scene 1 Title:
+* Main actions or discoveries.
+* NPCs met or referenced.
+* Skill checks or key rolls (with result if known).
+* Decisions or consequences.
+(DM Note if applicable.)
+
+Scene 2 Title:
+* ...
+* ...
+
+Scene 3 Title:
+* ...
+* ...
+
+
+SESSION END SUMMARY
+------------------------------------------------------------------------
+Chronicle Subtitle (if applicable):
+Time of Session End:
+XP Awarded (and reason if milestone-based):
+Currency Change:
+Status (rested, injured, conditions, etc.):
+Allies/Favors (with + values if tracked):
+Safe Haven or Current Location:
+
+
+WORLD CONTINUITY THREADS (HIDDEN)
+------------------------------------------------------------------------
+[List hidden or DM-facing threads in bullet form.]
+
+* Thread Name: brief summary, connection, or foreshadow note.
+* Thread Name: ...
+* Thread Name: ...
+
+
+NEXT SESSION TITLE
+------------------------------------------------------------------------
+Next Session Title: [Roman numeral & subtitle]
+Example: II - "Before the Canopy"
+
+
+STYLE & NOTES
+------------------------------------------------------------------------
+Tone or POV cues (if specific tone needed):
+Formatting notes (if deviating from default 72-column ANSI layout):
+Lore or cosmology notes to maintain continuity:
+
+
+CORE CONTINUITY CHRONICLE SESSION 0 - “The Frost-Tide Oath”
+========================================================================
+
+Chronicle 0 – “The Frost-Tide Oath”
+(Campaign Declaration: Elaris Arc II – The Northern Reclamation)
+------------------------------------------------------------------------
+
+Era: Age of Renewal
+Starting Region: Skeldir Reach (Northern Elaris)
+Primary Locale: Varengate — fortress port carved into basalt cliffs,
+gateway between the Aurelian mainland and the Polar Isles.
+Timeframe: Early spring thaw, first break of sea ice.
+Weather: Low clouds, sleet, and sea mist. Temperatures near freezing.
+Campaign Status: Soft reset (continuity retained but not referenced
+until rediscovered).
+
+Campaign Tone & Framework
+The arc begins in the borderlands of civilization — where order fades
+into frozen wilds. Faith, duty, and survival will converge amid shifting
+alliances between guild houses, icebound tribes, and explorers chasing
+relics of the pre-Confluence age.
+
+Borian Elmsworn, newly anointed but stripped of prior rank or title,
+arrives by merchant vessel on contract as a guard-for-hire. He seeks
+renewed purpose, untainted by his past service or the corruption of
+coastal powers.
+
+Campaign Mechanics
+-----------------------------------------------------------------------
+* XP System: RAW hybrid milestone/XP (Dungeon Master’s Companion
+§Economy & Lifestyle Framework).
+* Bond Confirmation Rule: Player confirmation required before any
+allied NPC transitions into “Party.”
+* World Continuity Threads (seeded):
+  - “The Frost-Tide Charter” – a missing expedition to the northern
+    isles.
+  - “The Hollow Concord” – evidence that Aurelian influence persists
+    within Varengate’s guild hierarchy.
+  - “The Whisper Forge” – dwarven ruin emitting ley resonance beneath
+    the city.
+  - “The Lost Prayer” – a spiritual calling echoing through Borian’s
+    dreams.
+
+Current Character Status
+-----------------------------------------------------------------------
+Character: Borian Elmsworn, Level 1 Paladin (faith-scarred, idealistic,
+still finding conviction).
+Inventory: Per character sheet.
+Location at Start: Dockside of Varengate, disembarking from the
+merchant ship “Falcon’s Wake.”
+Safe Haven: None yet established.
+
+
+CORE CONTINUITY CHRONICLE I - "Through Sleet and Smoke"
+========================================================================
+CHRONICLE INFO
+------------------------------------------------------------------------
+Timeframe (Days, Times of Day):
+Day 1 in Varengate. Morning arrival through late-night rest.
+
+Weather:
+Sleet, rain, shifting snow; early frost tide patterns.
+
+Location(s):
+Varengate Harbor, Frostmere Row, South Row Teahouse, Merrit’s
+Weighhouse, Anchorfall Inn.
+
+Session Context:
+Opening session of the Varengate arc.
+
+
+SUMMARY OF EVENTS (OUTLINE)
+------------------------------------------------------------------------
+Scene 1: Arrival at Varengate
+* Disembarked from Falcon’s Wake.
+* Spoke with Captain Marlowe; gained local insight.
+* Customs interaction: magical warmth offered; fee waived.
+* NPCs: Marlowe, Customs Officer.
+(DM Note: Initial NPC attitudes mildly positive.)
+
+Scene 2: Frostmere Row and Hethra Vane
+* Tailored cold-weather clothing.
+* Payment structure established: 2 gp down; 8 gp remaining for finery.
+* NPCs: Hethra Vane.
+(DM Note: Hethra marked Borian as reliable.)
+
+Scene 3: South Row Teahouse
+* Met Sereth; offered a traditional trader’s prayer.
+* Earned trust and connection to Elden Ward.
+* NPCs: Sereth.
+(DM Note: Strong positive impression; message sent to Elden.)
+
+Scene 4: Merrit’s Weighhouse
+* Exchanged 10 gp for 100 sp.
+* Declined account setup for now.
+* NPCs: Merrit.
+(DM Note: Merrit logged Borian as a new client.)
+
+Scene 5: Anchorfall Inn
+* Met innkeeper Torven.
+* Observed and then spoke with Tavian.
+* NPCs: Tavian, Torven.
+(DM Note: Tavian assessed Borian as honorable.)
+
+Scene 6: Evening Rest
+* Meditative trance; no disturbances.
+* Room inspected; no threats.
+
+
+SESSION END SUMMARY
+------------------------------------------------------------------------
+Chronicle Subtitle: First Steps in the Frost
+Time of Session End: Late evening into early night.
+XP Awarded: XP Earned: 50 (social & exploration progress, new allies,
+safe haven secured).
+Currency Change: -10 gp exchanged for 100 sp; -8 sp lodging; -80 sp paid
+and -2 gp deposit with Hethra; -8 gp owed later.
+Status: Fully rested.
+Allies/Favors: Sereth (Friendly), Hethra (Positive), Torven (Positive),
+Tavian (Cautious–Friendly).
+Safe Haven or Current Location: Anchorfall Inn, Room 3.
+
+
+WORLD CONTINUITY THREADS (HIDDEN)
+------------------------------------------------------------------------
+* Tidewarden Corruption: Customs interest rising; watchful officer took
+  note of Borian’s arrival.
+* Whisper Forge Rumors: Two salvage teams missing; background tension.
+* Elden Ward: Aware of Borian; will approach next session unless
+  disrupted.
+* Tavian’s Role: Former Tidewarden scout, now aligned with Elden.
+* Anchorfall’s Neutrality: Remains safe; Tidewards have limited reach.
+
+
+STYLE & NOTES
+------------------------------------------------------------------------
+Tone or POV cues: Grounded, atmospheric, emphasizing cold, politics, and
+quiet human moments.
+Formatting notes: 72-column UTF-8 text.
+Lore notes: Maintain subtle tension between Tidewardens and independents.
+
+
+=======================================================================
+CORE CONTINUITY CHRONICLE II - "Whispers Beneath the Grain"
+=======================================================================
+
+Chronicle II – “Whispers Beneath the Grain”
+(Campaign: Elaris Arc II – The Northern Reclamation)
+-----------------------------------------------------------------------
+
+CHRONICLE INFO
+-----------------------------------------------------------------------
+Timeframe (Days, Times of Day):
+Day 2 in Varengate, predawn through early morning. Borian wakes from
+his trance around the third bell, walks the harbor before dawn, climbs
+to the high ridge as the city stirs, and reaches the western granary
+shortly after first light.
+
+Weather:
+Late-winter cold with light snow and lingering sleet crust on roofs
+and streets. Harbor air wet and briny, with low cloud and patchy fog
+over the water.
+
+Location(s):
+Anchorfall Inn (Frostmere Row); Frostmere Row streets; Drowned Lantern
+harbor-front and alley; small Tidemother shrine on the pier; working
+docks; East Lane switchbacks; high ridge civic quarter and notice
+board; western granary basement and storage floor.
+
+Session Context (new arc, continuation, transition):
+Continuation of the Varengate arrival arc. First formal contract hook
+(rat-clearing job), continued establishment of faith presence, and
+introduction of hidden undercity and harbor-guild tensions.
+
+
+SUMMARY OF EVENTS (OUTLINE)
+-----------------------------------------------------------------------
+Scene 1 – Quiet Hours at Anchorfall
+* Borian wakes from his elven trance around the middle of the night
+  and quietly checks the hallway (Perception 21). No threats, only a
+  sleeping inn.
+* He descends to the common room where Torven is already at work on
+  the morning’s prep. They share quiet conversation over tea and
+  toast.
+* Borian asks after Elden Ward, mentioning Sereth’s intention to put
+  in a word for him. Torven confirms Elden often comes by in the
+  evenings and agrees to keep an eye out, giving Borian a clear path
+  to honest work.
+* Anchorfall’s status as a safe haven is reaffirmed; Torven continues
+  to see Borian as a polite but capable outsider.
+
+Scene 2 – The Drowned Lantern Alley and Rulfen
+* Borian heads toward the harbor, using the early hour to learn the
+  streets around Frostmere Row and the waterfront.
+* A light fall of snow and sleet reveals tracks: narrow-heeled,
+  pointed-toe prints that stand out from the heavier laborers’ boots,
+  leading into a side alley near the Drowned Lantern stretch of the
+  docks.
+* In the alley he notes a moved crate and a small broken metal clasp
+  or nail near where a lock might have been fixed. The scene suggests
+  a disturbed drop or tampered stash.
+* Sensing he is not alone, Borian uses Prestidigitation to create a
+  creaking “above” sound and a gust-like sensation meant to make the
+  hidden watcher flinch, then slips out of the alley mouth to avoid
+  being cornered.
+* A man with a crossbow, Rulfen, approaches along the street rather
+  than from the alley. He is cautious but professional, clearly not
+  common guard nor random thug.
+* Rulfen reveals he is an independent troubleshooter hired by a local
+  guild to watch “drops” in the Drowned Lantern area that have been
+  going missing. He presses gently on whether Borian is involved.
+* Borian offers a partial read of the scene: the unusual footwear, the
+  disturbed crate, and the broken clasp. He makes it clear he was
+  curious, not complicit, and prefers to see a threat head-on rather
+  than risk a knife in the back.
+* He deduces aloud that hiring an outsider suggests the guild either
+  lacks internal capacity or wants to keep this quiet from its own
+  people. This lands with Rulfen, who neither confirms nor denies but
+  notes the insight.
+* Borian declines immediate entanglement but leaves a line open:
+  Rulfen can contact him at the Anchorfall Inn via Torven if another
+  pair of hands is needed. He tosses Rulfen the broken clasp fragment
+  before departing.
+(DM Note: Rulfen is a competent, observant operator with a quiet moral
+floor. He tags Borian as cautious, perceptive, and not easily pushed
+into opaque work.)
+
+Scene 3 – Shrines, Names, and Lay on Hands
+* Continuing along the harbor, Borian notices a small, weathered
+  shrine to the Tidemother at the end of a pier, tended by local
+  families. An elderly woman kneels there, clearly anxious.
+* A History check (12) recalls that such shrines are common in
+  Varengate for sailors and fishers; they are more household-devotional
+  than formal temple.
+* Borian kneels beside her, asks gently about her concern, and learns
+  that her son, Joren, has gone to sea and has not yet returned. She
+  fears the unpredictable northern waters.
+* He takes her hands and offers a full voiced prayer to the Tidemother
+  for Joren’s safe passage and for those who wait on the shore, tying
+  seafaring danger to the quiet endurance of families left behind.
+* The woman, moved, presses two silver pieces on him. Borian insists
+  he needs no payment but ultimately accepts only one, subtly slipping
+  a coin back into her hand and closing her fingers around it, saying
+  he will “pay it forward” for others.
+* She departs comforted; Borian leaves with +1 sp and the name “Joren”
+  pinned to a growing mental map of Varengate’s people.
+* Later along the docks, Borian notices a young dockhand with a rope-
+  burned and cut hand. He offers to take a look.
+* A clumsy initial medical inspection (Medicine 1) does little on its
+  own, but Borian follows with Lay on Hands, spending 1 point from his
+  pool to close the wound and restore the young man’s strength.
+* The dockhand returns to work with renewed vigor and a story about
+  the quiet elf who fixed his hand in a heartbeat.
+(DM Note: This is the campaign’s first in-world use of Lay on Hands.
+Counts as 1 training/faith scene for any future devotion or divine
+focus tracking.)
+
+Scene 4 – The High Ridge and the Notice Board
+* Borian climbs the East Lane switchbacks from the harbor toward the
+  high ridge, taking care to learn the switchback path and sight-lines
+  over the city.
+* At the top he finds a civic cluster: modest stone buildings, a pair
+  of mercenaries on informal watch, and a well-used notice board.
+* The board carries various posts; two stand out:
+  - A rat-clearing job at the western granary, posted by Drett.
+  - A notice about a missing fisherman, likely Joren or closely
+    related to his situation.
+* When Borian asks whether the contracts are “free for the taking” or
+  require registration, the mercenaries confirm he simply tears the
+  slip and then presents himself to the named contact.
+* Borian chooses the rat job as a likely quick win to establish
+  reputation and coin. He intentionally leaves the missing fisherman
+  notice in place for now but mentally tags it for a future return.
+(DM Note: The missing-fisher notice is indeed linked to Joren. This is
+a seeded follow-on thread rather than an obligation.)
+
+Scene 5 – Drett’s Granary and the Rat Fight
+* At the western granary Borian meets Drett, an overworked but
+  practical foreman worried about spoiled grain and unnerving noise
+  from below.
+* Drett explains that rats have always existed, but recently they seem
+  bolder, appearing at odd hours and gnawing near the outer wall.
+* Borian asks about light and access. Drett provides a hooded lantern
+  and, eventually, a ring of keys to internal storage spaces.
+* At the hatch leading down into the basement, Borian lights the
+  lantern but leaves it above the hatch, relying on his darkvision to
+  scout first.
+* From the top he sees two oversized rats moving among scattered
+  sacks. Along the far earth wall, the ground looks disturbed, as if a
+  burrow or something similar has been pushed up recently.
+* Borian casts Shield of Faith, boosting his armor, then drops to the
+  basement floor with sword drawn and advances.
+* Combat unfolds against two giant rats:
+  - Borian uses Prestidigitation to throw a shower of sparks as he
+    lunges, rattling the vermin.
+  - He cuts down the first rat with heavy slashing damage.
+  - The second rat, larger and subtly wrong, bites through his
+    defenses once despite his raised AC.
+  - Borian responds with disciplined follow-up blows, finally killing
+    the larger rat. The brief fight underscores that these are not
+    ordinary cellar pests.
+* After combat, he uses Lay on Hands on himself, spending 4 points to
+  restore his health to full. His Lay on Hands pool is now fully
+  expended for the day.
+(DM Note: Combat difficulty was on the light side but framed as a
+solo, low-level encounter tailored to match CR 1/8 creatures with
+environmental tension.)
+
+Scene 6 – The Wall That Hums
+* With the immediate threat ended, Borian sweeps the basement for more
+  rats (Perception 16). No further movement, but the far earth wall
+  near the disturbed ground feels subtly “wrong” to him.
+* He returns upstairs, retrieves the lantern properly, and invites
+  Drett to see. The foreman reluctantly joins him with a second light.
+* Back at the wall, Borian conducts a closer look in full light and
+  uses his senses for anything beyond the mundane.
+* An Arcana check (13) reveals a faint, upward seep of magical
+  influence from below. It is not an active spell or glyph, but the
+  ground feels like it has been “touched” by something that left a
+  residue. There is a barely-perceptible humming in his bones and a
+  chill that is not simply the cellar draft.
+* Borian questions Drett about tunnels, old foundations, or adjoining
+  cellars. Drett explains that many warehouses and granaries in this
+  part of the city once had interconnected storage tunnels; most have
+  been sealed or allowed to fall into disuse, but some spaces remain
+  accessible or simply forgotten.
+* Nearest buildings include other storage houses, empty or lightly
+  used, and a guild storehouse across the street.
+* Borian advises Drett to move grain away from the suspect wall and
+  to raise as much as possible off the floor until the source is
+  understood. Drett, worried and grateful, pulls out a ring of keys
+  so Borian can inspect neighboring storage spaces.
+* The session ends with Borian and Drett in the alley behind the
+  granary standing at the door of the shed ready to investigate what
+  lies beyond.
+
+
+SESSION END SUMMARY
+-----------------------------------------------------------------------
+Chronicle Subtitle (if applicable):
+“Rats, Prayers, and Quiet Deals”
+
+Time of Session End:
+Early morning of Day 2 in Varengate, shortly after sunrise over the
+harbor, inside the western granary.
+
+XP Awarded (and reason if milestone-based):
+* Total XP this session: 150 XP
+  - 50 XP – Combat: Two giant rats (CR 1/8 each) defeated solo.
+  - 25 XP – Exploration: meaningful harbor exploration
+  - 25 XP - Social / Character Impact: gained favor with Torven, first
+            faith-bound aid at the shrine (moral influence), provided
+            healing to a local (influencing future harbor
+            interactions), and early footholds with Rulfen and Drett
+            establishing future hooks.
+  - 50 XP - Discovery: uncovered a mutated, non-natural threat,
+            environmental hazard, multilayered plot hook involving
+            contamination, smuggling, and an upper-quarter actor.
+
+Cumulative XP for Borian:
+* Previous total: 50 XP
+* New total: 200 XP
+
+Currency Change:
+* +1 sp – Gift from the elderly woman at the Tidemother shrine.
+* No payment yet from Drett; contract remains open until further
+  investigation and confirmation of resolution.
+* No tracked expenses this session beyond minor food already covered
+  in prior lifestyle accounting.
+
+Status (rested, injured, conditions, etc.):
+* Hit Points: Back to full by session end (Lay on Hands used).
+* Lay on Hands: All 5 points expended (4 on self, 1 on dockhand).
+* Spell Slots: One 1st-level spell slot used for Shield of Faith;
+  remaining slots per character sheet.
+* Conditions: None. Mild narrative fatigue only; no mechanical effect.
+* Rest: Elven trance completed before session events.
+
+Allies/Favors (with + values if tracked):
+* Torven (Anchorfall Inn) – Positive; sees Borian as reliable and
+  respectful; willing to pass messages (including from Elden Ward).
+* Sereth (Teahouse) – Friendly; prior promise to mention Borian to
+  Elden Ward still pending.
+* Rulfen (independent troubleshooter) – Neutral-Professional; intrigued
+  by Borian’s caution and insight; knows Borian’s inn and is willing
+  to hire or involve him if the situation escalates.
+* Drett (western granary foreman) – Positive; indebted for rat
+  clearance and advice; trusts Borian with keys to adjacent spaces.
+* Elderly harbor mother – Grateful; views Borian as a quiet holy man
+  tied to the Tidemother’s mercy.
+* Young dockhand – Grateful; informal goodwill and word-of-mouth in
+  the harbor worker community.
+
+Safe Haven or Current Location:
+* Safe Haven: Anchorfall Inn (Frostmere Row) remains Borian’s lodging
+  and social anchor in Varengate.
+* Current Scene Location at Session End: Western granary, basement
+  stair and cellar entrance, lantern lit, keys in hand, attention on
+  the suspect wall and adjoining storage spaces.
+
+
+WORLD CONTINUITY THREADS (HIDDEN)
+-----------------------------------------------------------------------
+* Drowned Lantern Drops:
+  A guild uses the Drowned Lantern stretch of the harbor for covert
+  dead-drops. Someone has begun interfering with those drops, leaving
+  disturbed crates, missing items, and small broken hardware like the
+  clasp Borian found. Rulfen’s employment indicates the guild does not
+  trust its own people or the Tideguard to solve this quietly.
+
+* Missing Fisherman – “Joren”:
+  The shrine scene and the missing-fisherman notice on the high-ridge
+  board refer to the same situation. Joren is overdue. This may lead
+  to a future contract involving sea hazards, smuggling routes, or
+  something stranger in the coastal waters. Emotional hook: Borian
+  has prayed for this specific name.
+
+* Granary Seep and Undercity:
+  The rats and disturbed earth are symptoms of a deeper phenomenon.
+  There is an undercity or tunnel network beneath this block, and
+  something magical or eldritch is bleeding upward through the soil.
+  The nature of the seep may tie into regional ley disturbances or
+  a local entity lairing below.
+
+* Harbor-Guild and Civic Tension:
+  The existence of independent troubleshooters like Rulfen and posted
+  jobs at civic boards points to a balance of power between guilds,
+  city officials, and the Tideguard. Varengate prefers problems to be
+  handled off the books when possible. Borian’s choices may pull him
+  toward one faction’s orbit.
+
+* Faith and the Tidemother:
+  Household-level devotion to the Tidemother reflects Varengate’s
+  culture. Borian’s public prayer and results at the shrine deepen
+  his reputation as a spiritually grounded outsider. This may open
+  doors with small folk, fishers, and some minor clergy or wardens.
+
+* Rules & Mechanics Reminders:
+  - Concentration: When Borian takes damage while maintaining spells
+    like Shield of Faith, prompt for Constitution saves to maintain
+    concentration.
+  - Resource Logging: Track Lay on Hands, spell slots, and similar
+    features session-by-session for continuity.
+
+
+STYLE & NOTES
+-----------------------------------------------------------------------
+Tone or POV cues:
+* Maintain Varengate’s feel as a hard, salt-bitten city where small
+  kindnesses matter and secrets are tucked under everyday commerce.
+* Keep Rulfen competent and wary rather than melodramatic. He is a
+  grounded point of contact in the Drowned Lantern thread.
+
+Formatting notes:
+* Continue using 72-character max line width, plain-text, UTF-8.
+
+Lore or cosmology notes to maintain continuity:
+* The Tidemother is a local harbor spirit with overlapping aspects of
+  older sea deities; keep references consistent.
+* The undercity beneath Varengate should feel old, layered, and built
+  atop earlier structures, not a single uniform tunnel network.
+
+
+=======================================================================
+CORE CONTINUITY CHRONICLE III - "Stone in the Grain"
+=======================================================================
+
+TIMEFRAME
+-----------------------------------------------------------------------
+Day 2 in Varengate, same in-world day as Session II.
+Session window: Late morning through early evening.
+
+Approximate clock:
+- ~08:00–09:30: Granary sheds with Drett.
+- ~10:00–11:30: Wharf 3B mediation.
+- ~11:30–12:15: Hall of Free Companies (mediation payment).
+- ~12:30–13:00: Meal at Anchorfall.
+- ~13:00–17:00: Elven trance (long rest) in Borian's room.
+
+WEATHER / ATMOSPHERE
+-----------------------------------------------------------------------
+Cold but clear winter day. Harbor wind sharp with salt. Frost and thin
+snow linger in shaded alleys, on shed roofs, and along quays. By late
+afternoon the light fades but the city remains fully active.
+
+LOCATIONS
+-----------------------------------------------------------------------
+- Western Granary District, three storage sheds behind the granary.
+- Hall of Free Companies on the ridge.
+- Lower Quays, Wharf 3B (North Star and Grey Gull berths).
+- Anchorfall Inn (common room and Borian's room).
+
+SESSION SUMMARY (HIGH LEVEL)
+-----------------------------------------------------------------------
+Borian, still wounded from the rat fight earlier that morning (Session
+II), assists Drett in examining three sheds behind the western granary.
+Each shows a different sign of disturbance rising from below the city,
+culminating in the discovery of carved stonework under the third shed.
+
+Afterward, Borian:
+- Turns in the rat-clearance slip at the Hall and is paid 5 silver.
+- Quietly takes two contracts from the board:
+  * Dockside mediation at Wharf 3B (completed this session).
+  * Frost-Kiln firewatch night shift (taken, not yet fulfilled).
+- Travels to Wharf 3B and resolves a near-brawl between two fishing
+  crews via formal mediation.
+- Is paid 12 silver at the Hall for the mediation.
+- Returns to Anchorfall, eats, and takes a four-hour elven trance,
+  recovering from his earlier injuries.
+
+DETAILED CONTINUITY – SCENE BY SCENE
+-----------------------------------------------------------------------
+
+Scene 1 – Western Granary Sheds (with Drett)
+-----------------------------------------------------------------------
+Context:
+- This picks up immediately after the rat fight and cellar work from
+  Session II. Borian is still bruised and bitten, but mobile.
+- Drett has asked Borian to check the sheds because of "strange noises"
+  and structural concerns.
+
+Shed One:
+- Borian listens at the door (Perception 16+2). He hears a slow,
+  unpleasant siphoning sound and catches a faint acrid, chemical smell.
+- He opens the door and observes from the threshold: ordinary storage
+  contents (rope, crates, grain sacks) but an off smell and the sense
+  of something underneath the floor near the back-left corner.
+- He steps in cautiously, testing the boards. There is a slightly soft
+  spot and subtle give near that corner.
+- After moving a crate with Drett's help, Borian exposes a hairline
+  crack between floorboards and a dark, damp stain.
+- Borian pries up the board (Athletics 16+5 = 21). Underneath:
+  * Disturbed earth, softened as if something tunneled or pressed up.
+  * Faint green-black viscous residue in the soil.
+  * A root- or tendril-like growth that twitches when exposed to air
+    and heat, then goes still. The siphoning sound stops.
+- No full creature encountered; just the tendril and residue. No XP
+  granted this session for combat (combat occurred in Session II).
+- Discussion with Drett:
+  * Drett is disturbed but remains functional.
+  * He suggests possible people who might understand such things:
+    - Merowin, an apothecary near Frostmere Row (herbalist with some
+      "weirder" knowledge).
+    - The Salvagers' Guild, who often expose old structures and scrap.
+  * An earlier mistaken mention of Elden Ward is struck from canon:
+    Drett does not know that name. (User caught this; DM corrected.)
+
+Shed Two:
+- The pair walk to the second shed.
+- Borian inspects the outside and threshold (Perception 5+2 = 7). No
+  obvious tracks, scrapes, or damage; snow appears undisturbed.
+- Drett unlocks and opens the door. Inside:
+  * A clear, unnatural frost rime on surfaces.
+  * Frost is heaviest toward the back-left corner, thinning toward the
+    door in a fan-like pattern.
+  * Two grain sacks along the left wall sag oddly as if moisture has
+    been pulled or frozen away.
+  * A faint, steady draft of very cold air rises from between the
+    floorboards.
+  * Borian, listening carefully from the threshold (Perception 20+2
+    earlier for this shed's interior scan), hears a very faint
+    crackling, like ice forming in a confined space below.
+- No creatures appear. No boards are lifted here.
+- Borian decides not to enter. He closes and locks the shed again at
+  Drett's request. They agree the phenomenon is not natural frost.
+
+Shed Three:
+- The third shed is older, with a newer lock but weathered boards.
+- Inside inspection:
+  * Borian steps in and looks around (Perception 2+2 = 4). He notices
+    the obvious: a slight upward bulge in the far-right corner of the
+    floor. No scent of decay, no frost, no residue visible.
+  * Dust is present, but with this low roll the finer dust patterns are
+    not discerned in detail.
+- Borian attempts to pry the bowed board alone (Athletics 5+5 = 10).
+  The board creaks but does not come free.
+- He calls Drett to assist. On a coordinated heave (Athletics 16+5 =
+  21), the board tears loose; nails rip out with a loud crack.
+- Beneath the boards:
+  * The earth has collapsed downward in a shallow basin, as if
+    something large moved beneath recently.
+  * At the center is a curved, dark, smooth surface: not earth, wood,
+    or metal, but worked stone.
+  * The exposed arc bears geometric carvings:
+    - Concentric arcs.
+    - Three precise intersecting notches.
+    - A narrow recessed groove that continues deeper into the soil.
+  * On closer examination (Investigation 20-1 = 19), Borian recognizes
+    the pattern as functional, not decorative—akin to dwarven
+    geometric notation used for mechanisms and structures. There is a
+    triangular sigil with a broken apex.
+  * Faint traces of the same green-black residue seen in Shed One mark
+    the carved groove, indicating something passed this point and
+    touched the stone recently.
+- Interpretation (DM-side, not spoken aloud):
+  * This segment of stone is part of a larger constructed form beneath
+    the granary—likely a chamber wall or conduit ceiling.
+  * The upward pressure that bowed the board came from the stone
+    itself shifting or from something beneath it pressing upward.
+
+Resolution with Drett:
+- Borian advises Drett not to call the Salvagers' Guild yet, warning
+  that they would turn the whole lane into a dig site and possibly make
+  things worse.
+- Drett agrees to:
+  * Lock all three sheds.
+  * Keep quiet about the disturbances.
+  * Wait for Borian to seek expert help (e.g., Merowin).
+- Drett closes and locks each shed in turn. This is a clear, explicit
+  agreement that no one else will be brought in without Borian's say.
+- Before Borian leaves:
+  * He presents the rat-clearance notice from earlier.
+  * Drett signs with his name and role and notes that:
+    - The infestation is cleared.
+    - Structures have been checked.
+    - Work is complete.
+  * Drett offers Borian a small packet of dried hearthfruit as a
+    personal token of thanks (extra reward beyond the contract rate).
+  * Borian offers a short blessing/prayer for Drett, asking that
+    generosity and honesty mark him. Drett accepts this respectfully.
+
+Scene 2 – Hall of Free Companies (Rat Contract & Job Board)
+-----------------------------------------------------------------------
+Rat Contract:
+- Borian travels back up to the Hall.
+- The city is fully awake by now; this is mid-to-late morning, not an
+  "early riser" period. (Continuity corrected explicitly in chat.)
+- At the counter:
+  * Borian turns in Drett's signed rat notice.
+  * The clerk initially mis-pays only 3 silver.
+  * Borian points out the posted job rate of 5 silver.
+  * The clerk confirms, apologizes, and adds 2 more silver for the
+    correct total of 5 sp.
+  * The slip is stamped as completed and archived.
+
+Job Board – Contracts Actually Seen and Described:
+- Borian then examines the notice board for changes and available work
+  (Perception 10+2 = 12).
+- Board state from this session:
+  * Rat contract: removed from play; marked as completed.
+  * Dockside Mediation – Wharf Dispute:
+    - Location: Wharf 3B.
+    - Dispute between crews of trawler North Star and longboat Grey
+      Gull over drift lines, damaged nets, and alleged boundary
+      violations.
+    - Reward: approx. 10–12 silver, payment from both captains.
+    - Notes: Specifically requests a neutral mediator not tied to
+      either crew.
+  * Frost-Kiln Firewatch – Night Shift:
+    - Location: Frost-Kiln workshop.
+    - Task: Night watch due to a recent attempted break-in.
+    - Reward: 20 silver.
+    - Timing: One night shift, "tonight".
+    - Status this session: Slip taken by Borian, but job not yet
+      begun or completed.
+  * Missing Fisher – Joren Vale:
+    - Posting predates session; updated at ninth bell with witness
+      sighting near the lower quays and a note of possible injury.
+    - Reward listed as 15 silver.
+    - Not pursued this session.
+  * Eastlane Caravan Guard Prep:
+    - One-shift non-travel guard/escort preparation for a caravan.
+    - Reward: 8 silver.
+    - Not pursued this session.
+  * Temple Repair – Shrine of the Tidemother:
+    - One-day contract to assist with storm damage repairs.
+    - Reward: 6 silver and offer of a blessing.
+    - Not pursued this session.
+  * Lost Parcel – South Row:
+    - Palm-length wooden box gone missing, suspected stolen.
+    - Reward: 5 silver.
+    - Not pursued this session.
+  * Salvagers' Guild Reserved Slot:
+    - A notice space held with a wax seal for the Salvagers' Guild,
+      but no text yet posted.
+- After confirming nobody is paying special attention to him (Perception
+  19+2 = 21), Borian attempts to take both:
+  * Dockside Mediation slip.
+  * Frost-Kiln Firewatch slip.
+- Sleight of Hand 1+1 = 2:
+  * The Frost-Kiln slip tears slightly and makes a soft sound.
+  * The clerk glances up, notices only that "something came off the
+    board", shrugs, and returns to his work.
+  * Mechanical result: Borian successfully takes both slips. Only the
+    clerk has a vague awareness that a posting was removed; no one else
+    tracks him or the slips.
+
+Scene 3 – Wharf 3B Mediation (North Star vs Grey Gull)
+-----------------------------------------------------------------------
+Arrival:
+- Borian travels from the Hall down to Wharf 3B.
+- He finds two crews facing off:
+  * North Star: Heavier-booted, older crew; Captain Halla.
+  * Grey Gull: Lighter, younger crew; Captain Marrek.
+- The argument is loudly escalating over damaged nets and alleged line
+  violations.
+- A nearby dockhand explains what he saw:
+  * North Star had inside line, Grey Gull outer.
+  * Sudden wind gust and channel current likely pushed Grey Gull's
+    lighter hull.
+  * Nets tangled fast; he could not clearly see which boat drifted
+    first.
+  * He believes there was no deliberate malice, just bad luck and
+    pride.
+
+Establishing Authority:
+- Borian raises the Hall slip and calls out, asking if someone requested
+  a neutral party.
+- Both captains confirm they did and recognize the mediator role.
+- Borian lays out terms:
+  * He has no allegiance to either crew.
+  * Both captains agree to be bound by his judgment.
+  * No further retribution or ill-will is to be carried between crews.
+  * If they are unhappy with the decision, their grievance is with him,
+    not each other.
+- Both captains accept these terms explicitly.
+
+Order of Testimony:
+- Borian uses a dragonchess piece as a draw. Halla chooses "dark".
+- The piece in Borian's hand is light.
+- Borian then asks Captain Marrek, as the "light" selection, whether he
+  chooses to speak first or defer.
+- Marrek chooses to speak first.
+
+Private Interview – Captain Marrek:
+- Insight check 19+2 = 21:
+  * Marrek is sincere: no malice, no attempt to sabotage.
+  * He is worried about coin and reputation but trying to be honest.
+- Marrek's account:
+  * A sudden wind and tricky channel current pushed his lighter hull
+    into Halla's drift line.
+  * Nets tangled; his crew began cutting to avoid dangerous entrapment.
+  * One of Halla's nets was ruined beyond simple repair; another may be
+    salvageable.
+  * He is willing to pay fair compensation but fears public humiliation
+    and being seen as weak.
+  * He estimates a fair magistrate's decision would total around 12–15
+    silver in damages (full for one net, partial for the other, plus
+    time lost).
+  * He can pay a few silver immediately, with the rest over the next
+    runs, but cannot pay the full amount at once without hurting his
+    crew.
+  * He insists he would not endanger Halla's crew or steal her catch.
+- He acknowledges that if drift is formally his responsibility, he must
+  pay something, but does not want the judgment twisted into a long-term
+  advantage for Halla.
+
+Private Interview – Captain Halla:
+- Insight check 9+2 = 11:
+  * Borian can tell she believes what she says, but some nuance may be
+    hidden under discipline and pride.
+- Halla's account:
+  * She set her nets where she always does.
+  * The channel in that area is known to have tricky currents.
+  * Wind and current together likely played a role, but in her view
+    Marrek runs too close, making drift inevitable.
+  * When the nets tangled, her crew hauled hard to save the line; his
+    crew cut fast.
+  * One of her nets shows a clean tear along the seam, which she sees
+    as evidence of overly aggressive cutting rather than careful
+    clearance.
+  * She does not claim sabotage, but she does see recklessness.
+  * She believes a magistrate would split responsibility—acknowledging
+    Marrek's drift as primary cause, but also noting that her crew's
+    reaction contributed to the damage.
+  * She wants the nets replaced and her crew's lost morning accounted
+    for, but does not seek to ruin Marrek.
+
+Joint Judgment and Public Resolution:
+- Borian calls both captains back together and has their crews assemble
+  to witness the settlement.
+- He frames his ruling:
+  * Acknowledges the hardships of sea life and the primary duty of a
+    captain to their crew's safety.
+  * States that tempers rose not from hatred but from fierce
+    responsibility.
+  * Affirms that no malice or neglect was found in Marrek's actions,
+    but that his drift and his crew's cutting did cause real damage and
+    lost earnings.
+- Specific terms Borian sets (explicit, at-table):
+  * Captain Marrek is liable for:
+    - 8 silver for the ruined net.
+    - 1 silver for the lost morning.
+    - Total: 9 silver.
+  * Marrek will provide Captain Halla with one fully serviceable net.
+  * In exchange, Halla will give Marrek the damaged net, which his crew
+    can attempt to repair.
+  * Marrek will pay:
+    - 2 silver immediately.
+    - The remaining 7 silver over the next three runs at most, with no
+      interest.
+- Both captains agree to these terms.
+- In front of both crews:
+  * Borian delivers a short speech stressing that lives saved matter
+    more than damaged nets, that tempers should not harden into
+    permanent feuds, and that they are "brothers and sisters at sea"
+    who may share the same deck one day.
+  * He orders them, in effect, back to their work: "Get back to those
+    riggings."
+- The captains:
+  * Shake hands publicly.
+  * Exchange nets as agreed.
+  * Marrek pays 2 silver on the spot.
+- Result:
+  * Crews stand down; shouting ends.
+  * Tidewardens on a nearby quay witness the resolution but do not
+    intervene.
+  * No ongoing hostility is evident at session end.
+
+Documentation:
+- Borian remembers to get the mediation notice signed.
+- Captain Halla signs first, with her name and title, marking the
+  dispute as resolved and terms accepted.
+- Captain Marrek signs after, acknowledging the agreed repayment.
+- The signed slip is now in Borian's possession and later turned in at
+  the Hall.
+
+Scene 4 – Hall of Free Companies (Mediation Payment)
+-----------------------------------------------------------------------
+- Borian returns to the Hall and presents the signed mediation notice.
+- The same clerk processes it:
+  * Reviews both signatures and terms.
+  * Notes that the dispute was resolved peacefully and formally.
+  * Pays Borian 12 silver for the completed mediation contract.
+- This 12 silver is the only payment from the Hall for this contract.
+  (No bonuses beyond the posted range.)
+
+Scene 5 – Anchorfall Inn and Long Rest
+-----------------------------------------------------------------------
+- Borian returns to the Anchorfall Inn.
+- Torven observes his bruised, exhausted state and seats him near the
+  hearth.
+- Torven brings:
+  * A bowl of fish-and-barley stew.
+  * Warm bread.
+  * A small cup of herbal drink/tonic.
+- Torven insists the meal is on the house given Borian's condition.
+- Borian eats and warms himself, then thanks Torven and heads to his
+  room, promising to share details later.
+- In his room:
+  * Borian removes gear and settles onto the bed.
+  * He enters a four-hour elven trance.
+  * This counts as a long rest for Borian.
+- By the time the trance ends, it is early evening (around the tenth
+  bell). The inn is active with the early evening crowd. We end the
+  session here, with Borian recovered.
+
+MECHANICAL / STATE UPDATES
+-----------------------------------------------------------------------
+
+XP This Session:
+- No new combat XP (rat combat was in Session II).
+- 200 XP total this session:
+  * 100 XP – multi-shed investigation and meaningful discovery of the
+    ancient structure and anomalies beneath the granary.
+  * 100 XP – dockside mediation (complex social encounter) resolved
+    cleanly and bindingly with both captains' cooperation.
+
+Currency Changes (Session III only):
+- +5 silver – rat contract payment (Hall, corrected from 3 to 5).
+- +12 silver – mediation payment (Hall).
+- 0 expense for meal at Anchorfall (Torven comped).
+- Net session gain: +17 silver.
+
+Items and Contracts:
+- New tangible item:
+  * Small packet of dried hearthfruit from Drett.
+- Contracts:
+  * Rat contract – completed and closed in this session.
+  * Dockside mediation – completed and closed in this session.
+  * Frost-Kiln firewatch – slip taken; work not yet begun by session
+    end (night shift still ahead).
+
+Allies / Relationships:
+- Drett (Foreman, West Granary):
+  * Grateful, discreet.
+  * Has agreed to keep the shed disturbances secret and the sheds
+    locked until Borian advises otherwise.
+- Captain Halla (North Star):
+  * Respects Borian's fairness and authority.
+  * No active grudge toward Marrek after the settlement.
+- Captain Marrek (Grey Gull):
+  * Relieved and grateful for a fair judgment.
+  * Bound by honor and reputation to fulfill the 7 silver repayment
+    over his next runs.
+
+HIDDEN DM THREADS (NOT FOR CODEX)
+-----------------------------------------------------------------------
+- Granary understructure:
+  * The carved stone beneath Shed Three is part of an older, hidden
+    system under Varengate—likely dwarven or dwarf-taught origin.
+  * The green-black residue and the tendril-like growths represent an
+    intrusive or leaking phenomenon from below. Its exact nature is
+    undecided but should remain consistent with prior residue behavior.
+- Frost and Cold:
+  * Shed Two's radiating cold is a distinct but related manifestation,
+    indicating multiple "points of pressure" from the deeper structure
+    or environment beneath the city.
+- Frost-Kiln Contract:
+  * Outstanding contract that could intersect with undercity or criminal
+    activity, depending on future session choices. No events tied to it
+    occurred this session.
+- Missing Fisher – Joren Vale:
+  * Updated posting is on the board. No action taken this session.
+    Remains as a potential future hook.
+
+SESSION END STATE
+-----------------------------------------------------------------------
+- Location: Anchorfall Inn, Borian's room, immediately after completing
+  a four-hour trance (long rest).
+- Time: Early evening (approx. tenth bell).
+- Condition: Fully recovered from earlier wounds; no active conditions.
+- Outstanding hooks:
+  * Frost-Kiln firewatch contract for "tonight".
+  * Granary understructure anomalies (three sheds).
+  * Merowin the apothecary as a potential expert.
+  * Missing fisher posting and other board jobs (unclaimed).
+
