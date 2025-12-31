@@ -1,1 +1,177 @@
+=======================================================================
+ELARIS CHRONICLE – SESSION V – "ECHOES BROUGHT TO LIGHT"
+=======================================================================
 
+TIMEFRAME
+-----------------------------------------------------------------------
+Day 4 in Varengate, late morning to early night. Session spans from
+shortly after the 5th Bell (~9 AM) to onset of the 11th Bell (~11 PM).
+
+WEATHER / ATMOSPHERE
+-----------------------------------------------------------------------
+Cold autumn day; mid-tier wind steady but not biting. Clear sky with
+slanted afternoon sun. Ridge gusts intensify toward evening. Harbor
+breeze carries salt and smoke through the lower lanes.
+
+LOCATIONS
+-----------------------------------------------------------------------
+- Grayharp Market
+- Hall of Free Companies
+- East-tier Municipal Grain Shed
+- Frost-Kiln Ventworks (Artisan Tier)
+- Cartwright’s Tiny Grill
+- Rizenwash Baths
+- Varrin’s Tinctures & Brews
+- Terrace Overlook (Lower Ridge)
+- Anchorfall Inn
+
+SESSION SUMMARY (HIGH LEVEL)
+-----------------------------------------------------------------------
+- Borian completed four low-risk Hall contracts in the morning.
+- Borian met the shard-bearer at the terrace as agreed.
+- A clear intermediary role formed between shard-bearer and Aleron.
+- Borian relayed Aleron’s terms; shard-bearer requested Aleron’s
+  support directly.
+- Borian retrieved Aleron and withdrew from the forthcoming encounter.
+- Evening concluded at Anchorfall Inn; Borian rested in trance.
+
+DETAILED CONTINUITY – SCENE BY SCENE
+-----------------------------------------------------------------------
+
+Scene 1 – MORNING CONTRACT RUN
+-----------------------------------------------------------------------
+Borian departed the Hall for Grayharp Market with the sealed message
+for Steward Halden Varrick. Delivery completed without issue; receipt
+properly signed. No interference or tail during the route. Borian
+returned to the Hall and received payout of 6 sp for the delivery.
+
+With approval from Feldrin, Borian accepted the next two tasks due to
+their close proximity. Rat-sign inspection at the municipal grain shed
+revealed no tunneling or spoor; notice signed by clerk. Frost-Kiln
+temperature assessment performed cleanly; apprentice verified reading,
+and day-shift clerk signed the slip. Returned to Hall for payout of
+1 gp 4 sp for the three completed tasks. No hazards or branching
+events occurred during these civic checks.
+
+Scene 2 – MARKET BREAKFAST AND OBSERVATION
+-----------------------------------------------------------------------
+At Cartwright’s Tiny Grill, Borian purchased two rolls and birch brew.
+No suspicious behavior or hostile observers detected. Seating remained
+available; no unintended social tension in the cramped space. Borian
+completed meal uneventfully, maintaining low profile in artisan tier.
+
+Scene 3 – RIZENWASH BATHHOUSE
+-----------------------------------------------------------------------
+Full-service bath purchased (8 sp). Standard wash, soaproot scrub, and
+soak performed. No narrative hooks or NPC leads triggered. Bathhouse
+attendant gave information about procuring tinctures; referenced Varrin
+and Fenwater as reliable sources. NOTE: The mention of Fenwater shop
+does not create new Herda branch; it is generic apothecary direction.
+
+Scene 4 – VARRIN’S TINCTURES & BREWS
+-----------------------------------------------------------------------
+Borian inquired about restorative tinctures and healing potions. Varrin
+explained RAW-compliant inventory; no sale occurred. Borian asked about
+unusual items; Varrin provided overview of several non-magical but
+exotic alchemical goods (Breather’s Draught, Wandering-Tongue, Shade-
+Drop, Sigh-Jar). No purchase made. No secret interaction triggered.
+
+Scene 5 – PREPARATION AT TERRACE OVERLOOK
+-----------------------------------------------------------------------
+Borian arrived at the terrace approximately after the 9th Bell (~3:30
+PM). He meditated and maintained situational awareness. Shard-bearer
+arrived on foot; approached openly. No threat behavior. Borian relayed
+Aleron’s message precisely as instructed: Aleron seeks preservation of
+memory, not ownership, and offers support or distance as requested.
+
+Shard-bearer clarified he obtained the shard only recently from Tavren.
+He confirmed he could not face Herda alone and requested Aleron’s
+presence. No contradiction to prior continuity; no false claims made.
+
+Scene 6 – RETRIEVING ALERON
+-----------------------------------------------------------------------
+Borian located Aleron at the Upper Ridge Overlook per prior agreement.
+Aleron accepted the request immediately. No hesitation or additional
+conditions. Aleron acknowledged Borian’s intermediary role and prepared
+to ascend.
+
+Borian formally stepped out of the arc, stating this is where his role
+in their story ends. Aleron proceeded alone up the terrace stairs.
+
+NOTE: The actual meeting between Aleron and the shard-bearer proceeds
+OFF-SCENE per player declaration.
+
+Scene 7 – RETURN TO ANCHORFALL INN
+-----------------------------------------------------------------------
+Borian returned to Anchorfall. He informed Torven that the job he was
+asked to relay (the shard-related matter) was concluded in spirit,
+though payment had not yet been rendered. Torven affirmed he would pass
+coin quietly when Aleron comes.
+
+Borian ate roast hen dinner and honeyed-brandy cider. No new hooks or
+NPC entanglements. Retired to room, performed gear maintenance, and
+entered trance.
+
+ALLIES / RELATIONSHIPS CHANGES
+-----------------------------------------------------------------------
+- Aleron: Strengthened trust; sees Borian as honest intermediary.
+- Torven: Minor increase in respect; acknowledges Borian’s discretion.
+- Shard-bearer: Neutral-to-Respectful; no ongoing tie unless revived.
+
+ITEMS / CONTRACTS CHANGES
+-----------------------------------------------------------------------
+- Items: No additions or losses.
+- Contracts Completed:
+  * Parcel Delivery – COMPLETED
+  * Rat-Sign Check – COMPLETED
+  * Frost-Kiln Temperature Check – COMPLETED
+  * Grayharp Message Delivery – COMPLETED
+- Shard Recovery (Aleron): NARRATIVE CLOSURE PENDING, but Borian’s
+  involvement concluded. Payment owed but not yet delivered.
+- Granary Understructure & Missing Fisher: UNCHANGED and STILL OPEN.
+
+HIDDEN DM THREADS (NOT FOR CODEX)
+-----------------------------------------------------------------------
+- Aleron’s identity: No reveal yet, but his connection to Surnhal
+  memory-looms remains active. He will complete the shard-bearer
+  meeting off-screen. Potential future hook: lineage restoration.
+- Shard-bearer’s role: He is a terminal vector for this branch; no
+  reappearance unless Aleron fails. His knowledge ties back to minor
+  Surnhal line events; not a major NPC.
+- Herda Fenwater: Her world-state may shift depending on Aleron’s
+  off-screen outcome. No immediate danger or instability.
+- Grayharp/Kiln/Grain-shed tasks: Routine civic worldbuilding; no
+  hidden events triggered.
+- Torven: Passively monitors Borian’s reputation. Positive trajectory.
+- City Timeline: Sunset approaching during Aleron-shard-bearer meetup.
+  No world-events scheduled this night.
+
+SESSION END STATE (SUMMARY)
+-----------------------------------------------------------------------
+XP This Session: 235
+XP Total: 1035 (LEVEL 3 ACHIEVED)
+
+Coin Change:
+- Income: 1 gp 10 sp
+- Expenses: 2 gp 15 sp
+- Net: –1 gp 5 sp
+Final Coin: 8 gp, 50 sp, 0 cp
+
+Location at End: Anchorfall Inn (room)
+Time at End: ~11th Bell (11 PM equivalent)
+
+Conditions: None; fully rested after trance.
+
+Hooks:
+- Minor Arc: Await possible payment from Aleron (quiet hand-off).
+- Open Contracts: Granary Understructure / Missing Fisher.
+- Optional: Visit Gildery Stacks for study when desired.
+
+Contracts:
+- Shard Recovery (Aleron): FUNCTIONALLY COMPLETE for Borian.
+- Three civic checks (Rat/Kiln/Parcel): CLOSED.
+- Grayharp Delivery: CLOSED.
+
+=======================================================================
+END OF SESSION V
+=======================================================================
